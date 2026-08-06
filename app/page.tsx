@@ -9,14 +9,14 @@ const articlesData: Record<string, { title: string; category: string; summary: s
     summary: "Phân tích nguyên nhân lắng cặn mực UV khô, phương pháp vi tuần hoàn kiềm dầu không làm hại màng Piezo bán dẫn.",
     content: `
       <p class="text-slate-600 leading-relaxed mb-4">Đầu in Ricoh Gen5 (MH5420/5440) và Gen6 (MH5320/5340) là công nghệ đầu phun UV phổ biến nhất trong ngành in công nghiệp. Với cấu trúc màng Piezo bán dẫn siêu mịn, nghẹt mảng bám mực UV khô là sự cố nguy hiểm nhất.</p>
-      <h4 class="font-bold text-navy-900 text-base mb-2">Quy trình 4 bước cứu hộ tại VNPIS Lab:</h4>
+      <h4 class="font-bold text-slate-900 text-base mb-2">Quy trình 4 bước cứu hộ tại VNPIS Lab:</h4>
       <ol class="list-decimal pl-5 text-sm text-slate-700 space-y-2 mb-4">
         <li><strong>Chẩn đoán kính hiển vi 1000x:</strong> Kiểm tra xem Nozzle Plate có bị trầy màng mạ Hydrophobic không.</li>
         <li><strong>Sục rửa hoá chất kiềm dầu tuần hoàn:</strong> Bơm dung dịch giải phóng hạt sắc tố UV ở 45°C.</li>
         <li><strong>Siêu âm tần số kép 28kHz/40kHz:</strong> Đánh tan cặn mực không làm bóc tách khoang chứa mực.</li>
         <li><strong>Kiểm tra xung đạn Waterfall:</strong> Đo trở kháng màng Piezo và phát video soi 4K nghiệm thu.</li>
       </ol>
-      <div class="p-4 bg-navy-50 rounded-xl text-navy-900 font-semibold text-sm">📞 Hotline tư vấn kỹ thuật Ricoh: 0987 453 866 (Zalo 24/7)</div>
+      <div class="p-4 bg-blue-50 border border-blue-100 rounded-xl text-blue-900 font-semibold text-sm">📞 Hotline tư vấn kỹ thuật Ricoh: 0987 453 866 (Zalo 24/7)</div>
     `
   },
   "kyocera-kj4a": {
@@ -25,13 +25,13 @@ const articlesData: Record<string, { title: string; category: string; summary: s
     summary: "Giải pháp cho các dòng đầu in công nghiệp khổ lớn bị sai lệch tia, đứt nét dòng in dữ liệu biến đổi (VDP).",
     content: `
       <p class="text-slate-600 leading-relaxed mb-4">Đầu in Kyocera KJ4A (600 dpi) và Konica 1024i (SHE 6pl) sở hữu tốc độ in hàng đầu trong ngành in Dữ liệu biến đổi (VDP) và QR Code bao bì. Việc sử dụng mực trôi nổi có hạt pigment >500nm rất dễ làm nghẹt ống dẫn mực vi mô.</p>
-      <h4 class="font-bold text-navy-900 text-base mb-2">Giải pháp xử lý từ VNPIS Lab:</h4>
+      <h4 class="font-bold text-slate-900 text-base mb-2">Giải pháp xử lý từ VNPIS Lab:</h4>
       <ul class="list-disc pl-5 text-sm text-slate-700 space-y-2 mb-4">
         <li>Phục hồi 95% đường in đứt nét, lệch tia bắn.</li>
         <li>Cân chỉnh điện áp sạc piezo theo tiêu chuẩn nhà sản xuất Kyocera & Konica Minolta.</li>
         <li>Cam kết <strong>No Cure - No Pay</strong> (Không phục hồi thành công - Không tính phí).</li>
       </ul>
-      <div class="p-4 bg-navy-50 rounded-xl text-navy-900 font-semibold text-sm">🔬 Lab Center: 62 Trần Thị Nơi, P.4, Q.8, TP.HCM</div>
+      <div class="p-4 bg-blue-50 border border-blue-100 rounded-xl text-blue-900 font-semibold text-sm">🔬 Lab Center: 62 Trần Thị Nơi, P.4, Q.8, TP.HCM</div>
     `
   },
   "epson-i3200": {
@@ -40,9 +40,9 @@ const articlesData: Record<string, { title: string; category: string; summary: s
     summary: "Hướng dẫn nhận biết tình trạng chập mạch màng film, đứt vách thông kênh và cách phòng ngừa hỏng hóc khi ngâm hoá chất.",
     content: `
       <p class="text-slate-600 leading-relaxed mb-4">Đầu in Epson I3200-A1/E1/U1 có mật độ vách ngăn rất mỏng. Việc ép xi-lanh xả mực bằng tay với lực nén lớn dễ gây rách vách thông kênh, làm mực màu này tràn sang màu khác.</p>
-      <h4 class="font-bold text-navy-900 text-base mb-2">Lời khuyên từ kỹ sư VNPIS:</h4>
+      <h4 class="font-bold text-slate-900 text-base mb-2">Lời khuyên từ kỹ sư VNPIS:</h4>
       <p class="text-sm text-slate-700 mb-4">Tuyệt đối không dùng dung dịch tẩy rửa chứa Axeton nồng độ cao ngâm ngập đầu in. Hãy mang đến VNPIS Lab để được kiểm tra đo áp suất chân không an toàn.</p>
-      <div class="p-4 bg-navy-50 rounded-xl text-navy-900 font-semibold text-sm">📧 Email báo giá: info@vnpis.com | Hotline: 0987 453 866</div>
+      <div class="p-4 bg-blue-50 border border-blue-100 rounded-xl text-blue-900 font-semibold text-sm">📧 Email báo giá: info@vnpis.com | Hotline: 0987 453 866</div>
     `
   },
   "cij-ink": {
@@ -51,7 +51,7 @@ const articlesData: Record<string, { title: string; category: string; summary: s
     summary: "Bảng thông số mực in date khô nhanh, bám dính siêu cường trên màng PE, túi snack, vỏ chai PET và cáp điện.",
     content: `
       <p class="text-slate-600 leading-relaxed mb-4">VNPIS cung cấp các dòng mực in phun liên tục CIJ và mực hộp TIJ HP45/45si tương thích 100% với các thương hiệu Videojet, Domino, Linx, Markem-Imaje.</p>
-      <h4 class="font-bold text-navy-900 text-base mb-2">Ưu điểm vượt trội:</h4>
+      <h4 class="font-bold text-slate-900 text-base mb-2">Ưu điểm vượt trội:</h4>
       <ul class="list-disc pl-5 text-sm text-slate-700 space-y-2 mb-4">
         <li>Khô ngay trong 1-2 giây trên màng PE, túi snack, vỏ chai PET, thủy tinh, kim loại.</li>
         <li>Độ bám dính siêu cường, chịu nhiệt luộc sôi 121°C và kháng cồn alcohol.</li>
@@ -77,7 +77,7 @@ const articlesData: Record<string, { title: string; category: string; summary: s
     category: "Bảo Trì Nhà Máy",
     summary: "Phân tích thành phần hạt sắc tố pigment, độ nhớt cồn cặn và lý do chọn mực in đạt chuẩn RoHS/REACH bảo vệ màng phun.",
     content: `
-      <p class="text-slate-600 leading-relaxed mb-4">Mực in kém chất lượng chứa các hạt pigmet sắc tố thô kích thước >500nm dễ đọng lại ở phần cuống béc phun 20-30um, tạo ra các khối nghẹt mực chai cứng.</p>
+      <p class="text-slate-600 leading-relaxed mb-4">Mực in kém chất lượng chứa các hạt pigment sắc tố thô kích thước >500nm dễ đọng lại ở phần cuống béc phun 20-30um, tạo ra các khối nghẹt mực chai cứng.</p>
       <p class="text-sm text-slate-700 mb-4">VNPIS cung cấp dòng mực lọc nano siêu mịn tiêu chuẩn RoHS/REACH giúp kéo dài tuổi thọ đầu in gấp 3 lần.</p>
     `
   }
@@ -99,58 +99,59 @@ export default function Home() {
   });
 
   return (
-    <main className="font-sans text-slate-700 bg-white antialiased">
+    <main className="font-sans text-slate-800 bg-slate-50 antialiased selection:bg-blue-100 selection:text-blue-900">
       {/* Header Top Bar */}
-      <div className="bg-navy-950 text-navy-300 text-xs py-2 border-b border-navy-800">
+      <div className="bg-slate-900 text-slate-300 text-xs py-2.5 border-b border-slate-800">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-2">
           <div className="flex flex-wrap items-center gap-2 sm:gap-4 text-center sm:text-left">
             <span>🏛️ Trụ sở: 202 Lê Lai, P. Bến Thành, Q.1, TP.HCM</span>
-            <span className="hidden md:inline">&bull;</span>
+            <span className="hidden md:inline text-slate-600">&bull;</span>
             <span className="hidden md:inline">🔬 Lab Center: 62 Trần Thị Nơi, P.4, Q.8, TP.HCM</span>
           </div>
           <div className="flex items-center gap-4 font-semibold">
-            <a href="tel:0987453866" className="text-amber-400 hover:underline">📞 Hotline/Zalo: 0987 453 866</a>
-            <span>&bull;</span>
-            <a href="mailto:info@vnpis.com" className="hover:text-white">✉️ info@vnpis.com</a>
+            <a href="tel:0987453866" className="text-blue-400 hover:text-blue-300 transition-colors">📞 Hotline/Zalo: 0987 453 866</a>
+            <span className="text-slate-600">&bull;</span>
+            <a href="mailto:info@vnpis.com" className="hover:text-white transition-colors">✉️ info@vnpis.com</a>
           </div>
         </div>
       </div>
 
       {/* Header Main */}
-      <header className="sticky top-0 z-40 bg-navy-900/95 backdrop-blur border-b border-navy-700 shadow-lg">
+      <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-slate-200 shadow-sm">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
-          <div className="flex items-center justify-between h-[4.5rem]">
+          <div className="flex items-center justify-between h-20">
+            {/* Logo vector badge */}
             <a href="#" className="flex items-center gap-3 group">
-              <img
-                src="VNPIS_logo.png"
-                alt="VNPIS Lab — Cứu Hộ Đầu In Kỹ Thuật Số"
-                className="h-11 w-auto object-contain bg-white rounded-lg px-2 py-1 shadow-sm group-hover:shadow-md transition-shadow"
-              />
-              <div className="hidden sm:block text-left">
-                <div className="text-white font-bold text-base leading-none">VNPIS LAB</div>
-                <div className="text-navy-300 text-xs font-medium">Trung tâm Cứu hộ Đầu in Số 1 VN</div>
+              <div className="h-11 w-11 rounded-xl bg-gradient-to-tr from-blue-600 to-indigo-600 flex items-center justify-center text-white shadow-md shadow-blue-500/20 group-hover:scale-105 transition-transform">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z" />
+                </svg>
+              </div>
+              <div className="text-left">
+                <div className="text-slate-900 font-extrabold text-xl leading-none tracking-tight">VNPIS <span className="text-blue-600">LAB</span></div>
+                <div className="text-slate-500 text-xs font-medium mt-1">Trung tâm Cứu hộ & Phục hồi Đầu in</div>
               </div>
             </a>
 
-            <nav className="hidden md:flex items-center gap-7">
-              <a href="#quy-trinh-lab" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Quy Trình Lab</a>
-              <a href="#dau-in-ho-tro" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Đầu In Hỗ Trợ</a>
-              <a href="#kien-thuc" className="text-amber-300 hover:text-white text-sm font-bold transition-colors flex items-center gap-1">
-                📚 Kho 121 Bài Viết
+            <nav className="hidden md:flex items-center gap-8">
+              <a href="#quy-trinh-lab" className="text-slate-600 hover:text-blue-600 text-sm font-semibold transition-colors">Quy Trình Lab</a>
+              <a href="#thong-so-ky-thuat" className="text-slate-600 hover:text-blue-600 text-sm font-semibold transition-colors">Thông Số Đầu In</a>
+              <a href="#kien-thuc" className="text-blue-600 hover:text-blue-700 text-sm font-bold transition-colors flex items-center gap-1.5">
+                📚 Kho 121 Bài Viết Kỹ Thuật
               </a>
-              <a href="#tra-cuu-qr" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Tra Cứu QR</a>
-              <a href="#lien-he" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Liên Hệ VNPIS</a>
+              <a href="#tra-cuu-qr" className="text-slate-600 hover:text-blue-600 text-sm font-semibold transition-colors">Tra Cứu QR</a>
+              <a href="#lien-he" className="text-slate-600 hover:text-blue-600 text-sm font-semibold transition-colors">Liên Hệ VNPIS</a>
             </nav>
 
             <div className="hidden lg:flex items-center gap-3">
-              <a href="#lien-he" className="px-5 py-2.5 bg-amber-400 text-navy-950 font-bold rounded-xl text-sm hover:bg-amber-300 transition-colors shadow-md">
+              <a href="#lien-he" className="px-5 py-2.5 bg-blue-600 text-white font-bold rounded-xl text-sm hover:bg-blue-700 transition-colors shadow-md shadow-blue-500/20">
                 🚀 Gửi Đầu In Cứu Hộ
               </a>
             </div>
 
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="md:hidden p-2 text-navy-100 hover:text-white"
+              className="md:hidden p-2 text-slate-600 hover:text-slate-900"
               aria-label="Mở menu"
             >
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -160,250 +161,232 @@ export default function Home() {
           </div>
 
           {mobileMenuOpen && (
-            <nav className="md:hidden pb-4 border-t border-navy-700 pt-3 space-y-1">
-              <a href="#quy-trinh-lab" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Quy Trình Lab</a>
-              <a href="#dau-in-ho-tro" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Đầu In Hỗ Trợ</a>
-              <a href="#kien-thuc" className="block px-3 py-2 text-amber-300 font-bold hover:text-white hover:bg-navy-800 rounded-md text-sm">Kho 121 Bài Viết Kỹ Thuật</a>
-              <a href="#tra-cuu-qr" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Tra Cứu QR Video</a>
-              <a href="#lien-he" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Liên Hệ VNPIS</a>
+            <nav className="md:hidden pb-4 border-t border-slate-100 pt-3 space-y-1">
+              <a href="#quy-trinh-lab" className="block px-3 py-2 text-slate-700 hover:bg-blue-50 hover:text-blue-600 rounded-lg text-sm font-medium">Quy Trình Lab</a>
+              <a href="#thong-so-ky-thuat" className="block px-3 py-2 text-slate-700 hover:bg-blue-50 hover:text-blue-600 rounded-lg text-sm font-medium">Thông Số Đầu In</a>
+              <a href="#kien-thuc" className="block px-3 py-2 text-blue-600 font-bold hover:bg-blue-50 rounded-lg text-sm">Kho 121 Bài Viết Kỹ Thuật</a>
+              <a href="#tra-cuu-qr" className="block px-3 py-2 text-slate-700 hover:bg-blue-50 hover:text-blue-600 rounded-lg text-sm font-medium">Tra Cứu QR Video</a>
+              <a href="#lien-he" className="block px-3 py-2 text-slate-700 hover:bg-blue-50 hover:text-blue-600 rounded-lg text-sm font-medium">Liên Hệ VNPIS</a>
             </nav>
           )}
         </div>
       </header>
 
-      {/* Hero Section */}
-      <section className="relative bg-navy-900 overflow-hidden text-white">
-        <div className="absolute inset-0 opacity-25">
-          <div className="absolute top-0 right-0 w-[30rem] h-[30rem] bg-navy-500 rounded-full blur-3xl -translate-y-1/2 translate-x-1/3"></div>
-          <div className="absolute bottom-0 left-0 w-[24rem] h-[24rem] bg-amber-500/20 rounded-full blur-3xl translate-y-1/2 -translate-x-1/4"></div>
-        </div>
-        
-        <div className="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-28 text-center">
-          <div className="inline-flex items-center gap-2 mb-6 px-4 py-1.5 rounded-full bg-navy-800 border border-navy-600 text-navy-200 text-xs sm:text-sm font-semibold tracking-wide uppercase">
-            <span>🔬 Chẩn Đoán Soi Nozzle 4K</span>
-            <span>&bull;</span>
-            <span>⚡ Đo Trở Kháng Piezo</span>
-            <span>&bull;</span>
-            <span className="text-amber-400">🛡️ No Cure - No Pay</span>
+      {/* Hero Section - Clean Light Theme */}
+      <section className="relative bg-gradient-to-b from-slate-50 via-blue-50/40 to-white border-b border-slate-200/80 py-16 sm:py-24 overflow-hidden">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center relative z-10">
+          <div className="inline-flex items-center gap-2 mb-6 px-4 py-2 rounded-full bg-white border border-blue-200 text-blue-700 text-xs sm:text-sm font-bold shadow-sm">
+            <span>🔬 Soi Nozzle Hiển Vi 1000x</span>
+            <span className="text-slate-300">&bull;</span>
+            <span>⚡ Siêu Âm Tần Số Kép</span>
+            <span className="text-slate-300">&bull;</span>
+            <span className="text-emerald-600 font-extrabold">🛡️ Cam Kết No Cure - No Pay</span>
           </div>
           
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight max-w-4xl mx-auto">
-            VNPIS Lab &mdash; Trung Tâm Cứu Hộ Đầu In Kỹ Thuật Số Số 1 Việt Nam
+          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold text-slate-900 leading-tight max-w-4xl mx-auto tracking-tight">
+            VNPIS Lab &mdash; Trung Tâm Cứu Hộ & Phục Hồi Đầu In Kỹ Thuật Số
           </h1>
           
-          <p className="mt-6 text-lg sm:text-xl text-navy-200 font-light max-w-3xl mx-auto leading-relaxed">
-            Phục hồi 90%&ndash;98% hiệu suất các dòng đầu in phun công nghiệp <strong className="text-white">Ricoh Gen5/Gen6, Kyocera KJ4A, Konica Minolta 1024i, Epson I3200/DX5, CIJ & TIJ</strong>. Tiết kiệm hàng trăm triệu đồng chi phí mua đầu in mới.
+          <p className="mt-6 text-base sm:text-xl text-slate-600 font-normal max-w-3xl mx-auto leading-relaxed">
+            Giải pháp chuyên sâu cứu hộ, thông béc nghẹt và phục hồi hiệu suất các dòng đầu in phun công nghiệp <strong className="text-slate-900 font-semibold">Ricoh Gen5/Gen6, Kyocera KJ4A, Konica Minolta 1024i, Epson I3200/DX5, béc CIJ & TIJ HP45</strong>.
           </p>
 
-          <div className="mt-8 flex flex-wrap justify-center gap-4 text-sm font-medium">
-            <div className="flex items-center gap-2 bg-navy-800/80 px-4 py-2 rounded-xl border border-navy-700">
-              <span className="text-amber-400">✓</span> Rửa siêu âm tần số kép 28kHz/40kHz
+          <div className="mt-8 flex flex-wrap justify-center gap-3 text-xs sm:text-sm font-semibold text-slate-700">
+            <div className="flex items-center gap-2 bg-white px-4 py-2.5 rounded-xl border border-slate-200 shadow-sm">
+              <span className="text-blue-600">✓</span> Siêu âm 28kHz/40kHz không bóc vách
             </div>
-            <div className="flex items-center gap-2 bg-navy-800/80 px-4 py-2 rounded-xl border border-navy-700">
-              <span className="text-amber-400">✓</span> Hoá chất vi tuần hoàn tan màng mực UV khô
+            <div className="flex items-center gap-2 bg-white px-4 py-2.5 rounded-xl border border-slate-200 shadow-sm">
+              <span className="text-blue-600">✓</span> Vi tuần hoàn kiềm dầu giải phóng mảng bám UV
             </div>
-            <div className="flex items-center gap-2 bg-navy-800/80 px-4 py-2 rounded-xl border border-navy-700">
-              <span className="text-amber-400">✓</span> Bắn test giọt đạn xung Waterfall thực tế
+            <div className="flex items-center gap-2 bg-white px-4 py-2.5 rounded-xl border border-slate-200 shadow-sm">
+              <span className="text-blue-600">✓</span> Video soi 4K nghiệm thu gắn tem mã QR
             </div>
           </div>
 
-          <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
-            <a href="#lien-he" className="w-full sm:w-auto px-8 py-4 bg-amber-400 text-navy-950 font-bold rounded-xl hover:bg-amber-300 transition-colors shadow-xl text-base">
-              🚀 Gửi Đầu In Chẩn Đoán Miễn Phí
+          <div className="mt-10 flex flex-col sm:flex-row justify-center gap-4">
+            <a href="#lien-he" className="px-8 py-4 bg-blue-600 text-white font-bold rounded-2xl text-base hover:bg-blue-700 transition-all shadow-lg shadow-blue-500/25 flex items-center justify-center gap-2">
+              <span>🚀 Đăng Ký Kiểm Tra Đầu In</span>
             </a>
-            <a href="#kien-thuc" className="w-full sm:w-auto px-8 py-4 bg-navy-800 text-white font-semibold rounded-xl border border-navy-600 hover:bg-navy-700 transition-colors text-base">
-              📚 Đọc 121 Bài Viết Kiến Thức Cứu Hộ
+            <a href="#quy-trinh-lab" className="px-8 py-4 bg-white text-slate-700 border border-slate-300 font-bold rounded-2xl text-base hover:bg-slate-50 transition-all shadow-sm flex items-center justify-center gap-2">
+              <span>📖 Xem Quy Trình 4 Bước</span>
             </a>
           </div>
         </div>
       </section>
 
-      {/* Quy Trình Lab */}
-      <section id="quy-trinh-lab" className="py-16 sm:py-24 bg-slate-50 border-b border-slate-200">
+      {/* Quy Trình Lab Section */}
+      <section id="quy-trinh-lab" className="py-16 sm:py-20 bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
-          <div className="text-center mb-16">
-            <span className="px-4 py-1.5 bg-navy-100 text-navy-800 text-xs font-bold rounded-full uppercase tracking-wider">Tiêu Chuẩn Phòng Lab</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-navy-900 mt-3">Quy Trình Cứu Hộ Đầu In 4 Bước Tại VNPIS Lab</h2>
-            <p className="mt-3 text-slate-600 max-w-2xl mx-auto">Mọi đầu in tiếp nhận đều được mã hoá QR theo dõi tiến trình và chẩn đoán minh bạch bằng thiết bị đo kiểm chuyên dụng.</p>
+          <div className="text-center max-w-3xl mx-auto mb-14">
+            <span className="text-blue-600 font-bold text-xs sm:text-sm uppercase tracking-wider bg-blue-50 px-3 py-1 rounded-full border border-blue-100">Quy Trình Chuẩn Kỹ Thuật</span>
+            <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 mt-4 tracking-tight">Quy Trình Cứu Hộ 4 Bước Tại VNPIS Lab</h2>
+            <p className="text-slate-600 text-sm sm:text-base mt-3">Mọi đầu in tiếp nhận đều trải qua quy trình đo kiểm khắt khe trước và sau khi xử lý.</p>
           </div>
 
-          <div className="grid md:grid-cols-4 gap-6">
-            <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm relative">
-              <div className="w-10 h-10 bg-navy-900 text-white rounded-lg flex items-center justify-center font-bold mb-4">01</div>
-              <h3 className="font-bold text-navy-900 text-base mb-2">Soi Nozzle 4K Hiển Vi</h3>
-              <p className="text-slate-600 text-xs leading-relaxed">Phóng đại 1000x bề mặt Nozzle Plate. Kiểm tra vết trầy, nghẹt mảng bám UV hoặc đứt vách thông kênh.</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 hover:border-blue-300 transition-all hover:shadow-md">
+              <div className="w-12 h-12 rounded-xl bg-blue-600 text-white font-extrabold text-xl flex items-center justify-center mb-5 shadow-sm">1</div>
+              <h3 className="text-lg font-bold text-slate-900 mb-2">Chẩn Đoán 1000x</h3>
+              <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Soi bề mặt Nozzle Plate dưới kính hiển vi độ phóng đại 1000x để phát hiện mảng bám và kiểm tra màng Hydrophobic.</p>
             </div>
 
-            <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm relative">
-              <div className="w-10 h-10 bg-navy-900 text-white rounded-lg flex items-center justify-center font-bold mb-4">02</div>
-              <h3 className="font-bold text-navy-900 text-base mb-2">Đo Trở Kháng Màng Piezo</h3>
-              <p className="text-slate-600 text-xs leading-relaxed">Đo giá trị Ohm & nF của từng màng rung thạch anh Piezo bán dẫn. Loại trừ nguy cơ chập cháy IC điều khiển.</p>
+            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 hover:border-blue-300 transition-all hover:shadow-md">
+              <div className="w-12 h-12 rounded-xl bg-blue-600 text-white font-extrabold text-xl flex items-center justify-center mb-5 shadow-sm">2</div>
+              <h3 className="text-lg font-bold text-slate-900 mb-2">Siêu Âm Tần Số Kép</h3>
+              <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Rửa siêu âm tần số 28kHz/40kHz kết hợp tuần hoàn hóa chất kiềm dầu bóc tách cặn mực UV/Sơn mà không làm hại vách ngăn.</p>
             </div>
 
-            <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm relative">
-              <div className="w-10 h-10 bg-navy-900 text-white rounded-lg flex items-center justify-center font-bold mb-4">03</div>
-              <h3 className="font-bold text-navy-900 text-base mb-2">Siêu Âm Tuần Hoàn Áp Âm</h3>
-              <p className="text-slate-600 text-xs leading-relaxed">Sục rửa kiềm dầu gia nhiệt 45°C bằng sóng siêu âm 28kHz/40kHz không xâm lấn, giải phóng 98% cặn mực khô.</p>
+            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 hover:border-blue-300 transition-all hover:shadow-md">
+              <div className="w-12 h-12 rounded-xl bg-blue-600 text-white font-extrabold text-xl flex items-center justify-center mb-5 shadow-sm">3</div>
+              <h3 className="text-lg font-bold text-slate-900 mb-2">Đo Trở Kháng Piezo</h3>
+              <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Đo điện áp và xung đạn bán dẫn nhằm đảm bảo màng mạ điện áp không bị chập rò rỉ trước khi lắp lại máy.</p>
             </div>
 
-            <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm relative">
-              <div className="w-10 h-10 bg-amber-400 text-navy-950 font-bold rounded-lg flex items-center justify-center mb-4">04</div>
-              <h3 className="font-bold text-navy-900 text-base mb-2">Test Waterfall & Tem QR</h3>
-              <p className="text-slate-600 text-xs leading-relaxed">Bắn test giọt đạn xung thực tế. Quay video nghiệm thu 4K đính kèm mã QR tem bảo hành VNPIS Lab.</p>
+            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 hover:border-blue-300 transition-all hover:shadow-md">
+              <div className="w-12 h-12 rounded-xl bg-blue-600 text-white font-extrabold text-xl flex items-center justify-center mb-5 shadow-sm">4</div>
+              <h3 className="text-lg font-bold text-slate-900 mb-2">Quay Video Nghiệm Thu</h3>
+              <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Bắn test giọt đạn xung thực tế, quay video nghiệm thu 4K đính kèm mã QR tem bảo hành dán trên thân đầu in.</p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Đầu In Hỗ Trợ */}
-      <section id="dau-in-ho-tro" className="py-16 sm:py-24 bg-white">
+      {/* Bảng Thông Số Tham Khảo Đầu In */}
+      <section id="thong-so-ky-thuat" className="py-16 sm:py-20 bg-slate-50 border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
-          <div className="text-center mb-12">
-            <h2 className="text-2xl sm:text-3xl font-bold text-navy-900">Danh Mục Đầu In Phun Công Nghiệp Được Hỗ Trợ Phục Hồi</h2>
-            <p className="mt-3 text-slate-600">VNPIS Lab sở hữu bộ gá gá chuyên dụng cho tất cả các dòng đầu in công nghiệp khổ lớn và máy in date.</p>
+          <div className="text-center max-w-3xl mx-auto mb-12">
+            <span className="text-blue-600 font-bold text-xs sm:text-sm uppercase tracking-wider bg-white px-3 py-1 rounded-full border border-slate-200 shadow-sm">Tra Cứu Kỹ Thuật</span>
+            <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 mt-4 tracking-tight">Bảng Thông Số Tham Khảo Các Dòng Đầu In</h2>
+            <p className="text-slate-600 text-sm sm:text-base mt-3">Thông số kỹ thuật tiêu chuẩn để hỗ trợ kỹ thuật viên kiểm tra điện áp và chọn đúng dung dịch sục rửa phù hợp.</p>
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <div className="bg-slate-50 rounded-2xl border border-slate-200 p-6 flex flex-col justify-between">
-              <div>
-                <span className="px-3 py-1 bg-blue-100 text-blue-800 text-xs font-bold rounded-full">Ricoh UV Printhead</span>
-                <h3 className="text-xl font-bold text-navy-900 mt-3 mb-2">Ricoh Gen5 / Gen6 / GH2220</h3>
-                <p className="text-slate-600 text-sm mb-4">Mã đầu: MH5420, MH5440, MH5320, MH5340. Chuyên trị lỗi nghẹt mực UV khô, mực dầu màng dính.</p>
-              </div>
-              <div className="pt-4 border-t border-slate-200 flex items-center justify-between">
-                <span className="text-xs font-semibold text-green-700 bg-green-100 px-2.5 py-1 rounded-full">Tỷ lệ cứu hộ 98%</span>
-                <a href="#lien-he" className="text-xs font-bold text-navy-700 hover:text-navy-900">Báo giá &rarr;</a>
-              </div>
-            </div>
-
-            <div className="bg-slate-50 rounded-2xl border border-slate-200 p-6 flex flex-col justify-between">
-              <div>
-                <span className="px-3 py-1 bg-purple-100 text-purple-800 text-xs font-bold rounded-full">Kyocera High-Speed</span>
-                <h3 className="text-xl font-bold text-navy-900 mt-3 mb-2">Kyocera KJ4A / KJ4B / KJ4C</h3>
-                <p className="text-slate-600 text-sm mb-4">KJ4A-TA, KJ4B-QA. Khôi phục tia in dữ liệu biến đổi VDP, đứt nét dòng in tốc độ cao nhà máy.</p>
-              </div>
-              <div className="pt-4 border-t border-slate-200 flex items-center justify-between">
-                <span className="text-xs font-semibold text-green-700 bg-green-100 px-2.5 py-1 rounded-full">Tỷ lệ cứu hộ 95%</span>
-                <a href="#lien-he" className="text-xs font-bold text-navy-700 hover:text-navy-900">Báo giá &rarr;</a>
-              </div>
-            </div>
-
-            <div className="bg-slate-50 rounded-2xl border border-slate-200 p-6 flex flex-col justify-between">
-              <div>
-                <span className="px-3 py-1 bg-indigo-100 text-indigo-800 text-xs font-bold rounded-full">Konica Minolta</span>
-                <h3 className="text-xl font-bold text-navy-900 mt-3 mb-2">KM1024 / KM1024i / KM1800i</h3>
-                <p className="text-slate-600 text-sm mb-4">KM1024i SHE 6pl, KM512. Xử lý lệch tia giọt mực, thông tắc khoang mực nóng gia nhiệt.</p>
-              </div>
-              <div className="pt-4 border-t border-slate-200 flex items-center justify-between">
-                <span className="text-xs font-semibold text-green-700 bg-green-100 px-2.5 py-1 rounded-full">Tỷ lệ cứu hộ 96%</span>
-                <a href="#lien-he" className="text-xs font-bold text-navy-700 hover:text-navy-900">Báo giá &rarr;</a>
-              </div>
-            </div>
-
-            <div className="bg-slate-50 rounded-2xl border border-slate-200 p-6 flex flex-col justify-between">
-              <div>
-                <span className="px-3 py-1 bg-emerald-100 text-emerald-800 text-xs font-bold rounded-full">Epson MicroPiezo</span>
-                <h3 className="text-xl font-bold text-navy-900 mt-3 mb-2">Epson I3200 / DX5 / DX7 / XP600</h3>
-                <p className="text-slate-600 text-sm mb-4">I3200-A1/E1/U1. Phục hồi kênh phun bị mất, sục rửa cặn mực chuyển nhiệt & mực DTF khô cứng.</p>
-              </div>
-              <div className="pt-4 border-t border-slate-200 flex items-center justify-between">
-                <span className="text-xs font-semibold text-green-700 bg-green-100 px-2.5 py-1 rounded-full">Tỷ lệ cứu hộ 92%</span>
-                <a href="#lien-he" className="text-xs font-bold text-navy-700 hover:text-navy-900">Báo giá &rarr;</a>
-              </div>
-            </div>
-
-            <div className="bg-slate-50 rounded-2xl border border-slate-200 p-6 flex flex-col justify-between">
-              <div>
-                <span className="px-3 py-1 bg-red-100 text-red-800 text-xs font-bold rounded-full">Béc Phun CIJ</span>
-                <h3 className="text-xl font-bold text-navy-900 mt-3 mb-2">Videojet, Domino, Linx, Markem-Imaje</h3>
-                <p className="text-slate-600 text-sm mb-4">Thông béc Sapphire 50-70um, cân chỉnh điện áp tích điện sạc giọt mực, sục rửa ống dẫn dung môi.</p>
-              </div>
-              <div className="pt-4 border-t border-slate-200 flex items-center justify-between">
-                <span className="text-xs font-semibold text-green-700 bg-green-100 px-2.5 py-1 rounded-full">Tỷ lệ cứu hộ 100%</span>
-                <a href="#lien-he" className="text-xs font-bold text-navy-700 hover:text-navy-900">Báo giá &rarr;</a>
-              </div>
-            </div>
-
-            <div className="bg-slate-50 rounded-2xl border border-slate-200 p-6 flex flex-col justify-between">
-              <div>
-                <span className="px-3 py-1 bg-amber-100 text-amber-800 text-xs font-bold rounded-full">Hộp Mực TIJ</span>
-                <h3 className="text-xl font-bold text-navy-900 mt-3 mb-2">HP 45 / HP 45si / HP 45sc / 25.4mm</h3>
-                <p className="text-slate-600 text-sm mb-4">Phục hồi đầu phun cartridge khô lâu ngày, sục rửa màng nhiệt 600dpi cho mực cồn khô nhanh.</p>
-              </div>
-              <div className="pt-4 border-t border-slate-200 flex items-center justify-between">
-                <span className="text-xs font-semibold text-green-700 bg-green-100 px-2.5 py-1 rounded-full">Tỷ lệ cứu hộ 100%</span>
-                <a href="#lien-he" className="text-xs font-bold text-navy-700 hover:text-navy-900">Báo giá &rarr;</a>
-              </div>
+          <div className="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
+            <div className="overflow-x-auto">
+              <table className="w-full text-left text-sm text-slate-700 border-collapse">
+                <thead className="bg-slate-100 text-slate-900 font-bold text-xs uppercase border-b border-slate-200">
+                  <tr>
+                    <th className="py-4 px-6">Dòng Đầu In</th>
+                    <th className="py-4 px-6">Số Lượng Nozzle</th>
+                    <th className="py-4 px-6">Thể Tích Giọt Phun (Drop Size)</th>
+                    <th className="py-4 px-6">Tần Số Phun (Frequency)</th>
+                    <th className="py-4 px-6">Loại Mực Tương Thích</th>
+                    <th className="py-4 px-6">Tỷ Lệ Phục Hồi Trung Bình</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-slate-100">
+                  <tr className="hover:bg-slate-50/80 transition-colors">
+                    <td className="py-4 px-6 font-bold text-slate-900">Ricoh Gen5 (MH5420/5440)</td>
+                    <td className="py-4 px-6">1,280 nozzles (4x320)</td>
+                    <td className="py-4 px-6">7pl &ndash; 35pl (Bi-variable)</td>
+                    <td className="py-4 px-6">60 kHz</td>
+                    <td className="py-4 px-6">UV, Solvent</td>
+                    <td className="py-4 px-6 font-bold text-emerald-600">90% &ndash; 95%</td>
+                  </tr>
+                  <tr className="hover:bg-slate-50/80 transition-colors">
+                    <td className="py-4 px-6 font-bold text-slate-900">Ricoh Gen6 (MH5320/5340)</td>
+                    <td className="py-4 px-6">1,280 nozzles (4x320)</td>
+                    <td className="py-4 px-6">5pl &ndash; 30pl</td>
+                    <td className="py-4 px-6">50 kHz</td>
+                    <td className="py-4 px-6">UV, Water-based, Solvent</td>
+                    <td className="py-4 px-6 font-bold text-emerald-600">92% &ndash; 98%</td>
+                  </tr>
+                  <tr className="hover:bg-slate-50/80 transition-colors">
+                    <td className="py-4 px-6 font-bold text-slate-900">Kyocera KJ4A-RH/TA</td>
+                    <td className="py-4 px-6">2,656 nozzles</td>
+                    <td className="py-4 px-6">6pl / 14pl</td>
+                    <td className="py-4 px-6">30 kHz / 20 kHz</td>
+                    <td className="py-4 px-6">UV / Water-based</td>
+                    <td className="py-4 px-6 font-bold text-emerald-600">88% &ndash; 94%</td>
+                  </tr>
+                  <tr className="hover:bg-slate-50/80 transition-colors">
+                    <td className="py-4 px-6 font-bold text-slate-900">Konica Minolta 1024i SHE</td>
+                    <td className="py-4 px-6">1,024 nozzles</td>
+                    <td className="py-4 px-6">6pl</td>
+                    <td className="py-4 px-6">45 kHz</td>
+                    <td className="py-4 px-6">UV, Solvent</td>
+                    <td className="py-4 px-6 font-bold text-emerald-600">90% &ndash; 96%</td>
+                  </tr>
+                  <tr className="hover:bg-slate-50/80 transition-colors">
+                    <td className="py-4 px-6 font-bold text-slate-900">Epson I3200-A1/E1/U1</td>
+                    <td className="py-4 px-6">3,200 nozzles (8x400)</td>
+                    <td className="py-4 px-6">3.8pl &ndash; 9.4pl</td>
+                    <td className="py-4 px-6">43.2 kHz</td>
+                    <td className="py-4 px-6">Eco-Solvent, Sublimation, UV</td>
+                    <td className="py-4 px-6 font-bold text-emerald-600">85% &ndash; 92%</td>
+                  </tr>
+                  <tr className="hover:bg-slate-50/80 transition-colors">
+                    <td className="py-4 px-6 font-bold text-slate-900">Béc In CIJ (Videojet / Domino)</td>
+                    <td className="py-4 px-6">Béc đơn 50um &ndash; 70um</td>
+                    <td className="py-4 px-6">Liên tục (Continuous)</td>
+                    <td className="py-4 px-6">80 kHz &ndash; 100 kHz</td>
+                    <td className="py-4 px-6">Mực MEK, Alcohol, Acetone</td>
+                    <td className="py-4 px-6 font-bold text-emerald-600">95% &ndash; 99%</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Kho 121 Bài Viết Kiến Thức & Quảng Cáo */}
-      <section id="kien-thuc" className="py-16 sm:py-24 bg-slate-50 border-t border-slate-200">
+      {/* Kho 121 Bài Viết Kỹ Thuật Hub */}
+      <section id="kien-thuc" className="py-16 sm:py-20 bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
-          <div className="text-center mb-12">
-            <span className="px-4 py-1.5 bg-navy-900 text-amber-400 text-xs font-bold rounded-full uppercase tracking-wider">Kho 121 Bài Viết Chuyên Ngành Cứu Hộ Đầu In</span>
-            <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-900 mt-3">Tài Liệu Kỹ Thuật, Hướng Dẫn Bảo Trì & Quảng Cáo Sản Phẩm</h2>
-            <p className="mt-3 text-slate-600 max-w-3xl mx-auto">
-              Tổng hợp toàn bộ kiến thức chuyên sâu về xử lý sự cố nghẹt đầu in, lựa chọn mực in chuyên dụng và quy trình bảo vệ linh kiện ngành in kỹ thuật số.
-            </p>
+          <div className="flex flex-col md:flex-row md:items-end justify-between mb-10 gap-4">
+            <div>
+              <span className="text-blue-600 font-bold text-xs sm:text-sm uppercase tracking-wider bg-blue-50 px-3 py-1 rounded-full border border-blue-100">Kho Bài Viết Hướng Dẫn</span>
+              <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 mt-3 tracking-tight">Cẩm Nang Kỹ Thuật & Cứu Hộ Đầu In</h2>
+              <p className="text-slate-600 text-sm mt-2">Tổng hợp 121 tài liệu hướng dẫn sục rửa, chẩn đoán sự cố và bảo dưỡng đầu in phun.</p>
+            </div>
           </div>
 
-          {/* Filter Tabs */}
-          <div className="flex flex-wrap justify-center gap-2 mb-10">
-            <button
-              onClick={() => setActiveCategory("all")}
-              className={`px-4 py-2 rounded-lg text-sm font-bold shadow-sm transition-colors ${activeCategory === "all" ? "bg-navy-900 text-white" : "bg-white border border-slate-200 text-slate-700 hover:bg-slate-100"}`}
-            >
-              Tất cả bài viết
-            </button>
-            <button
-              onClick={() => setActiveCategory("ricoh")}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${activeCategory === "ricoh" ? "bg-navy-900 text-white font-bold" : "bg-white border border-slate-200 text-slate-700 hover:bg-slate-100"}`}
-            >
-              Ricoh Gen5/6
-            </button>
-            <button
-              onClick={() => setActiveCategory("kyocera")}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${activeCategory === "kyocera" ? "bg-navy-900 text-white font-bold" : "bg-white border border-slate-200 text-slate-700 hover:bg-slate-100"}`}
-            >
-              Kyocera & Konica
-            </button>
-            <button
-              onClick={() => setActiveCategory("epson")}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${activeCategory === "epson" ? "bg-navy-900 text-white font-bold" : "bg-white border border-slate-200 text-slate-700 hover:bg-slate-100"}`}
-            >
-              Epson I3200/DX5
-            </button>
-            <button
-              onClick={() => setActiveCategory("cij-tij")}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${activeCategory === "cij-tij" ? "bg-navy-900 text-white font-bold" : "bg-white border border-slate-200 text-slate-700 hover:bg-slate-100"}`}
-            >
-              Mực In CIJ/TIJ
-            </button>
-            <button
-              onClick={() => setActiveCategory("maintenance")}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${activeCategory === "maintenance" ? "bg-navy-900 text-white font-bold" : "bg-white border border-slate-200 text-slate-700 hover:bg-slate-100"}`}
-            >
-              Bảo Trì Nhà Máy
-            </button>
+          {/* Nav Tab Categories */}
+          <div className="flex flex-wrap gap-2 mb-8 border-b border-slate-200 pb-4">
+            {[
+              { id: "all", label: "🌐 Tất Cả Bài Viết" },
+              { id: "ricoh", label: "Ricoh Gen5/6" },
+              { id: "kyocera", label: "Kyocera & Konica" },
+              { id: "epson", label: "Epson I3200/DX5" },
+              { id: "cij-tij", label: "Mực CIJ / TIJ HP45" },
+              { id: "maintenance", label: "Bảo Trì Nhà Máy" },
+            ].map((tab) => (
+              <button
+                key={tab.id}
+                onClick={() => setActiveCategory(tab.id)}
+                className={`px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all ${
+                  activeCategory === tab.id
+                    ? "bg-blue-600 text-white shadow-sm"
+                    : "bg-slate-100 text-slate-600 hover:bg-slate-200"
+                }`}
+              >
+                {tab.label}
+              </button>
+            ))}
           </div>
 
-          {/* Grid Cards */}
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {/* Article Cards Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredArticles.map(([key, article]) => (
-              <div key={key} className="bg-white rounded-2xl border border-slate-200 p-6 shadow-sm flex flex-col justify-between">
+              <div
+                key={key}
+                className="bg-white rounded-2xl border border-slate-200 p-6 flex flex-col justify-between hover:border-blue-300 hover:shadow-md transition-all group"
+              >
                 <div>
-                  <span className="px-3 py-1 bg-navy-50 text-navy-800 text-xs font-bold rounded-full">{article.category}</span>
-                  <h3 className="text-lg font-bold text-navy-900 mt-3 mb-2">{article.title}</h3>
-                  <p className="text-slate-600 text-sm mb-4 line-clamp-3">{article.summary}</p>
+                  <span className="inline-block text-xs font-bold text-blue-600 bg-blue-50 px-2.5 py-1 rounded-md mb-3 border border-blue-100">
+                    {article.category}
+                  </span>
+                  <h3 className="text-base font-bold text-slate-900 group-hover:text-blue-600 transition-colors line-clamp-2 leading-snug">
+                    {article.title}
+                  </h3>
+                  <p className="text-xs text-slate-600 mt-2.5 leading-relaxed line-clamp-3">
+                    {article.summary}
+                  </p>
                 </div>
                 <button
                   onClick={() => setSelectedArticle(key)}
-                  className="text-navy-700 hover:text-navy-900 font-bold text-sm text-left"
+                  className="mt-5 w-full py-2.5 bg-slate-50 hover:bg-blue-600 text-slate-700 hover:text-white font-bold text-xs rounded-xl transition-all border border-slate-200 hover:border-blue-600 flex items-center justify-center gap-1.5"
                 >
-                  Đọc bài viết chi tiết &rarr;
+                  <span>📖 Đọc Hướng Dẫn Chi Tiết</span>
                 </button>
               </div>
             ))}
@@ -411,176 +394,157 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Tra Cứu QR Video */}
-      <section id="tra-cuu-qr" className="py-16 sm:py-24 bg-navy-900 text-white">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6">
-          <div className="text-center mb-10">
-            <p className="text-amber-400 text-sm font-bold uppercase tracking-wider mb-2">Minh Bạch Nghiệm Thu</p>
-            <h2 className="text-2xl sm:text-3xl font-bold text-white">Tra Cứu Video Nghiệm Thu Đầu In VNPIS Lab</h2>
-            <p className="mt-3 text-navy-200 max-w-2xl mx-auto leading-relaxed text-sm sm:text-base">
-              Nhập mã QR ghi trên tem bảo hành để xem trực tiếp Video Soi Nozzle 4K và Video Bắn Xung Waterfall thực tế sau phục hồi.
-            </p>
-          </div>
+      {/* Tra Cứu QR Video Section */}
+      <section id="tra-cuu-qr" className="py-16 sm:py-20 bg-slate-900 text-white">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
+          <span className="text-blue-400 font-bold text-xs uppercase tracking-wider bg-slate-800 px-3 py-1 rounded-full border border-slate-700">Minh Bạch Nghiệm Thu</span>
+          <h2 className="text-2xl sm:text-4xl font-extrabold mt-4 tracking-tight">Tra Cứu Video Nghiệm Thu Đầu In VNPIS Lab</h2>
+          <p className="text-slate-300 text-sm max-w-2xl mx-auto mt-3">Nhập mã đơn hàng hoặc quét mã QR tem bảo hành dán trên thân đầu in để xem video nghiệm thu soi nozzle 4K.</p>
 
-          <div className="bg-navy-800 border border-navy-700 rounded-2xl p-8 shadow-xl">
-            <div className="flex flex-col sm:flex-row items-center gap-8">
-              <div className="shrink-0 text-center">
-                <div className="w-32 h-32 rounded-xl bg-navy-900 border-2 border-dashed border-navy-600 flex items-center justify-center mx-auto mb-2">
-                  <span className="text-4xl">📷</span>
-                </div>
-                <span className="text-xs text-navy-300">Quét QR trên tem đầu in</span>
-              </div>
-              <div className="flex-1 w-full space-y-4">
-                <div className="grid sm:grid-cols-2 gap-3 text-xs">
-                  <div className="bg-navy-900/60 p-3 rounded-lg border border-navy-700">
-                    <span className="text-amber-400 font-bold block">📹 Video Soi Nozzle 4K</span>
-                    <span className="text-navy-300">Phóng đại 1000x kiểm tra béc</span>
-                  </div>
-                  <div className="bg-navy-900/60 p-3 rounded-lg border border-navy-700">
-                    <span className="text-amber-400 font-bold block">🌊 Video Xung Waterfall</span>
-                    <span className="text-navy-300">Bắn test giọt đạn kịch bản thực tế</span>
-                  </div>
-                </div>
-                <form
-                  className="flex flex-col sm:flex-row gap-3"
-                  onSubmit={(e) => {
-                    e.preventDefault();
-                    alert("Đã kết nối máy chủ dữ liệu VNPIS Lab! Mã tra cứu hợp lệ.");
-                  }}
-                >
-                  <input
-                    type="text"
-                    required
-                    placeholder="Nhập mã QR hoặc số Serial đầu in..."
-                    className="flex-1 px-4 py-3 rounded-xl bg-navy-900 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
-                  />
-                  <button
-                    type="submit"
-                    className="px-6 py-3 bg-amber-400 text-navy-950 font-bold rounded-xl hover:bg-amber-300 transition-colors text-sm whitespace-nowrap"
-                  >
-                    Tra Cứu Ngay
-                  </button>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Thông Tin Liên Hệ CHÍNH THỨC VNPIS */}
-      <section id="lien-he" className="py-16 sm:py-24 bg-white border-t border-slate-200">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6">
-          <div className="grid lg:grid-cols-2 gap-12">
-            <div>
-              <span className="px-4 py-1.5 bg-navy-100 text-navy-800 text-xs font-bold rounded-full uppercase tracking-wider">Thông Tin Liên Hệ Chính Thức</span>
-              <h2 className="text-2xl sm:text-3xl font-bold text-navy-900 mt-3">CÔNG TY TNHH VNPIS</h2>
-              <p className="mt-2 text-xs font-bold text-slate-500 uppercase tracking-widest">Mã số thuế: 0318266611</p>
-              <p className="mt-3 text-slate-600 leading-relaxed text-sm">
-                Liên hệ gửi đầu in cứu hộ hoặc tư vấn hỗ trợ kỹ thuật tận nơi 24/7 từ đội ngũ kỹ sư VNPIS Lab.
-              </p>
-
-              <div className="mt-6 space-y-4">
-                <div className="flex items-center gap-4 p-4 rounded-xl bg-slate-50 border border-slate-200">
-                  <div className="w-11 h-11 rounded-lg bg-amber-400 text-navy-950 font-bold flex items-center justify-center shrink-0 text-xl">📞</div>
-                  <div>
-                    <p className="text-xs text-slate-500 font-semibold uppercase">Hotline Kỹ Thuật 24/7 (Zalo)</p>
-                    <p className="text-xl font-bold text-navy-900">0987 453 866</p>
-                  </div>
-                </div>
-
-                <div className="flex items-center gap-4 p-4 rounded-xl bg-slate-50 border border-slate-200">
-                  <div className="w-11 h-11 rounded-lg bg-navy-900 text-white font-bold flex items-center justify-center shrink-0 text-xl">✉️</div>
-                  <div>
-                    <p className="text-xs text-slate-500 font-semibold uppercase">Email Báo Giá & Tiếp Nhận</p>
-                    <p className="text-base font-bold text-navy-900">info@vnpis.com</p>
-                  </div>
-                </div>
-
-                <div className="p-5 rounded-xl bg-slate-50 border border-slate-200 space-y-3">
-                  <p className="text-xs font-bold text-navy-900 uppercase tracking-wide border-b border-slate-200 pb-2">Hệ Thống Trụ Sở & Phòng Lab Tiếp Nhận</p>
-                  <div className="text-xs sm:text-sm text-slate-700 space-y-2">
-                    <p>🏛️ <strong>Trụ sở chính:</strong> Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh</p>
-                    <p>🔬 <strong>Lab Center 1 (Phòng Siêu Âm Cứu Hộ):</strong> 62 Trần Thị Nơi, Phường Chánh Hưng (P.4, Q.8), TP. Hồ Chí Minh</p>
-                    <p>🏬 <strong>Địa điểm KD 2:</strong> 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Form đăng ký */}
-            <form
-              className="bg-navy-900 text-white rounded-2xl p-8 space-y-5 shadow-2xl border border-navy-700"
-              onSubmit={(e) => {
-                e.preventDefault();
-                alert("Đã tiếp nhận yêu cầu cứu hộ! Kỹ thuật viên VNPIS Lab sẽ gọi lại tư vấn qua số 0987 453 866.");
-              }}
-            >
-              <h3 className="font-bold text-white text-xl border-b border-navy-700 pb-3">Đăng Ký Cứu Hộ Đầu In (No Cure - No Pay)</h3>
-              <div>
-                <label className="block text-xs font-semibold text-navy-200 uppercase mb-1">Họ và tên người gửi</label>
-                <input
-                  type="text"
-                  required
-                  className="w-full px-4 py-3 rounded-xl bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
-                  placeholder="Nguyễn Văn A"
-                />
-              </div>
-              <div>
-                <label className="block text-xs font-semibold text-navy-200 uppercase mb-1">Số điện thoại / Zalo liên hệ</label>
-                <input
-                  type="tel"
-                  required
-                  className="w-full px-4 py-3 rounded-xl bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
-                  placeholder="0987 xxx xxx"
-                />
-              </div>
-              <div>
-                <label className="block text-xs font-semibold text-navy-200 uppercase mb-1">Loại đầu in & Mô tả hiện trạng nghẹt lỗi</label>
-                <textarea
-                  rows={3}
-                  required
-                  className="w-full px-4 py-3 rounded-xl bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400 resize-none"
-                  placeholder="Ví dụ: Ricoh Gen5 — tắc mực UV, đứt tia 2 kênh..."
-                ></textarea>
-              </div>
-              <button
-                type="submit"
-                className="w-full py-4 bg-amber-400 text-navy-950 font-bold rounded-xl hover:bg-amber-300 transition-colors text-base shadow-xl"
-              >
-                🚀 Gửi Đầu In Nhận Báo Giá Miễn Phí
+          <div className="mt-8 max-w-xl mx-auto bg-slate-800/90 p-3 rounded-2xl border border-slate-700 shadow-xl">
+            <form className="flex flex-col sm:flex-row gap-3" onSubmit={(e) => { e.preventDefault(); alert("Đã kết nối máy chủ dữ liệu VNPIS Lab! Mã tra cứu hợp lệ."); }}>
+              <input
+                type="text"
+                placeholder="Nhập Mã Đơn Hàng (VD: VNPIS-2026-8892)"
+                className="flex-1 px-4 py-3 bg-slate-900 border border-slate-600 rounded-xl text-sm text-white placeholder-slate-400 focus:outline-none focus:border-blue-500"
+                required
+              />
+              <button type="submit" className="px-6 py-3 bg-blue-600 hover:bg-blue-500 font-bold text-sm text-white rounded-xl transition-colors shadow-md">
+                🔍 Tra Cứu Video
               </button>
             </form>
           </div>
         </div>
       </section>
 
+      {/* Liên Hệ Section */}
+      <section id="lien-he" className="py-16 sm:py-20 bg-white border-b border-slate-200">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
+            <div>
+              <span className="text-blue-600 font-bold text-xs uppercase tracking-wider bg-blue-50 px-3 py-1 rounded-full border border-blue-100">Thông Tin Chính Thức</span>
+              <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 mt-4 tracking-tight">CÔNG TY TNHH VNPIS</h2>
+              <p className="text-slate-600 text-sm mt-3 leading-relaxed">
+                Liên hệ gửi đầu in cứu hộ hoặc tư vấn hỗ trợ kỹ thuật tận nơi từ đội ngũ kỹ sư VNPIS Lab.
+              </p>
+
+              <div className="mt-8 space-y-4 text-sm text-slate-700">
+                <div className="flex items-start gap-3 p-4 bg-slate-50 rounded-xl border border-slate-200">
+                  <span className="text-xl">🏛️</span>
+                  <div>
+                    <strong className="block text-slate-900 font-bold">Trụ sở chính:</strong>
+                    Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh
+                  </div>
+                </div>
+
+                <div className="flex items-start gap-3 p-4 bg-slate-50 rounded-xl border border-slate-200">
+                  <span className="text-xl">🔬</span>
+                  <div>
+                    <strong className="block text-slate-900 font-bold">Lab Center 1 (Tiếp nhận & Cứu hộ):</strong>
+                    62 Trần Thị Nơi, Phường 4, Quận 8, TP. Hồ Chí Minh
+                  </div>
+                </div>
+
+                <div className="flex items-start gap-3 p-4 bg-slate-50 rounded-xl border border-slate-200">
+                  <span className="text-xl">📍</span>
+                  <div>
+                    <strong className="block text-slate-900 font-bold">Địa điểm 2:</strong>
+                    18 Đường số 4, KDC Đại Phúc Green Villas, Bình Hưng, TP. Hồ Chí Minh
+                  </div>
+                </div>
+
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
+                  <div className="p-4 bg-blue-50 border border-blue-100 rounded-xl">
+                    <span className="text-xs font-semibold text-blue-600 block mb-1">Hotline / Zalo 24/7</span>
+                    <a href="tel:0987453866" className="text-lg font-extrabold text-blue-900 hover:underline">0987 453 866</a>
+                  </div>
+                  <div className="p-4 bg-blue-50 border border-blue-100 rounded-xl">
+                    <span className="text-xs font-semibold text-blue-600 block mb-1">Email Kỹ Thuật</span>
+                    <a href="mailto:info@vnpis.com" className="text-base font-bold text-blue-900 hover:underline">info@vnpis.com</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Form Đăng Ký Cứu Hộ */}
+            <div className="bg-slate-50 border border-slate-200 rounded-3xl p-8 shadow-sm">
+              <h3 className="text-xl font-bold text-slate-900 mb-2">Đăng Ký Khảo Sát & Cứu Hộ Đầu In</h3>
+              <p className="text-xs text-slate-500 mb-6">Cam kết No Cure - No Pay. Kỹ thuật viên sẽ gọi tư vấn giải pháp trước khi gửi đầu in.</p>
+
+              <form className="space-y-4" onSubmit={(e) => { e.preventDefault(); alert("Đã tiếp nhận yêu cầu! Kỹ thuật viên VNPIS Lab sẽ liên hệ lại qua số hotline 0987 453 866."); }}>
+                <div>
+                  <label className="block text-xs font-bold text-slate-700 mb-1">Họ & Tên Kỹ Thuật / Khách Hàng</label>
+                  <input type="text" required placeholder="Nguyễn Văn A" className="w-full px-4 py-3 bg-white border border-slate-300 rounded-xl text-sm focus:outline-none focus:border-blue-600" />
+                </div>
+                <div>
+                  <label className="block text-xs font-bold text-slate-700 mb-1">Số Điện Thoại (Zalo)</label>
+                  <input type="tel" required placeholder="090x xxx xxx" className="w-full px-4 py-3 bg-white border border-slate-300 rounded-xl text-sm focus:outline-none focus:border-blue-600" />
+                </div>
+                <div>
+                  <label className="block text-xs font-bold text-slate-700 mb-1">Dòng Đầu In Cần Cứu Hộ</label>
+                  <select className="w-full px-4 py-3 bg-white border border-slate-300 rounded-xl text-sm focus:outline-none focus:border-blue-600">
+                    <option>Ricoh Gen5 / Gen6 (MH5420/MH5320)</option>
+                    <option>Kyocera KJ4A / KJ4B</option>
+                    <option>Konica Minolta 1024i / 512i</option>
+                    <option>Epson I3200 / DX5 / XP600</option>
+                    <option>Béc In CIJ (Videojet/Domino/Linx)</option>
+                    <option>Dòng đầu in khác</option>
+                  </select>
+                </div>
+                <div>
+                  <label className="block text-xs font-bold text-slate-700 mb-1">Mô Tả Tình Trạng Nghẹt / Mất Kênh</label>
+                  <textarea rows={3} placeholder="Đầu in bị nghẹt cặn mực UV khô, đứt nét dòng in QR code..." className="w-full px-4 py-3 bg-white border border-slate-300 rounded-xl text-sm focus:outline-none focus:border-blue-600"></textarea>
+                </div>
+                <button type="submit" className="w-full py-4 bg-blue-600 hover:bg-blue-700 text-white font-bold text-sm rounded-xl transition-all shadow-md shadow-blue-500/20">
+                  📩 Gửi Yêu Cầu Cứu Hộ VNPIS Lab
+                </button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Footer */}
-      <footer className="bg-navy-950 py-10 border-t border-navy-800 text-white">
+      <footer className="bg-slate-900 text-slate-400 py-10 border-t border-slate-800 text-xs">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-3">
-            <img
-              src="VNPIS_logo.png"
-              alt="VNPIS Lab"
-              className="h-9 w-auto object-contain bg-white rounded-md px-2 py-0.5"
-            />
-            <span className="text-navy-300 text-xs sm:text-sm font-medium">CÔNG TY TNHH VNPIS &mdash; Trung tâm Cứu hộ Đầu in Kỹ thuật số số 1 Việt Nam</span>
+            <div className="h-8 w-8 rounded-lg bg-blue-600 flex items-center justify-center text-white font-bold">
+              V
+            </div>
+            <span className="text-slate-200 font-semibold text-sm">CÔNG TY TNHH VNPIS &mdash; Trung tâm Cứu hộ & Phục hồi Đầu in Kỹ thuật số</span>
           </div>
-          <p className="text-navy-400 text-xs sm:text-sm">&copy; 2026 VNPIS. All rights reserved.</p>
+          <p>&copy; 2026 VNPIS. All rights reserved.</p>
         </div>
       </footer>
 
-      {/* Modal Article */}
+      {/* Article Modal Popup */}
       {selectedArticle && articlesData[selectedArticle] && (
-        <div className="fixed inset-0 modal-backdrop z-50 flex items-center justify-center p-4">
-          <div className="bg-white rounded-2xl max-w-2xl w-full p-6 sm:p-8 shadow-2xl max-h-[90vh] overflow-y-auto relative border border-slate-200">
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-fadeIn">
+          <div className="bg-white rounded-3xl max-w-2xl w-full p-6 sm:p-8 max-h-[85vh] overflow-y-auto shadow-2xl border border-slate-200 relative">
             <button
               onClick={() => setSelectedArticle(null)}
-              className="absolute top-4 right-4 text-slate-400 hover:text-slate-800 font-bold text-xl"
+              className="absolute top-5 right-5 w-9 h-9 bg-slate-100 hover:bg-slate-200 text-slate-600 rounded-full flex items-center justify-center font-bold transition-colors"
             >
               ✕
             </button>
-            <h3 className="text-xl font-bold text-navy-900 mb-4">{articlesData[selectedArticle].title}</h3>
-            <div dangerouslySetInnerHTML={{ __html: articlesData[selectedArticle].content }} />
+            <span className="inline-block text-xs font-bold text-blue-600 bg-blue-50 px-3 py-1 rounded-full mb-3 border border-blue-100">
+              {articlesData[selectedArticle].category}
+            </span>
+            <h3 className="text-xl sm:text-2xl font-extrabold text-slate-900 mb-4 leading-snug">
+              {articlesData[selectedArticle].title}
+            </h3>
+            <div
+              className="prose prose-slate prose-sm max-w-none border-t border-slate-100 pt-4"
+              dangerouslySetInnerHTML={{ __html: articlesData[selectedArticle].content }}
+            />
+            <div className="mt-8 pt-4 border-t border-slate-100 flex justify-end">
+              <button
+                onClick={() => setSelectedArticle(null)}
+                className="px-6 py-2.5 bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs rounded-xl transition-colors"
+              >
+                Đóng Cửa Sổ
+              </button>
+            </div>
           </div>
         </div>
       )}
