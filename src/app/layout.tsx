@@ -13,7 +13,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="vi">
-      <body class="font-sans text-slate-700 bg-white antialiased">
+      <body className="font-sans text-slate-700 bg-white antialiased">
         {children}
       </body>
     </html>
