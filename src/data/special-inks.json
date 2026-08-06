@@ -1,0 +1,650 @@
+[
+  {
+    "code": "BLUEA",
+    "name": "Thuốc nhuộm màu xanh A",
+    "desc": "chất nền màu sáng",
+    "category": "Khác"
+  },
+  {
+    "code": "BLUEB",
+    "name": "Nhuộm mực xanh đậm",
+    "desc": "Các bề mặt sáng màu khác nhau",
+    "category": "Khác"
+  },
+  {
+    "code": "BLUEC",
+    "name": "Mực xanh đậm (phim phân cực)",
+    "desc": "Mực xanh phân cực cũng được sử dụng trong các tình huống có màu sáng khác nhau",
+    "category": "Khác"
+  },
+  {
+    "code": "C-MAGENTA",
+    "name": "mực đỏ tươi",
+    "desc": "Các dịp màu sáng thường xuyên, loạt màu",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "DZW",
+    "name": "Ký tự lớn bằng mực trắng",
+    "desc": "Máy ký tự lớn DOD mực trắng",
+    "category": "Khác"
+  },
+  {
+    "code": "DZWAV",
+    "name": "Chữ lớn màu trắng chống sunfua",
+    "desc": "Lốp xe, sản phẩm cao su, chỉ dùng cho máy in khổ lớn",
+    "category": "Khác"
+  },
+  {
+    "code": "GREEN",
+    "name": "Nhuộm mực xanh",
+    "desc": "Màu xanh lá cây, vật liệu đa dạng",
+    "category": "Khác"
+  },
+  {
+    "code": "HE01",
+    "name": "Mực đỏ trứng tạo bọt nhiệt",
+    "desc": "Phun mực lên bề mặt trứng, chuẩn bị nguyên liệu màu thực phẩm, sấy chậm",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "HF200",
+    "name": "Mực đen tạo bọt nhiệt nhanh khô",
+    "desc": "In có độ phân giải cao, khô nhanh, độ bám dính và độ phẳng bề mặt cân bằng, hiệu suất in và giải mã vượt trội.",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "HF300",
+    "name": "Mực màu đỏ tươi khô nhanh bằng nhiệt",
+    "desc": "Mực tạo bọt nhiệt gốc dung môi màu đỏ tươi, thích hợp cho nhiều loại vật liệu",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "HF310",
+    "name": "Mực đỏ khô nhanh tạo bọt nhiệt",
+    "desc": "Mực tạo bọt nhiệt gốc dung môi màu đỏ, thích hợp cho nhiều loại vật liệu",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "HF500",
+    "name": "Mực xanh khô nhanh tạo bọt nhiệt",
+    "desc": "In có độ phân giải cao, khô nhanh, độ bám dính và độ phẳng bề mặt cân bằng, hiệu suất in và giải mã vượt trội.",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "HF510",
+    "name": "Mực xanh nhanh khô tạo bọt nhiệt",
+    "desc": "Bọt nhiệt màu xanh, khô nhanh gốc ethanol",
+    "category": "Khác"
+  },
+  {
+    "code": "HF901",
+    "name": "Mực vô hình tạo bọt nhiệt nhanh khô",
+    "desc": "Màu xanh vô hình, dùng trong máy tạo bọt nhiệt",
+    "category": "Tàng hình (UV)"
+  },
+  {
+    "code": "HW",
+    "name": "Mực gốc nước tạo bọt nhiệt",
+    "desc": "Bề mặt in thấm hút, độ đen cao",
+    "category": "Khác"
+  },
+  {
+    "code": "K09",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Độ bám dính tuyệt vời trên hầu hết các loại nhựa, cũng thích hợp cho kim loại",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "K12",
+    "name": "mực nhiệt độ cao",
+    "desc": "Mực nấu ăn nhiệt độ cao, chịu được nhiệt độ cao 121oC, thường dùng làm túi đóng gói thực phẩm, nấu ăn đóng hộp",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "K15",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Mực có độ bám dính cao không chứa halogen, thích hợp cho nhựa và kim loại, đồng thời cũng thích hợp cho một số ứng dụng chống đóng băng",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "K17B",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Độ bám dính cao với vật liệu nhựa và kim loại; tác dụng chống đông tốt",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "KE01",
+    "name": "Mực đỏ tiếp xúc với thực phẩm",
+    "desc": "Mực vỏ trứng, không chứa crom, tiêu chuẩn quốc gia mới (không chứa sắc tố/butanone)",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "LT02",
+    "name": "Mực nướng nhiệt độ cao",
+    "desc": "Khả năng chịu nướng ở nhiệt độ cao",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "LT1A",
+    "name": "mực LT1A",
+    "desc": "Khả năng chống nướng và di chuyển thấp",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "PURPLE",
+    "name": "mực tím",
+    "desc": "màu tím phổ quát",
+    "category": "Khác"
+  },
+  {
+    "code": "REDA",
+    "name": "nhuộm mực đỏ",
+    "desc": "Màu đỏ tươi, dành cho bề mặt sáng màu",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "T03",
+    "name": "màu xanh vô hình",
+    "desc": "Khó nhìn thấy trong cuộc sống hàng ngày, hiển thị ánh sáng xanh rõ ràng dưới tia UV",
+    "category": "Tàng hình (UV)"
+  },
+  {
+    "code": "T05",
+    "name": "Mực tấm khóa nhôm",
+    "desc": "Độ bám dính tốt với bề mặt kim loại, cán màng không dễ di chuyển",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T06",
+    "name": "Mực bổ sung T06",
+    "desc": "Mực nhựa có độ bám dính mạnh hơn mực thường và hoạt động rất ổn định",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T09",
+    "name": "Chống mực",
+    "desc": "Chịu dầu (không có dầu trước khi in), có thể đun sôi ở nhiệt độ thấp",
+    "category": "Khác"
+  },
+  {
+    "code": "T10",
+    "name": "mực găng tay",
+    "desc": "Găng tay PVC, v.v., chống di cư",
+    "category": "Khác"
+  },
+  {
+    "code": "T113",
+    "name": "Mực chịu nhiệt độ cao không chứa halogen",
+    "desc": "Mực không chứa halogen và kháng cồn, chịu được nhiệt độ cao; đặc biệt thích hợp cho ngành công nghiệp điện tử, có độ bám dính cao trên bề mặt kim loại;",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T13",
+    "name": "Mực chịu nhiệt độ cao không chứa halogen",
+    "desc": "Mực chịu cồn không chứa halogen, chịu nhiệt độ cao; đặc biệt thích hợp cho ngành công nghiệp điện tử",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T14",
+    "name": "Thâm nhập màu đỏ tím (mực đen)",
+    "desc": "Tốc độ xuyên nhanh, xuyên vật liệu PE, mực không thể giả mạo",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "T15",
+    "name": "mực chịu cồn",
+    "desc": "Chống cồn trên kim loại nhựa",
+    "category": "Kháng cồn / Hóa chất"
+  },
+  {
+    "code": "T16",
+    "name": "mực nhiệt độ cao",
+    "desc": "Chống nướng thường được sử dụng trong các sản phẩm điện tử và có những phiên bản không chứa halogen.",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T16P",
+    "name": "Phiên bản nâng cao mực nhiệt độ cao",
+    "desc": "Có thể đáp ứng nấu ăn thông thường ở 100oC và cũng có thể được sử dụng để nấu ở áp suất cao ở 126oC; thích hợp cho việc đóng hộp và chế biến thực phẩm ở nhiệt độ cao; không chống lại sự di cư",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T17",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Độ bám dính cao trên bề mặt nhựa và kim loại",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T18",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Độ bám dính cao với nhựa thông dụng và tốt hơn so với mực thông thường trên các vật liệu khác",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T19",
+    "name": "Mực thân thiện với môi trường, nền hỗn hợp ít mùi",
+    "desc": "Ít mùi, nhanh khô, mực gốc hỗn hợp thân thiện với môi trường",
+    "category": "Khác"
+  },
+  {
+    "code": "T22",
+    "name": "Không chứa halogen và kháng cồn",
+    "desc": "Không chứa halogen và kháng cồn, thường được sử dụng trong các sản phẩm điện tử",
+    "category": "Kháng cồn / Hóa chất"
+  },
+  {
+    "code": "T23",
+    "name": "Mực có độ bám dính cao",
+    "desc": "PE chủ yếu có độ bám dính cao và có độ bám dính tốt với các vật liệu khác nhau; nó có đặc tính chống đóng băng nhất định",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T25",
+    "name": "Mực kim loại có độ bám dính cao",
+    "desc": "In trên bề mặt kim loại, độ bám dính cao",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T28",
+    "name": "Mực thấm 1200ml",
+    "desc": "Mực có thể thấm vào PE (nhiệt độ thường), PA (nhiệt độ cao) v.v., tạo thành dấu hiệu không thể làm giả (sẽ nhòe sau thời gian dài)",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T29",
+    "name": "Mực nhiệt độ cao, chịu được 126oC",
+    "desc": "Chịu được nhiệt độ cao khi nấu và không bị chuyển hóa",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T31",
+    "name": "Mực trong suốt",
+    "desc": "Qua lớp dầu mỏng, độ bám dính",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T33",
+    "name": "mực thủy tinh",
+    "desc": "Mực thủy tinh, độ bám dính cao với gốm thủy tinh, kháng n-hexane",
+    "category": "In trên kính / Gốm"
+  },
+  {
+    "code": "T36",
+    "name": "Mực đổi màu ở nhiệt độ cao, đỏ nâu chuyển sang đỏ nhạt",
+    "desc": "Màu nâu đen chuyển sang màu đỏ, thường được nhận biết bằng cách đun sôi ở nhiệt độ cao 126°C",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T37",
+    "name": "Mực không chứa Chrome",
+    "desc": "Không chứa crom, thân thiện với môi trường, sử dụng trong nhà máy điện tử",
+    "category": "Khác"
+  },
+  {
+    "code": "T38",
+    "name": "Mực kháng axit và kiềm cho bảng mạch",
+    "desc": "Không chứa halogen, kháng cồn, kháng axit-kiềm, rất thích hợp cho ngành sản xuất bảng mạch",
+    "category": "Kháng cồn / Hóa chất"
+  },
+  {
+    "code": "T39",
+    "name": "mực chống đông",
+    "desc": "Chịu được nhiệt độ thấp, thực phẩm đông lạnh, v.v.",
+    "category": "Khác"
+  },
+  {
+    "code": "T40",
+    "name": "Mực đen có thể giặt được",
+    "desc": "Điểm đánh dấu tạm thời có thể được loại bỏ bằng nước",
+    "category": "Mực giặt được / Tạm thời"
+  },
+  {
+    "code": "T42",
+    "name": "Khăn giấy mực nhiệt độ cao",
+    "desc": "Dập nóng chịu nhiệt độ cao, không dễ rơi ra",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T43",
+    "name": "mực nhiệt độ cao",
+    "desc": "Chịu nhiệt độ cao, nướng, đun sôi bằng hơi nước, v.v.",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T45",
+    "name": "Màu xanh thuần khiết thâm nhập mạnh mẽ",
+    "desc": "PE có khả năng xuyên thấu mạnh mẽ và không thể bị giả mạo.",
+    "category": "Thẩm thấu"
+  },
+  {
+    "code": "T46PRO",
+    "name": "Màu xanh và đen thâm nhập mạnh mẽ",
+    "desc": "Sự thâm nhập nhanh hơn",
+    "category": "Thẩm thấu"
+  },
+  {
+    "code": "T47",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Độ bám dính cao với nhựa và kim loại, khô nhanh",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T51",
+    "name": "Mực OPP",
+    "desc": "PP, OPP, BOPP có độ bám dính cao; có đặc tính kháng rượu",
+    "category": "Kháng cồn / Hóa chất"
+  },
+  {
+    "code": "T51A",
+    "name": "Mực có độ bền cao",
+    "desc": "Độ bám dính mạnh, chịu dầu và cồn",
+    "category": "Kháng cồn / Hóa chất"
+  },
+  {
+    "code": "T56",
+    "name": "Mực xanh có thể giặt được, dung môi đặc biệt RT40",
+    "desc": "Điểm đánh dấu tạm thời có thể được loại bỏ bằng nước",
+    "category": "Mực giặt được / Tạm thời"
+  },
+  {
+    "code": "T60",
+    "name": "Mực đỏ thực phẩm, dung môi đặc biệt RT60",
+    "desc": "mực đỏ trứng",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "T60BU",
+    "name": "Mực màu xanh trứng",
+    "desc": "Mực bột màu, nền hỗn hợp cồn, khô chậm, có thể dùng để in vỏ trứng và mực tã lót; cần có dung môi gốc cồn;",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "T64",
+    "name": "Mực OPP tách tốt hơn T51",
+    "desc": "Có thể sử dụng trên BOPP, PP; PET, độ bám dính cao",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T68CF",
+    "name": "Mực đen vặn lại không có Chrome",
+    "desc": "Nó có thể chịu được 260 độ C trong 10 phút sau khi nhiệt độ cao, thích hợp cho một số trường hợp nhiệt độ cao (chẳng hạn như hàn sóng, hàn nóng chảy lại, nhưng phải được xác minh); nó có thể chịu được rượu sau 150 độ C trong 10 phút.",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T72",
+    "name": "Màu xanh đen chịu nhiệt độ cao",
+    "desc": "Chịu được nấu ăn ở 126 độ và không có khả năng chống di chuyển",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T73",
+    "name": "Mực di chuyển thấp PVC",
+    "desc": "Được sử dụng đặc biệt trong ống PVC để giảm sự di chuyển",
+    "category": "Khác"
+  },
+  {
+    "code": "T75",
+    "name": "Nhiệt độ cao làm mực chuyển sang màu xanh",
+    "desc": "Logo đổi màu trước và sau nhiệt độ cao",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T77",
+    "name": "Mực di chuyển thấp ở nhiệt độ cao",
+    "desc": "Nấu ở nhiệt độ cao 126 độ C",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T78",
+    "name": "Mực nặng",
+    "desc": "Chống dầu, hiệu quả vượt trội trong mọi tình huống",
+    "category": "Khác"
+  },
+  {
+    "code": "T79",
+    "name": "Mực đỏ nhiệt độ cao",
+    "desc": "Khả năng chống nấu ở nhiệt độ cao",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T80",
+    "name": "Mực PVC",
+    "desc": "Mực nhuộm chuyên dụng trên đường ống PVC, có khả năng chống di chuyển mạnh",
+    "category": "Khác"
+  },
+  {
+    "code": "T81",
+    "name": "Mực tẩy rửa có tính kiềm",
+    "desc": "Dùng để đánh dấu ngắn hạn, chai rượu, chai nước,… có thể dễ dàng loại bỏ bằng nước kiềm nóng.",
+    "category": "Khác"
+  },
+  {
+    "code": "T82",
+    "name": "Mực bông ngọc trai",
+    "desc": "In trên chất liệu cotton ngọc trai đàn hồi, khô chậm, cần dung môi đặc biệt",
+    "category": "Khác"
+  },
+  {
+    "code": "T84",
+    "name": "Rượu este mực thân thiện với môi trường",
+    "desc": "Nhanh khô, mùi hơi dịu, không cần chứa thành phần ketone đã đăng ký",
+    "category": "Khác"
+  },
+  {
+    "code": "T85",
+    "name": "Mực có độ bám dính cao KOPP",
+    "desc": "Được sử dụng trên vật liệu KOPP",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T87B",
+    "name": "Mực thủy tinh chịu kiềm",
+    "desc": "Độ bám dính cao với kính, chịu dầu; túi nylon chống dầu",
+    "category": "In trên kính / Gốm"
+  },
+  {
+    "code": "T89",
+    "name": "mực chống đông",
+    "desc": "chất chống đông",
+    "category": "Khác"
+  },
+  {
+    "code": "T90",
+    "name": "Độ bám dính cao",
+    "desc": "Mực có độ bám dính cao không chứa halogen, thích hợp in trên hầu hết các chất liệu (PP-PI-PET-PE; kim loại, v.v.) có tác dụng chống dầu",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T93",
+    "name": "Mực nấu nước chịu dầu (áp suất thường)",
+    "desc": "Khả năng chống nước và chống dầu tuyệt vời, có thể chịu được dầu và nước sôi ở nhiệt độ dưới 100oC",
+    "category": "Khác"
+  },
+  {
+    "code": "T94",
+    "name": "Mực bám dính cao (khô nhanh hơn một chút)",
+    "desc": "Độ bám dính cao thường xuyên, khô nhanh một chút (thích hợp hơn cho việc in máy phân trang)",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "T97",
+    "name": "mực xanh đen xuyên thấu",
+    "desc": "Sữa Tetra Pak thẩm thấu và hình thành những vết hằn không thể phục hồi. Nó có khả năng chịu nấu ở nhiệt độ cao và phù hợp với đồ hộp và các vật liệu khác.",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "T98",
+    "name": "Mực chịu cồn/PP có độ bám dính cao",
+    "desc": "Chịu được cồn và ngâm trên nhựa (đặc biệt là PP), kim loại và các vật liệu khác",
+    "category": "Kháng cồn / Hóa chất"
+  },
+  {
+    "code": "TC",
+    "name": "Mực gốc cồn",
+    "desc": "Gốc ethanol, ít mùi; thích hợp cho những dịp kín gió, thân thiện với môi trường",
+    "category": "Khác"
+  },
+  {
+    "code": "TCBU",
+    "name": "Mực xanh gốc cồn",
+    "desc": "Mực xanh gốc ethanol, ít mùi",
+    "category": "Khác"
+  },
+  {
+    "code": "TCM",
+    "name": "Mực màu đỏ tươi chứa cồn",
+    "desc": "Mực màu đỏ tươi gốc cồn, ít mùi, thân thiện với môi trường",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "TF",
+    "name": "Mực F",
+    "desc": "Mực đen không chứa halogen, chịu nước, chịu nhiệt, thường được sử dụng trong bảng mạch và các sản phẩm điện tử",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "TS01",
+    "name": "Mực đỏ thực phẩm, dung môi đặc biệt RTS01",
+    "desc": "Mực đỏ trứng, loại bột màu; in trên vỏ trứng",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "TS02",
+    "name": "Mực màu lục lam thực phẩm, dung môi đặc biệt RTS",
+    "desc": "Mực in màu thực phẩm vỏ trứng, hạn chế in vỏ trứng",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "TS03",
+    "name": "Mực trứng tím, dung môi đặc biệt RTS",
+    "desc": "Mực in màu thực phẩm vỏ trứng, hạn chế in vỏ trứng",
+    "category": "Mực in trứng / Thực phẩm"
+  },
+  {
+    "code": "TW101",
+    "name": "mực trắng",
+    "desc": "Mực trắng dây và cáp đa năng, chống di chuyển",
+    "category": "Khác"
+  },
+  {
+    "code": "TW5A",
+    "name": "Làm nổi bật mực trắng",
+    "desc": "Mực trắng sáng, tính linh hoạt mạnh mẽ và độ trắng cao",
+    "category": "Khác"
+  },
+  {
+    "code": "TW6",
+    "name": "Mực trắng (nói chung)",
+    "desc": "Mực trắng thông thường với hiệu suất cân bằng, thích hợp sử dụng cho cáp PVC, cáp không halogen ít khói, cáp PE và nhiều loại vật liệu khác nhau",
+    "category": "Khác"
+  },
+  {
+    "code": "TW7",
+    "name": "mực trắng",
+    "desc": "Phổ quát",
+    "category": "Khác"
+  },
+  {
+    "code": "TWA",
+    "name": "mực trắng",
+    "desc": "Mực trắng thông thường, phạm vi sử dụng rộng rãi",
+    "category": "Khác"
+  },
+  {
+    "code": "TWAV",
+    "name": "Mực trắng chống sunfua",
+    "desc": "Mực trắng lưu hóa cao su, chịu được 140 ~ 180oC",
+    "category": "Khác"
+  },
+  {
+    "code": "TWB",
+    "name": "mực trắng",
+    "desc": "Độ bám dính tuyệt vời, hiệu suất cân bằng, thích ứng với hầu hết các vật liệu",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "TWF",
+    "name": "Mực trắng (tách tốt)",
+    "desc": "Khả năng chống di chuyển tốt, mực trắng",
+    "category": "Khác"
+  },
+  {
+    "code": "TWF6",
+    "name": "Mực trắng phổ thông",
+    "desc": "Mực trắng được sử dụng cho dây và cáp để chống di chuyển; vật liệu thông thường có thể được sử dụng; độ bám dính được cân bằng",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "TWHF",
+    "name": "Mực trắng không chứa halogen",
+    "desc": "Sản phẩm điện tử, yêu cầu không có halogen",
+    "category": "Khác"
+  },
+  {
+    "code": "TWHG",
+    "name": "PE thêm mực trắng",
+    "desc": "PE có độ bám dính cao với mực trắng và không có khả năng chống di chuyển",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "TWHT",
+    "name": "Mực trắng vặn lại",
+    "desc": "Chịu được cồn/độ bám dính cao sau nhiệt độ cao, chống lưu hóa",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "TWLTB",
+    "name": "Mực xanh nhạt và trắng",
+    "desc": "Vật liệu tối màu, sáng màu có màu sắc rõ ràng",
+    "category": "Khác"
+  },
+  {
+    "code": "TWYC",
+    "name": "Mực vàng và trắng loại C",
+    "desc": "Có thể sử dụng trên cả nền tối và bề mặt sáng màu; mực nặng màu vàng, máy mực trắng;",
+    "category": "Khác"
+  },
+  {
+    "code": "TWYD",
+    "name": "Mực vàng và trắng loại D",
+    "desc": "Mã mực in phun rõ ràng có thể được để lại trên cả vật liệu sáng và tối; mực nặng màu vàng và sử dụng máy mực trắng",
+    "category": "Khác"
+  },
+  {
+    "code": "TY1",
+    "name": "Mực đen chống di chuyển",
+    "desc": "Mực bột màu chống di chuyển, chịu nhiệt độ cao, dùng cho cáp PVC, v.v.",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "TY4",
+    "name": "Mực PE màu vàng",
+    "desc": "Mực màu vàng sắc tố, dùng cho PE, thủy tinh kim loại và các vật liệu khác, có phạm vi rộng và không có khả năng chống di chuyển (sử dụng TY5C để chống di chuyển)",
+    "category": "In trên kính / Gốm"
+  },
+  {
+    "code": "TY5C",
+    "name": "Mực vàng chống di dời",
+    "desc": "Sắc tố màu vàng, cáp chống di chuyển và các vật liệu khác được sử dụng",
+    "category": "Khác"
+  },
+  {
+    "code": "TY7",
+    "name": "Mực có thể được áp dụng ở nhiệt độ cao",
+    "desc": "Chịu nhiệt độ cao, chống di chuyển, không để lại dấu vết khi bôi sau khi nấu",
+    "category": "Chịu nhiệt độ cao"
+  },
+  {
+    "code": "TY801",
+    "name": "mực vàng",
+    "desc": "Màu vàng nhạt (xuất hiện màu xanh lục trên một số vật liệu), loại bột màu; độ bám dính cao với PE",
+    "category": "Bám dính cao (Nhựa/Kim loại)"
+  },
+  {
+    "code": "TYA",
+    "name": "Mực đen chống di chuyển",
+    "desc": "Sắc tố đen chống di chuyển, được sử dụng cho dây và cáp, không có halogen và các vật liệu khác, và cũng có thể được sử dụng để chống sôi ở nhiệt độ cao;",
+    "category": "Chịu nhiệt độ cao"
+  }
+]

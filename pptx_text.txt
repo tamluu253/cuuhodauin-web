@@ -1,0 +1,12 @@
+
+--- Slide 1 ---
+ | name model steel plate   1. Pneumatic monochrome mini pad printing machine MN-80-75 100×75  3300 2. Pneumatic monochrome pad printing machine SYDK-125-100 100×75/100×100  5700 3. Pneumatic double print head monochrome pad printing machine SYDK2-125-100 100×75/100×100  6500 4. Pneumatic left and right shuttle two-color pad printing machine SYCK-125-100 100×75/100×100  7400 5. Pneumatic monochrome roller printing pad printing machine SYG-125-100 直径40MM  8700 6. Pneumatic monochrome oil cup pad printing machine SYDK-200-90 100*310  7400 7. Pneumatic oil cup monochrome pad printing machine SYDK-125-90 100*234  6500 8. Pneumatic oil cup double print head monochrome pad printing machine SYDK2-125-90 100*234  7700 9. Pneumatic oil cup shuttles left and right two-color pad printing machine SYCK-125-90 100*234  8700 10. Pneumatic monochrome pad printing machine SYDK-200-150 150×75/150×100  7000 11. Pneumatic double print head monochrome pad printing machine SYDK2-200-150 150×75/150×100  7500
+
+--- Slide 2 ---
+ | name model steel plate   17. Pneumatic monochrome ink cup monochrome pad printing machine MS-150-90 100*250/油盅90  8000 18. Pneumatic turntable two-color pad printing machine MSZ-150-2 100*75/100*100  12800 19. Pneumatic turntable three-color pad printing machine MSZ-150-3 100*75/100*100  14500 20. Pneumatic turntable four-color pad printing machine MSZ-150-4 100*75/100*100  17000 21. Pneumatic left and right shuttle two-color pad printing machine MSC-150-2 100*75/100*100  9000 22. Pneumatic left and right shuttle three-color pad printing machine MSC-150-3 100*75/100*100  11500 23. Pneumatic left and right shuttle four-color pad printing machine MSC-150-4 100*75/100*100  14000 24. Pneumatic monochrome single-head pad printing machine MS-200 150*100/150*150  8000 25. Pneumatic monochrome single-head pad printing machine MS-250 200*100/200*150  11000 26. Pneumatic desktop monochrome oil pan pad printing machine MND125-100 100×75/100×100  5600 27. Pneumatic vertical monochrome oil pan p
+
+--- Slide 3 ---
+1.MN-80-75  2.SYDK-125-100  3.SYDK2-125-100  4.SYCK-125-100  5.SYG-125-100          6.SYDK-200-90  7.SYDK-125-90  8.SYDK2-125-90  9.SYCK-125-90  10.SYDK-200-150          11.SYDK2-200-150  12.SYCK-200-150  13.SYCK-200-90  14.SYDQ-125-90  15.SYDH-125-90          16.MS-150  17.MS-150-90  18.MSZ-150-2  19.MSZ-150-3  20.MSZ-150-4          
+
+--- Slide 4 ---
+21.MSC-150-2  22.MSC-150-3  23.MSC-150-4  24.MS-200  25.MS-250   -       26.MND-125-100  27.MND-125-90  28.MYD-125-90  29.MYD-200-90  30.MYDG-125-100          

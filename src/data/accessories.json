@@ -1,0 +1,419 @@
+{
+  "pads": [
+    {
+      "id": "pad-series-r",
+      "name": "Đầu In Silicone Tròn (R Series - Round Pads)",
+      "desc": "Thiết kế dạng khối nón / bán cầu với đỉnh tâm nổi. Giúp bọt khí thoát ra ngoài dễ dàng trong quá trình ép mực, hạn chế bọt khí (air bubble) làm thủng hình in. Phù hợp cho cả bề mặt phẳng và cong tròn lồi/lõm.",
+      "features": [
+        "Chống đọng bọt khí tuyệt đối",
+        "Độ đàn hồi & bật nảy mực nhanh",
+        "Ứng dụng in logo tròn, bề mặt lồi/lõm"
+      ],
+      "image": "/images/products/pads/pad_shape_1_p1.jpg",
+      "models": [
+        {
+          "code": "R01 / EN-R31",
+          "size": "80 x 80 x 60 mm",
+          "type": "Tròn nón lớn",
+          "img": "/images/products/pads/pad_shape_5_p2.jpg"
+        },
+        {
+          "code": "R04 / EN-R29",
+          "size": "70 x 70 x 60 mm",
+          "type": "Tròn nón trung",
+          "img": "/images/products/pads/pad_shape_4_p2.jpg"
+        },
+        {
+          "code": "R05 / R26",
+          "size": "60 x 60 x 50 mm",
+          "type": "Tròn nón tiêu chuẩn",
+          "img": "/images/products/pads/pad_shape_6_p2.jpg"
+        },
+        {
+          "code": "R06 / EN-R65",
+          "size": "60 x 60 x 40 mm",
+          "type": "Tròn thấp",
+          "img": "/images/products/pads/pad_shape_7_p2.jpg"
+        },
+        {
+          "code": "R07 / EN-R36",
+          "size": "120 x 120 x 70 mm",
+          "type": "Tròn nón siêu lớn",
+          "img": "/images/products/pads/pad_shape_8_p2.jpg"
+        },
+        {
+          "code": "EN-R27",
+          "size": "41 x 41 x 40 mm",
+          "type": "Tròn nón nhỏ (Mini)",
+          "img": "/images/products/pads/pad_shape_9_p2.jpg"
+        },
+        {
+          "code": "EN-R35",
+          "size": "140 x 140 x 80 mm",
+          "type": "Tròn nón đại industrial",
+          "img": "/images/products/pads/pad_shape_10_p2.jpg"
+        },
+        {
+          "code": "EN-R37 / R38",
+          "size": "35 x 35 x 40 mm",
+          "type": "Tròn siêu nhỏ nắp chai",
+          "img": "/images/products/pads/pad_shape_11_p2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pad-series-q",
+      "name": "Đầu In Silicone Vuông & Chữ Nhật (Q Series - Rectangular Pads)",
+      "desc": "Thiết kế mặt cắt có mái nghiêng (Ridge roof) giúp vuốt mực đều đặn dọc theo chiều dài của ký tự. Phù hợp cho in bảng điều khiển, logo hình chữ nhật, khối hộp và dòng chữ dài.",
+      "features": [
+        "Góc vát thoát khí đường dài",
+        "Chống méo biên ký tự",
+        "Màng mực phủ đều trên vùng in chữ nhật"
+      ],
+      "image": "/images/products/pads/pad_shape_2_p1.jpg",
+      "models": [
+        {
+          "code": "Q01 / EN-Q23",
+          "size": "96 x 80 x 70 mm",
+          "type": "Chữ nhật tiêu chuẩn",
+          "img": "/images/products/pads/pad_shape_12_p3.jpg"
+        },
+        {
+          "code": "Q03 / EN-Q29",
+          "size": "133 x 91 x 70 mm",
+          "type": "Chữ nhật trung",
+          "img": "/images/products/pads/pad_shape_13_p3.jpg"
+        },
+        {
+          "code": "Q05 / Q06",
+          "size": "120 x 75 x 60 mm",
+          "type": "Chữ nhật mái nghiêng",
+          "img": "/images/products/pads/pad_shape_14_p3.jpg"
+        },
+        {
+          "code": "Q08 / EN-Q84",
+          "size": "140 x 100 x 60 mm",
+          "type": "Chữ nhật phẳng lớn",
+          "img": "/images/products/pads/pad_shape_15_p3.jpg"
+        },
+        {
+          "code": "Q12 / EN-Q26",
+          "size": "185 x 132 x 72 mm",
+          "type": "Chữ nhật đại",
+          "img": "/images/products/pads/pad_shape_16_p3.jpg"
+        },
+        {
+          "code": "Q18 / EN-Q44",
+          "size": "55 x 50 x 40 mm",
+          "type": "Chữ nhật mini nắp lọ",
+          "img": "/images/products/pads/pad_shape_17_p3.jpg"
+        },
+        {
+          "code": "EN-Q41",
+          "size": "160 x 95 x 70 mm",
+          "type": "Chữ nhật vát đôi",
+          "img": "/images/products/pads/pad_shape_18_p3.jpg"
+        },
+        {
+          "code": "EN-Q50",
+          "size": "115 x 80 x 60 mm",
+          "type": "Chữ nhật nẹp gỗ",
+          "img": "/images/products/pads/pad_shape_19_p3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pad-series-l",
+      "name": "Đầu In Silicone Dạng Dải Dài (L Series - Long Bar Pads)",
+      "desc": "Đầu in dạng thanh dài chuyên dụng cho việc in thước kẻ, hoa văn chạy dọc thân sản phẩm, dãy số chữ dài, ống y tế, bàn phím và khung vỏ thiết bị điện tử.",
+      "features": [
+        "Thiết kế vát nón dọc thanh",
+        "Độ dẻo DAI không đứt gãy",
+        "In dải họa tiết dài không bị đứt đoạn"
+      ],
+      "image": "/images/products/pads/pad_shape_3_p2.jpg",
+      "models": [
+        {
+          "code": "L01",
+          "size": "125 x 97 x 70 mm",
+          "type": "Thanh ngắn lớn",
+          "img": "/images/products/pads/pad_shape_20_p3.jpg"
+        },
+        {
+          "code": "L02",
+          "size": "127 x 65 x 50 mm",
+          "type": "Thanh ngắn vát nón",
+          "img": "/images/products/pads/pad_shape_21_p3.jpg"
+        },
+        {
+          "code": "L03",
+          "size": "116 x 55 x 40 mm",
+          "type": "Thanh mini",
+          "img": "/images/products/pads/pad_shape_22_p3.jpg"
+        },
+        {
+          "code": "L05",
+          "size": "175 x 97 x 70 mm",
+          "type": "Thanh trung",
+          "img": "/images/products/pads/pad_shape_23_p3.jpg"
+        },
+        {
+          "code": "L06 / L12",
+          "size": "370 x 70 x 60 mm",
+          "type": "Thanh dài thước kẻ",
+          "img": "/images/products/pads/pad_shape_24_p3.jpg"
+        },
+        {
+          "code": "L07",
+          "size": "355 x 55 x 50 mm",
+          "type": "Thanh dài vát nhọn",
+          "img": "/images/products/pads/pad_shape_25_p3.jpg"
+        },
+        {
+          "code": "L08 / L09",
+          "size": "348 x 98 x 70 mm",
+          "type": "Thanh dài siêu phẳng",
+          "img": "/images/products/pads/pad_shape_26_p3.jpg"
+        },
+        {
+          "code": "L10",
+          "size": "340 x 90 x 70 mm",
+          "type": "Thanh dài khung máy",
+          "img": "/images/products/pads/pad_shape_27_p3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pad-series-custom",
+      "name": "Đầu In Silicone Hình Thù Đặc Biệt & Khuôn Nẹp Gỗ",
+      "desc": "VNPIS nhận tư vấn, thiết kế khuôn và đúc đầu in silicone theo mẫu sản phẩm thực tế của khách hàng (in trong lòng chén lõm sâu, in bậc thang, in cạnh nón, in sản phẩm hình cầu). Tùy chọn nẹp gỗ hoặc nẹp nhôm nguyên khối.",
+      "features": [
+        "Gia công đúc khuôn custom",
+        "Độ cứng linh hoạt 30° đến 70° Shore A",
+        "Lựa chọn nẹp Gỗ / Nhôm / Thép"
+      ],
+      "image": "/images/products/pads/pad_shape_72_p4.jpg",
+      "models": [
+        {
+          "code": "Shore A 30°-38°",
+          "size": "Mềm (Soft)",
+          "type": "In sản phẩm giòn, rỗng, nhựa mỏng",
+          "img": "/images/products/pads/pad_shape_28_p3.jpg"
+        },
+        {
+          "code": "Shore A 40°-48°",
+          "size": "Vừa (Medium Standard)",
+          "type": "Độ cứng chuẩn cho 80% ứng dụng in",
+          "img": "/images/products/pads/pad_shape_29_p3.jpg"
+        },
+        {
+          "code": "Shore A 50°-58°",
+          "size": "Cứng (Hard)",
+          "type": "In bề mặt nhám, thô, có nếp hằn",
+          "img": "/images/products/pads/pad_shape_30_p3.jpg"
+        },
+        {
+          "code": "Shore A 60°-70°",
+          "size": "Siêu Cứng (Extra Hard)",
+          "type": "In chi tiết siêu nhỏ, in kim loại ít biến dạng",
+          "img": "/images/products/pads/pad_shape_31_p3.jpg"
+        }
+      ]
+    }
+  ],
+  "plates": [
+    {
+      "id": "plate-steel-thick",
+      "name": "Khuôn Thép Dày (10mm)",
+      "desc": "Khuôn thép hợp kim siêu bền, được gia công CNC và khắc axit hoặc khắc laser chính xác. Tuổi thọ lên đến hàng triệu lần in.",
+      "features": [
+        "Dày 10mm",
+        "Tuổi thọ 1-2 triệu lần in",
+        "Dành cho sản xuất hàng loạt"
+      ],
+      "image": "/images/products/plates/plate-steel-thick.jpg"
+    },
+    {
+      "id": "plate-steel-thin",
+      "name": "Khuôn Thép Mỏng (0.5mm)",
+      "desc": "Khuôn thép lá mỏng tiết kiệm chi phí, sử dụng kèm đế nam châm (Magnetic block). Dễ lưu trữ, phù hợp in đơn hàng trung bình.",
+      "features": [
+        "Dày 0.25mm - 0.5mm",
+        "Cần đế nam châm",
+        "Tiết kiệm chi phí"
+      ],
+      "image": "/images/products/plates/plate-steel-thin.jpg"
+    },
+    {
+      "id": "plate-polymer",
+      "name": "Khuôn Polymer",
+      "desc": "Khuôn gốc nhựa dễ phơi bản bằng tia UV tại nhà máy. Khắc phục sự phụ thuộc vào xưởng làm khuôn thép.",
+      "features": [
+        "Có thể tự phơi bản",
+        "Tuổi thọ 10,000 - 50,000 lần",
+        "Linh hoạt cho in mẫu"
+      ],
+      "image": "/images/products/plates/plate-polymer.jpg"
+    }
+  ],
+  "accessories": [
+    {
+      "id": "acc-ink-cup",
+      "name": "Cốc Mực (Sealed Ink Cup)",
+      "desc": "Đa dạng các loại cốc mực: Cốc nhựa, cốc nhôm nguyên khối, cốc có từ tính (nam châm) hoặc cốc không từ tính. Nhận gia công theo bản vẽ.",
+      "sizes": [
+        "Ø60mm",
+        "Ø90mm",
+        "Ø130mm",
+        "Ø150mm",
+        "Gia công theo yêu cầu"
+      ],
+      "features": [
+        "Chống bay hơi dung môi",
+        "Kín khí tiết kiệm mực",
+        "Nhôm nguyên khối CNC"
+      ],
+      "image": "/images/products/accessories/ink-cups.jpg"
+    },
+    {
+      "id": "acc-ceramic-ring",
+      "name": "Vòng Gốm Gạt Mực (Ceramic Ring)",
+      "desc": "Vòng gốm siêu cứng gắn trên cốc mực. Chịu mài mòn cực tốt, gạt sạch mực thừa trên bề mặt khuôn thép mà không làm xước khuôn.",
+      "sizes": [
+        "Ø60mm",
+        "Ø90mm",
+        "Ø130mm",
+        "Ø150mm"
+      ],
+      "features": [
+        "Gốm Zirconia siêu cứng",
+        "Độ bóng bề mặt lưỡi cực cao",
+        "Chống xước bản thép"
+      ],
+      "image": "/images/products/accessories/ceramic-ring.jpg"
+    },
+    {
+      "id": "acc-tungsten-ring",
+      "name": "Vòng Thép Gạt Mực (Tungsten Ring)",
+      "desc": "Làm từ thép Tungsten Carbide nguyên khối, chống mẻ vỡ khi va đập, tuổi thọ cao hơn gốm khi dùng với khuôn thép dày.",
+      "sizes": [
+        "Ø60mm",
+        "Ø90mm",
+        "Ø130mm",
+        "Ø150mm"
+      ],
+      "features": [
+        "Thép Tungsten Carbide",
+        "Chống va đập nứt vỡ",
+        "Bền bỉ cho ca sản xuất lớn"
+      ],
+      "image": "/images/products/accessories/tungsten-ring.jpg"
+    },
+    {
+      "id": "acc-double-material-ring",
+      "name": "Vòng Gạt Mực Kép (Double-Material Inlaid Ring)",
+      "desc": "Sản phẩm công nghệ mới: Vòng dao khảm 2 vật liệu. Phần viền ngoài bằng Inox (Stainless Steel) chống rỉ sét, phần lưỡi gạt bằng thép Tungsten siêu cứng.",
+      "sizes": [
+        "Ø60mm",
+        "Ø90mm",
+        "Ø130mm",
+        "Ø150mm"
+      ],
+      "features": [
+        "Viền Inox chống rỉ",
+        "Lưỡi Tungsten gạt cực sạch",
+        "Tối ưu chi phí thay thế"
+      ],
+      "image": "/images/products/accessories/double-material-ring.jpg"
+    },
+    {
+      "id": "acc-doctor-blade",
+      "name": "Dao Gạt Mực (Doctor Blade)",
+      "desc": "Dao gạt mực thép mỏng dùng cho máy in khay hở (Open-inkwell) hoặc dao gạt mực cao su (Squeegee) cho máy in lụa.",
+      "sizes": [
+        "Cắt theo yêu cầu"
+      ],
+      "features": [
+        "Lưỡi dao vát chính xác",
+        "Thép Thụy Điển chống mài mòn",
+        "Gạt mực phẳng đều"
+      ],
+      "image": "/images/products/accessories/doctor-blade.jpg"
+    },
+    {
+      "id": "acc-tray-liner",
+      "name": "Tấm Lót Khay Mực (Ink Tray Liners)",
+      "desc": "Tấm nhựa lót trong khay mực, dùng 1 lần. Khắc phục triệt để thời gian rửa khay mỗi lần thay màu mực.",
+      "sizes": [
+        "Vừa khít mọi loại khay"
+      ],
+      "features": [
+        "Dùng 1 lần tiện lợi",
+        "Không tốn thời gian rửa khay",
+        "Chống rò rỉ dung môi"
+      ],
+      "image": "/images/products/accessories/tray-liners.jpg"
+    }
+  ],
+  "additives": [
+    {
+      "id": "add-solvent",
+      "name": "Dung Môi Pha Mực (Solvents)",
+      "desc": "Dung môi chuyên dụng pha loãng mực in, kiểm soát tốc độ khô (nhanh khô, chậm khô) phù hợp với tốc độ máy và nhiệt độ xưởng.",
+      "sizes": [
+        "Can 1 Lít",
+        "Can 5 Lít"
+      ],
+      "features": [
+        "Pha loãng mực chuẩn độ nhớt",
+        "Tốc độ khô linh hoạt",
+        "Không làm xỉn màu mực"
+      ],
+      "image": "/images/products/additives/solvent.jpg"
+    },
+    {
+      "id": "add-primer",
+      "name": "Chất Trợ Bám (Adhesion Promoters / Primer)",
+      "desc": "Hóa chất xử lý bề mặt trước khi in đối với các vật liệu cực kỳ khó bám dính như nhựa PP, PE, Teflon, kim loại bóng hay kính.",
+      "sizes": [
+        "Can 1 Lít",
+        "Can 5 Lít"
+      ],
+      "features": [
+        "Tăng bám dính gấp 5 lần",
+        "Thoa tạo màng siêu mỏng",
+        "Phù hợp tiêu chuẩn xuất khẩu"
+      ],
+      "image": "/images/products/additives/primer.jpg"
+    },
+    {
+      "id": "add-retarder",
+      "name": "Chất Làm Chậm Khô (Retarder)",
+      "desc": "Dung môi đặc biệt giúp kéo dài thời gian khô của mực trên bản khắc và đầu in silicone khi sản xuất trong mùa nóng hoặc tốc độ máy chậm.",
+      "sizes": [
+        "Can 1 Lít"
+      ],
+      "features": [
+        "Chống bít bản in",
+        "Giữ màng mực dẻo mượt",
+        "Không gây biến đổi sắc màu"
+      ],
+      "image": "/images/products/additives/retarder.jpg"
+    },
+    {
+      "id": "add-hardener",
+      "name": "Chất Tăng Cứng (Hardener 2K)",
+      "desc": "Phụ gia đóng rắn pha vào mực 2 thành phần (2K Ink) giúp tăng khả năng chịu mài mòn, chịu hóa chất, cồn, xà phòng và tẩy rửa mạnh.",
+      "sizes": [
+        "Chai 100g",
+        "Chai 1kg"
+      ],
+      "features": [
+        "Kháng cồn & hóa chất mạnh",
+        "Chống trầy xước tuyệt đối",
+        "Bảo vệ màng mực siêu bền"
+      ],
+      "image": "/images/products/additives/hardener.jpg"
+    }
+  ]
+}

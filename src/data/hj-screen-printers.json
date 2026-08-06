@@ -1,0 +1,65 @@
+[
+  {
+    "model": "HS-260P",
+    "colors": 1,
+    "desc": "Máy in lụa phẳng hút chân không",
+    "plateSize": "400x600mm",
+    "printArea": "200x260mm",
+    "speed": "1600 nhịp/giờ",
+    "image": "/images/pad-printers/hj/catalog_p1_1.png"
+  },
+  {
+    "model": "HS-350P",
+    "colors": 1,
+    "desc": "Máy in lụa phẳng độ chính xác cao",
+    "plateSize": "500x700mm",
+    "printArea": "250x350mm",
+    "speed": "1400 nhịp/giờ",
+    "image": "/images/pad-printers/hj/catalog_p2_1.png"
+  },
+  {
+    "model": "HS-500P",
+    "colors": 1,
+    "desc": "Máy in lụa phẳng tiêu chuẩn 500mm",
+    "plateSize": "550x800mm",
+    "printArea": "300x500mm",
+    "speed": "900 nhịp/giờ",
+    "image": "/images/pad-printers/hj/catalog_p3_1.png"
+  },
+  {
+    "model": "HS-600P",
+    "colors": 1,
+    "desc": "Máy in lụa phẳng tiêu chuẩn 600mm",
+    "plateSize": "700x1000mm",
+    "printArea": "400x600mm",
+    "speed": "1000 nhịp/giờ",
+    "image": "/images/pad-printers/hj/catalog_p4_1.png"
+  },
+  {
+    "model": "HS-1300PE",
+    "colors": 1,
+    "desc": "Máy in lụa phẳng chạy bàn hút chân không khổ lớn",
+    "plateSize": "1300x1600mm",
+    "printArea": "1000x1300mm",
+    "speed": "600 nhịp/giờ",
+    "image": "/images/pad-printers/hj/catalog_p5_1.png"
+  },
+  {
+    "model": "HS-260R",
+    "colors": 1,
+    "desc": "Máy in lụa trụ tròn (Cylindrical)",
+    "plateSize": "350x500mm",
+    "printArea": "Đường kính Ф80mm",
+    "speed": "1400 nhịp/giờ",
+    "image": "/images/pad-printers/hj/catalog_p6_1.png"
+  },
+  {
+    "model": "HS-500R",
+    "colors": 1,
+    "desc": "Máy in lụa trụ tròn cỡ lớn 150mm",
+    "plateSize": "450x750mm",
+    "printArea": "Đường kính Ф150mm",
+    "speed": "1000 nhịp/giờ",
+    "image": "/images/pad-printers/hj/catalog_p7_1.png"
+  }
+]

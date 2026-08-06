@@ -1,0 +1,426 @@
+
+--- Page 1 ---
+HP160A-CCD跑台式移印印刷机
+HP-160A CCD Slide 1 color pad printer
+技术参数
+TECHNICAL PARAMETER
+印刷台面尺寸 吸气面积
+Workbench Size ：400x400mm Vacuum Size：200x250mm
+最大印刷面积 最大钢板尺寸
+Max Printing Area ：75x125mm Max Steel Plate Size：100x150mm
+钢板厚度 印刷高度
+Steel Plate Thickness ：10mm Printing Height ：25mm
+台面高度 跑台左右行程
+Workbench Height ：890±30mm Run-table Left/ Right Stroke：450mm
+印刷头速度 最大产能
+Printing Head Speed ：150-650mm/sec Max Produce Capacity：600P/H
+耗电量 气源压力
+Power consumption ：1.5Kw Air Source Pressure ：4-6Kg/ M2
+机器尺寸Machine Dimension(Wx L x H) ：1190x1179x1600mm
+适用范围 Scope：
+适适用用小小件件膜膜、、玻玻璃璃、、手手机机盖盖板板、、IIRR孔孔、、llooggoo薄薄膜膜按按键键（（MMeemmbbrraannee SSwwiittcchh））、、生生物物测测试试片片等等。
+A p ply to small pieces/ plate shape for accuracy printing. Like FPC, IMD,Membrane Switch, Biological test pieces Etc
+采采用用高高精精密密CCCCDD影影像像对对位位系系统统自自动动对对位位，，提提高高印印刷刷精精度度，，减减小小不不良良率率。。最最高高影影像像对对位位精精度度00..000055mmmm内内
+CCD image registration system for high precision automatic alignment, improve the printing accuracy, reduce scrap rate.
+The highest image registration accuracy within 0.005 mm.
+胶胶头头前前后后采采用用台台湾湾精精密密线线性性导导轨轨搭搭配配气气缸缸与与一一体体机机身身相相结结合合。。采采机机械械式式死死限限固固定定对对位位块块定定位位。。
+Adopt Taiwan before and after the glue head match precision linear guide cylinder with a fuselage. Adopt mechanical die limit fixed Para piece positioning.
+胶胶头头上上下下采采用用台台湾湾精精密密线线性性导导轨轨加加一一体体成成型型铝铝合合金金结结构构，，精精度度及及耐耐用用性性提提高高，，承承载载力力量量强强，，稳稳静静无无声声。。
+Under the head adopts Taiwan precision linear guide rail and a integrated aluminum alloy structure, improving accuracy and durability
+bearing strength is strong, steady static silent.
+对对位位平平台台左左右右采采用用日日本本松松下下伺伺服服电电机机搭搭配配精精密密线线性性导导轨轨运运行行，，定定位位采采用用日日本本强强力力电电磁磁铁铁精精准准定定位位。。
+Para platform around the Japanese Panasonic servo motor with precision linear guide rail, precision positioning using Japaness powerful magnet positioning.
+作作业业数数据据化化及及标标装装化化，，人人性性化化。。
+Digital control, human-machine interface can be set of multi-function and operating parameters, digital and standard pack for homework, humanization.
+免免油油式式滤滤水水调调压压组组不不产产生生排排气气油油雾雾污污染染，，适适合合无无尘尘室室内内使使用用。。
+Oil free type filter water regulating group does not produce exhaust pollution of oil mist, suitable for clean room use.
+HP-300HZ 8色转盘移印机-专用奶瓶图案印刷机
+HP-300HZ Hengjin precise 8colors 22 stations pad printer with rurn table
+技术参数
+TECHNICAL PARAMETER
+钢板尺寸（Max printing p late s ize）:100mm*2500mm
+印刷面积（Max Printing area） :75mm*225mm
+印刷速度（ Max Printing speed） : 500pcs/hour
+机身尺寸（Max Dimension） : 1475*2005*1732mm
+印刷颜色（Max Printing colors） :8
+特点(Features)：
+1.多色印刷，操作简单，人机界面数字化操作，提供多种功能设定达到标准化。
+Multicolor printing, simple operation, the man-machine interface digital operation,
+offers a variety of function set to standardization.
+数字化人性化之完善要求。
+Digital humanization of perfect.
+2.转盘气动棘抓定位方式，定位精度高，22工位设计达到装料，取料，印刷同步
+Rotary pneumatic spines stresses the locate mode, high positioning accuracy,
+22 to charging station design, material, printing. To save time to increase capacity.
+进行。节省时间提高产能。配备自动翻转装置，可翻转90-180度，实现多个面印
+Equipped with automatic turn-over device,can flip 90-180 degrees, a complete implement
+刷一次完成，节省工人装夹产品次数。
+multiple surface printing, save workers clamping product number.
+3.适用开发式油盅。调节简单使用方便.
+Apply to open the oil cup. Adjust the simple easy to use.
+适用范围：奶瓶，瓶子，玩具等。
+Scope of application: bottles, bottle, toys, etc.
+10
+--- Page 2 ---
+HP250AYM 双伺服移印机
+HP250AYM 2colors servo screen printing machine
+技术参数
+TECHNICAL PARAMETER
+钢板尺寸
+p late s ize : 200*400mm/150mm*350mm
+印刷面积
+Printing Size : Ф160mm/Ф120mm
+印刷速度
+Ink cup size : Ф180mm/Ф140mm
+油盅大小
+Printing speed : 1450pcs/hour
+机身尺寸
+Dimension : 650*888*1900mm
+特点(Featires)：
+1.跑台伺服电机驱动，位置精准，运作稳定.
+Treadmill servomotordrive,precise location,stable operation
+2.单工作台设计师 多位置移动工作，方便大承印物上下料.
+Single stage designer multi-position work,tofacilltate loading and unloading large substrates
+3.配备自动下料机械手适用于机械手对接，减少劳动力节约成本.
+equipped with automatic cutting robot manipulator for docking,reduce labor cost savings
+适用范围：膜，玻璃 ，纸张，条幅等大型平面类产品.
+Suitable range.....Membrane glass paper banners and other large flat products
+HP-300FAC六色伺服移印机（胶头独立下降）
+HP-300FAC hengjin automatic 6colors pad printer with ink cup
+技术参数
+TECHNICAL PARAMETER
+钢板尺寸 Max Plate s ize:150mm*300mm
+印刷面积 Max Printing Size:Ф125mm
+印刷速度 Max Printing speed:800pcs/hour
+油盅大小 Max Ink cup size:Ф140mm
+机身尺寸 Dimension:1150*1330*1774mm
+印刷颜色 Printing color:6
+穿梭式印刷系列产品特点（FEATUES）:
+特点(Feature of this pad printing machine)
+1.多色印刷，操作方便，人机界面数字化操作。提供多种功能设定，达到标准化，
+Multicolor printing,easy to operate,man-machine inerface,digital operation,provide a variety of
+funcion set,to achieve standardization
+数字化人性化之完善要求.
+digitization and humanization of the perfect requests
+2.电子推送器平台，可任意设定平台移动位置，距离顺序，达到印刷颜色距离增大也可以印刷
+Can be random set of mobile location,distance sequence,in the electronic push platform,even if the printing distance increase
+which still can be printing
+3.独立胶头下降，对于承印物，小图案完美解决。人机界面可设定一次单色印刷或多色同时印刷。
+.Independent glue head drop, for substrates, small design perfect solution.Man-machina interface can be setted single
+and milticolor printing at the same time
+4.使用密封式环保油杯，节省油墨，智能环保，使用方便易清洗。
+Used stealed ink cup, save ink, green smart easy to operate and wash
+适用范围(scope)
+安全帽，电子产品外壳（机顶盒，键盘，饮水机外壳）等大型产品。
+Helmet,electronics (set-top boxes,keyboards,water dispenser shell) and other large products
+1 1
+--- Page 3 ---
+HP-125座台式单色移印机 HP-125A座地油盘式单色移印机
+HS-125 pneumatic desktop 1 color pad printer HP-125A pneumatic single color pad printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+Printing plate size Printing plate size
+100mm*100mm 100mm*100mm
+印刷面积 印刷面积
+Printing Size Printing Size
+75mm*75mm 75mm*75mm
+印刷速度 印刷速度
+Printing Speed Printing speed
+2100次/小时 2100次/小时
+机身尺寸 机身尺寸
+Body size Body size
+560*340*540mm 590*480*1240mm
+HP-125AY座地油盘式单色移印机 HP-125B双色穿梭移印机
+HP-125AY pneumatic single color pad printer with ink cup HP-125B pneumatic 2 colors pad printer with shuttle
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+Printing plate size Printing plate size
+100mm*200mm 100mm*100mm
+印刷面积 印刷面积
+Printing Size Printing Size
+Ф45mm 75mm*75mm
+油盅大小 印刷速度
+Lnk cup Size Printing speed
+Ф60mm 1500次/小时
+机身尺寸 机身尺寸
+Body size Body size
+590*480*1240mm 590*520*1240mm
+HP-125系列印刷主要特点（FEATUES）:
+本系列移印机使用于各类电子产品的按键，如计算机键盘，手机按键，电子面板，电话机，游戏机以及钟表，玩具，日用品，
+This seres of machines are widely applied to printing on all kinds of button of electric products like computer,mobile phone
+,electric pane,telephone,game player,rtc.Printing on accessories of hardware such as logo,toy,and commodity It is also
+礼品等五金塑胶物品logo，图案文字印刷，也可以针对特殊产品需求设计专用机型。
+applicable for these machines,special design is available according to the specific requirements of our clients.
+1 2
+--- Page 4 ---
+HP-160座地式油盘单色移印机 HP-160Y座地式油盅单色移印机
+HP-160 single color ppad pprinter HP-160Y single color ink cup pad printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+Printing p late s ize Printing p late s ize
+100mm*150mm 100mm*250mm
+印刷面积 印刷面积
+Printing Size Printing Size
+75mm*125mm 70mm*70mm或Ф75
+印刷速度 油盅大小
+Printing Speed Ink cup Size
+1800次/小时 Ф90mm
+机身尺寸 机身尺寸
+Body size Body size
+770*580*1400mm 770*580*1400mm
+HP-160BY座地式油盅双色移印机 HP-160BZ双色转盘移印机
+HP-160BY pneumatic 2 colors pad printer with ink cup HP-160BZ pneumatic 2 colors pad printer with conveyor
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+100mm*250mm 100mm*150mm
+印刷面积 印刷面积
+Printing Size Printing Size
+70mm*70mm或Ф75 75mm*125mm
+油盅大小 印刷速度
+Ink cup Size Printing speed
+Ф90mm 1800次/小时
+机身尺寸 机身尺寸
+Body size Body size
+770*650*1400mm 860*710*1400mm
+HP-160系列印刷机主要特点（FEATUES）:
+本系列移印机是我司精心设计的一种通用型印刷机。能广泛应用于日常用品、玩具、电子、电器、塑料、皮革、金属、玻
+This series of pad printing Machines designed by our company is a universal type printing machine Can be widely used in
+daily articles.such as:toys,electronics,electrical appliances,plastic,leather,matal,glass,
+璃、轻工业及食品包装等各种行业中。
+light industry,packaging etc.
+1 3
+--- Page 5 ---
+HP-160C三色穿梭移印机 HP-160YX座地式油盅单色移印机
+HP-160C 3 color pad printer with shuttle HP-160YX single color ink cup pad printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+100mm*250mm 100mm*500mm
+印刷面积 印刷面积
+Printing Size Printing Size
+70mm*70mm或Ф75mm 70mm*300mm
+油盅大小 油盅大小
+Ink cup Size Ink cup Size
+Ф90mm Ф90mm
+印刷速度 机身尺寸
+Printing Speed Body size
+900次/小时 780*760*1450mm
+机身尺寸
+Body size
+770*770*1400mm
+HP-160D 四色穿梭移印机
+顾客购机指南
+HP-160D 4 colors pad printer with shuttle
+1.生产场所 1.Production sites
+技术参数 2.印刷色组 2.Color printing gtoup
+TECHNICAL PARAMETER 3.印刷工件规格 3.Printed workpiece specifications
+4.印刷面积 4.Printing Area
+钢板尺寸
+5.钢板尺寸要求 5.Plate size requirements
+printing p late s ize
+6.印刷物料要求 6.Printed material requirements
+100mm*250mm
+7.产量要求 7.Production requirements
+印刷面积
+8.生产工业 8.Production of industrial
+Printing Size
+70*70或Ф75mm
+油盅大小
+Ink cup Size
+Ф90mm
+印刷速度
+Printing speed
+680次/小时
+机身尺寸
+Body size
+770*850*1400mm
+节油式油盘 油盅及油环
+HP-160系列印刷机主要特点（FEATUES）:
+本系列移印机是我司精心设计的一种通用型印刷机。能广泛应用于日常用品、玩具、电子、电器、塑料、皮革、金属、玻
+This series of pad printing Machines designed by our company is a universal type printing machine Can be widely used in
+daily articles.such as:toys,electronics,electrical appliances,plastic,leather,matal,glass,
+璃、轻工业及食品包装等各种行业中。
+light industry,packaging etc.
+1 4
+--- Page 6 ---
+HP-160CZ三色转盘移印机 HP-160DZ四色转盘移印机
+HP-160CZ pneumatic3 color pad printer with turntable HP-160DZ Four single color pad printer with conweyor
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+100mm*150mm 100mm*150mm
+印刷面积 印刷面积
+Printing Size Printing Size
+75mm*125mm 75mm*125mm
+印刷速度 印刷速度
+Printing Speed Printing speed
+1200次/小时 1200次/小时
+机身尺寸 机身尺寸
+Body size Body size
+860*810*1450mm 860*1100*1450mm
+HP-200D四色穿梭移印机 HP-200DZY四色转盘移印机
+HP-200D 4 color pad printer with turntable HP-200DZY four color ink cup pad printer with conveyor
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETERR
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+100mm*250mm
+100mm*150mm
+印刷面积
+印刷面积
+Printing Size
+Printing Size
+75mm*125mm
+75mm*120mm
+油盅大小
+印刷速度
+Ink cup Size
+Ф90mm Printing speed
+印刷速度 1200次/小时
+Printing Speed 机身尺寸
+600次/小时 Body size
+机身尺寸
+1030*1045*1450mmm
+Body size
+900*900*1450mm
+HP-160系列印刷机主要特点（FEATUES）:
+本系列移印机是我司精心设计的一种通用型印刷机。能广泛应用于日常用品、玩具、电子、电器、塑料、
+This series of pad printing Machines designed by our company is a universal type printing machine Can be widely used in daily articles.
+皮革、金属、玻璃、轻工业及食品包装等各种行业中。
+such as:toys,electronics,electrical appliances,plastic,leather,matal,glass,light industry,packaging etc.
+1 5
+--- Page 7 ---
+HP-200单色油盘移印机 HP-200Y单色油盘移印机
+HP-200Y single color ink tray pad machine HP-200Y single color ink cup pad printer
+技术参数 技术参数
+TECHNICAL PARAMETERR TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+150mm*150mm 150mm*300mm
+印刷面积 印刷面积
+Printing Size Printing Size
+125mm*125mm 100mm*120mm或Ф1200
+印刷速度 油盅大小
+Printing Speed Ink cup Size
+1200次/小时 Ф135mm
+机身尺寸 印刷速度
+Body size Printing Speed
+630*920*1450mm 1600次/小时
+机身尺寸
+Body size
+890*630*1450mm
+HP-200B双色穿梭移印机 HP-200DZ四色转盘移印机
+HP-200B 2 colors pad printer with shuttle HP-200DZ 4colors pad printer with conveyor
+技术参数 技术参数
+TECHNICAL PARAMETEERR TECHNICAL PARAMEETTEERR
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s izee
+150mm*150mm 100mm*150mm
+印刷面积 印刷面积
+Printing Size Printing Size
+120mm*125mm 75mm*120mm
+印刷速度 印刷速度
+Printing speed Printing speed
+1600次/小时 1200次/小时
+机身尺寸 机身尺寸
+Body size Body size
+890*630*1450mm 910*1050*1450mmm
+HP-200系列印刷机主要特点（FEATUES）:
+本系列移印机适用于各类电子产品的按键，如计算机键盘，电子面板，电话机，游戏机以及钟表，玩具，日用品，礼品
+This serie machines are widely applied to print on various key-press of electric components like keyboard,mobile phone,
+electeic panel,telephone,game player,etc.print on accessories of hardware and plastic such as logo,toy,and commodity
+等五金塑胶物品LOGO，图案文字印刷，也可以针对于特殊产品需求设计专用机型。
+we can also design special machine for special product demand.
+1 6
+--- Page 8 ---
+HP-200FZ六色转盘移印机 HP-300D四色穿梭移印机
+HP-200FZ 6 colors pad printer with conveyor HP-300D 4 color pad printer with shuttle
+技术参数 技术参数
+TECHNICAL PARAMETER
+TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing plate size
+100mm*150mm 150mm*350mm
+印刷面积 印刷面积
+Printing Size Printing Size
+75mm*120mm 120mm*200mm
+印刷速度 油盅大小
+Printing speed Ink cup Size
+1600次/小时 Ф135mm
+机身尺寸 印刷速度
+Body size Printing Speed
+1030*1045*1450mm 400次/小时
+机身尺寸
+Body size
+1200*1160*1690mm
+HP-300DZ四色转盘移印机 HP-300FZ六色转盘移印机
+HP-300DZ single color ink cup pad printer HP-300FZ 6 colors pad printer with conveyor
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+150mm*250mm 100mm*250mm
+印刷面积 印刷面积
+Printing Size Printing Size
+125mm*225mm 75mm*225mm
+印刷速度 印刷速度
+Printing speed Printing speed
+1200次/小时 1200次/小时
+机身尺寸 机身尺寸
+Body size Body size
+1560*1650*1690mm 1600*1550*1690mm
+HP-200系列印刷机主要特点（FEATUES）:
+本系列移印机适用于各类电子产品的按键，如计算机键盘，手机按键，电子面板，电话机，游戏机以及钟表，
+This serie of machines are widely applied to print on all key-press of electric push-button like computer,mobile phone,
+electeic panel,telephone,game player,etc.printing on accessories of hardware and plsttic
+玩具，日用品，礼品等五金塑胶物品LOGO，图案文字印刷，也可以针对于特殊产品需求设计专用机型。
+such as logo,toy,and commodity It we can also design special machine for special product demand.
+1 7
+--- Page 9 ---
+HP-300K（电脑键盘）单色移印机 HP-300B双色穿梭移印机
+HP-300K PC Keyboard single color pad printer HP-300B 2 color pad printer wirh shuttle
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+250mm*600mm 150mm*300mm
+印刷面积 印刷面积
+Printing Size Printing Size
+200mm*500mm 125mm*275mm
+印刷速度 印刷速度
+Printing Speed Printing speed
+1200次/小时 800次/小时
+机身尺寸 机身尺寸
+Body size Body size
+1500*800*1690mm 1170*800*1690mm
+HP-300A特大单色油盘移印机 HP-300AY大单色油盅移印机
+HP-300A Big single color pad printer HP-300AY large color ink cup pad printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+200mm*500mm 150mm*350mm
+200mm*400mm 印刷面积
+印刷面积 Printing Size
+Printing Size Ф125mm
+175mm*450mm 油盅大小
+175mm*350mm Lnk cup Size
+印刷速度 Ф140mm
+Printing speed 机身尺寸
+1200次/小时 Body size
+机身尺寸 1170*800*1690mm
+Body size
+1170*800*1690mm
+HP-200系列印刷机主要特点（FEATUES）:
+本系列移印机是我司精心设计的一种通用型印刷机。能广泛应用于日常用品、玩具、电子、电器、塑料、
+This serie pad printing machines designed by our company,it is a universal type and widely used in daily articles.
+皮革、金属、玻璃、轻工业及食品包装等各种行业中。
+such as:toys,electronics,electrical appliances,plastic,leather,matal,glass,light industry,packaging etc.
+1 8

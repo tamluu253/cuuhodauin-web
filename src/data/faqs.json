@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Công Nghệ UV Single Pass",
+    "question": "In UV Single Pass khác gì so với máy in UV phẳng thông thường (UV Flatbed)?",
+    "answer": "<p><strong>UV Flatbed:</strong> Đầu in di chuyển qua lại (quét nhiều lần) trên vật liệu nằm yên. Tốc độ rất chậm, phù hợp in quảng cáo khổ lớn, số lượng ít.</p><p><strong>UV Single Pass:</strong> Vật liệu chạy liên tục trên băng chuyền bên dưới một dàn đầu in cố định. Hình ảnh được in hoàn thiện chỉ trong <strong>một lần lướt qua duy nhất</strong>. Tốc độ cực nhanh (lên tới 50-100m/phút), phù hợp cho sản xuất công nghiệp hàng loạt trên dây chuyền.</p>"
+  },
+  {
+    "category": "Công Nghệ UV Single Pass",
+    "question": "Mực in UV Single Pass có bám dính được trên màng nilon (PE, PP) không?",
+    "answer": "<p>Hoàn toàn được. Mực UV công nghiệp khi được sấy bằng đèn LED UV năng lượng cao sẽ xảy ra phản ứng quang hóa, đông cứng bề mặt ngay lập tức trong vòng 0.1 giây. Nó tạo thành một lớp màng nhựa polyme bám chặt lên cả những vật liệu trơn láng nhất như nhựa PET, PP, PE, kính hoặc kim loại mà không cần xử lý lớp lót (Primer) trước.</p>"
+  },
+  {
+    "category": "Công Nghệ UV Single Pass",
+    "question": "Hệ thống UV Single Pass có tích hợp được vào dây chuyền đóng gói hiện hữu của tôi không?",
+    "answer": "<p>Rất dễ dàng. Cụm đầu in UV Single Pass của VNPIS được thiết kế dạng Module nhỏ gọn. Chúng tôi có thể gá lắp (Mount) trực tiếp lên băng tải đóng gói, máy dán nhãn, hoặc máy bế thùng carton sẵn có của nhà máy mà không cần phải thay đổi kết cấu cơ khí của dây chuyền.</p>"
+  },
+  {
+    "category": "Variable Data Printing (VDP)",
+    "question": "Variable Data Printing (VDP) có thể in được mã QR chứa thông tin gì?",
+    "answer": "<p>VDP có thể in mã QR chứa bất kỳ dữ liệu số hóa nào, từ các chuỗi Text tĩnh (như địa chỉ Website) đến các <strong>dữ liệu động (Dynamic Data)</strong> thay đổi trên từng sản phẩm. Ví dụ: Mã số Serial độc nhất, mã trúng thưởng ngẫu nhiên, chuỗi ký tự được mã hóa để chống hàng giả, hoặc link dẫn đến trang truy xuất nguồn gốc từng lô sản xuất.</p>"
+  },
+  {
+    "category": "Variable Data Printing (VDP)",
+    "question": "Phần mềm in VDP của VNPIS có xử lý được file dữ liệu Excel lớn hàng triệu dòng không?",
+    "answer": "<p>Có. Hệ thống RIP/Controller của VNPIS được thiết kế để xử lý Big Data. Bạn có thể dễ dàng Import các tệp .CSV, .TXT hoặc kết nối trực tiếp với SQL Database chứa hàng triệu bản ghi mà máy không bị treo, đảm bảo tốc độ RIP (Raster Image Processor) đuổi kịp tốc độ in 60m/phút.</p>"
+  },
+  {
+    "category": "Variable Data Printing (VDP)",
+    "question": "Làm sao để biết mã vạch in ra bằng công nghệ VDP có đọc được hay không?",
+    "answer": "<p>VNPIS luôn tích hợp hệ thống <strong>Camera Vision (CCD)</strong> ngay sau cụm đầu in VDP. Camera sẽ chụp và xác thực (Verify & Grade) 100% mã vạch vừa in theo chuẩn ISO/IEC. Nếu mã bị mờ, xước hoặc không thể quét, hệ thống sẽ phát tín hiệu cảnh báo và bộ phận gạt (Rejector) sẽ tự động đẩy sản phẩm lỗi ra khỏi dây chuyền.</p>"
+  },
+  {
+    "category": "Máy In Tampon (Pad Printing)",
+    "question": "Tại sao phải dùng máy in Tampon mà không dùng máy in lụa?",
+    "answer": "<p>In lụa chỉ in được trên các bề mặt phẳng hoặc bề mặt trụ tròn đều. Nếu bạn cần in logo lên các <strong>bề mặt cong 3D, lồi lõm, nhiều góc cạnh</strong> (ví dụ: quả bóng golf, nút bấm bàn phím lõm, vỏ tai nghe), thì độ đàn hồi của miếng silicone (Tampon) là giải pháp duy nhất có thể ép sát và truyền mực sắc nét xuống các góc khuất đó.</p>"
+  },
+  {
+    "category": "Máy In Tampon (Pad Printing)",
+    "question": "Miếng Tampon Silicone dùng được bao lâu thì phải thay thế?",
+    "answer": "<p>Tuổi thọ của một miếng Tampon phụ thuộc vào độ ma sát của vật liệu in, thành phần hóa học của mực, và lực ép (Pressure) khi cài đặt máy. Trung bình, một miếng Tampon chất lượng tốt từ VNPIS có thể in từ <strong>50.000 đến 100.000 lần</strong> trước khi bắt đầu có dấu hiệu mòn, giảm độ đàn hồi hoặc hút nhả mực kém đi.</p>"
+  },
+  {
+    "category": "Máy In Tampon (Pad Printing)",
+    "question": "Nên dùng Cốc Mực Kín (Closed Cup) hay Khay Mực Hở (Open Trough)?",
+    "answer": "<p><strong>Cốc mực kín (Closed Cup)</strong> hiện nay là tiêu chuẩn vì nó ngăn chặn dung môi bay hơi, giúp độ nhớt của mực luôn ổn định, tiết kiệm 50% lượng mực hao hụt, và không gây mùi độc hại ra môi trường xưởng. Khay mực hở chỉ còn dùng cho các thiết kế in có kích thước quá lớn mà vòng dao cạo của cốc mực không thể bao phủ hết.</p>"
+  },
+  {
+    "category": "Máy In Lụa (Screen Printing)",
+    "question": "Độ dày lớp mực của máy in lụa là bao nhiêu so với in phun?",
+    "answer": "<p>In phun (Inkjet) thường cho lớp mực cực mỏng, từ 1 đến 15 micron. Trong khi đó, kỹ thuật in lụa có thể quét lớp mực dày từ <strong>20 micron lên đến hơn 100 micron</strong> tùy thuộc vào số mắt lưới (Mesh count) và độ dày màng keo (Emulsion). Nhờ lớp mực dày này, in lụa mang lại độ che phủ tuyệt đối và khả năng chống mài mòn cơ học/hóa học cực cao.</p>"
+  },
+  {
+    "category": "Máy In Lụa (Screen Printing)",
+    "question": "Mực keo hàn (Solder Paste) có in lụa được không?",
+    "answer": "<p>Hoàn toàn được và đây là ứng dụng chủ chốt trong ngành công nghiệp điện tử (PCB SMT). Các máy in lụa bàn phẳng CNC của VNPIS với lưới thép không gỉ được dùng để in keo hàn và các loại mực dẫn điện có chứa hạt phân tử lớn (Bạc, Carbon) mà đầu in phun không bao giờ phun qua được.</p>"
+  },
+  {
+    "category": "Mực In TIJ (Thermal Inkjet)",
+    "question": "Khi nào nên dùng mực TIJ gốc nước và gốc dung môi (Solvent)?",
+    "answer": "<p><strong>Gốc nước (Aqueous):</strong> Dùng để in trên các bề mặt thấm hút (Porous) như thùng carton, giấy Kraft, gỗ, hộp y tế. Mực khô nhờ cơ chế thẩm thấu.<br/><strong>Gốc dung môi (Solvent):</strong> Dùng để in trên các bề mặt không thấm hút (Non-porous) như bao bì màng PE/PP, chai nhựa PET, thủy tinh, kim loại. Mực bám dính nhờ cơ chế dung môi bay hơi cực nhanh.</p>"
+  },
+  {
+    "category": "Mực In TIJ (Thermal Inkjet)",
+    "question": "Cartridge TIJ bị nghẹt mực (Decap time ngắn) thì xử lý thế nào?",
+    "answer": "<p>Lỗi nghẹt vòi phun do mực khô ở đầu vòi (Decap time) là nhược điểm thường gặp của mực TIJ solvent. Để khắc phục: <br/>1. Dùng khăn không bụi (Lint-free cloth) thấm cồn y tế lau nhẹ đầu in dọc theo khe phun.<br/>2. Cài đặt chế độ tự động khạc mực (Spit/Purge) trên máy in.<br/>3. Sử dụng các dòng mực TIJ Solvent hệ mới của VNPIS có Decap time lên tới 60 phút.</p>"
+  },
+  {
+    "category": "Mực In CIJ (Continuous Inkjet)",
+    "question": "Tại sao máy CIJ in được trên bề mặt không bằng phẳng?",
+    "answer": "<p>Máy CIJ hoạt động theo cơ chế <strong>In Khí Động Học (Non-contact)</strong>. Tia mực được bơm ra dưới áp suất cao và mang điện tích, bay qua khoảng không khí (từ 10mm - 30mm) trước khi chạm vào vật liệu. Tốc độ bắn rất mạnh nên nó không đòi hỏi bề mặt in phải phẳng, rất phù hợp để in Date code lên cổ chai, thành lon cong hoặc ống cáp điện lồi lõm.</p>"
+  },
+  {
+    "category": "Mực In CIJ (Continuous Inkjet)",
+    "question": "Dung môi (Make-up) trong máy CIJ có tác dụng gì?",
+    "answer": "<p>Do đặc thù bơm mực liên tục ngoài không khí, dung môi trong mực CIJ bị bốc hơi rất nhanh làm mực đặc lại. Máy CIJ liên tục đo lường độ nhớt (Viscosity) của bình mực. Khi mực đặc vượt quá ngưỡng chuẩn, máy sẽ tự động bơm dung môi (Make-up) vào để pha loãng, giữ cho tia mực luôn ổn định và không làm nghẹt hệ thống thủy lực.</p>"
+  },
+  {
+    "category": "Vật Tư Tiêu Hao (Consumables)",
+    "question": "Có nên sử dụng mực in CIJ thay thế (Aftermarket) thay vì mực hãng không?",
+    "answer": "<p>Việc sử dụng mực Aftermarket chất lượng cao từ VNPIS mang lại hai lợi ích lớn: <strong>Tiết kiệm OPEX từ 30% - 50%</strong> và <strong>Đa dạng mã mực đặc thù</strong> (như mực bám thủy tinh ướt, mực chịu nhiệt độ luộc sôi) mà đôi khi các hãng máy in gốc không cung cấp sẵn. Tuy nhiên, quy trình chuyển đổi mực (Ink conversion) phải được kỹ sư VNPIS thực hiện nghiêm ngặt để đảm bảo an toàn cho bơm và lọc.</p>"
+  },
+  {
+    "category": "Dịch Vụ & Hỗ Trợ",
+    "question": "VNPIS có nhận in gia công (Outsource Printing) thử nghiệm lô nhỏ không?",
+    "answer": "<p>Có. Xưởng in gia công công nghệ cao của VNPIS sẵn sàng nhận in thử nghiệm (Prototyping) hoặc chạy các lô sản xuất quy mô nhỏ (từ 1.000 - 5.000 SP) để khách hàng đánh giá độ bám dính, độ sắc nét trước khi quyết định ký hợp đồng gia công số lượng lớn hoặc đầu tư máy móc.</p>"
+  },
+  {
+    "category": "Dịch Vụ & Hỗ Trợ",
+    "question": "Máy in thuê từ VNPIS bị hỏng giữa đêm thì sao?",
+    "answer": "<p>Gói dịch vụ Cho Thuê Máy In (Equipment Rental) của VNPIS bao gồm <strong>Bảo hành trọn gói 24/7 (Worry-Free Maintenance)</strong>. Đội phản ứng nhanh của chúng tôi sẽ hướng dẫn khắc phục qua Video Call ngay lập tức. Nếu máy lỗi phần cứng, kỹ sư VNPIS sẽ mang theo một máy Back-up đến tận nhà máy của bạn trong vòng 2-4 tiếng (khu vực HCM, HN) để thay thế, đảm bảo Zero Downtime.</p>"
+  }
+]

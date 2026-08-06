@@ -1,0 +1,128 @@
+[
+  {
+    "model": "HT-50",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "130x130mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ht_50.png"
+  },
+  {
+    "model": "H200-CS",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "150x200mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h200_cs.png"
+  },
+  {
+    "model": "H200-D",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "150x200mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h200_d.png"
+  },
+  {
+    "model": "HD250Z",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "150x250mm",
+    "printArea": "120x200mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/hd250z.png"
+  },
+  {
+    "model": "HT2040",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "350x200mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ht2040.png"
+  },
+  {
+    "model": "HT100",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "100x150mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ht100.png"
+  },
+  {
+    "model": "HT3040",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "350x300mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ht3040.png"
+  },
+  {
+    "model": "H168",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "100x160mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h168.png"
+  },
+  {
+    "model": "HYD-200-150",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "100x150mm",
+    "printArea": "70x120mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/hyd_200_150.png"
+  },
+  {
+    "model": "H168S",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "100x160mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h168s.png"
+  },
+  {
+    "model": "H195",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "150x200mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h195.png"
+  },
+  {
+    "model": "H195S",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "150x200mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h195s.png"
+  },
+  {
+    "model": "H195L",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "150x200mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h195l.png"
+  },
+  {
+    "model": "H200-A",
+    "colors": 1,
+    "desc": "Máy ép nhũ (Hot Stamping) SJ",
+    "plateSize": "N/A",
+    "printArea": "150x200mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h200_a.png"
+  }
+]

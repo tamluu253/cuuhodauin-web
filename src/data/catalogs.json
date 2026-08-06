@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Máy In ENGY Catalog",
+    "supplier": "ENGY",
+    "type": "Máy in",
+    "desc": "Danh mục các dòng máy in chuyên dụng từ nhà cung cấp ENGY.",
+    "size": "17.7 MB",
+    "url": "/documents/catalogs/engy-machine-catalog.pdf"
+  },
+  {
+    "title": "Phụ kiện In Tampon ENGY",
+    "supplier": "ENGY",
+    "type": "Vật tư",
+    "desc": "Danh mục các phụ kiện in tampon từ nhà cung cấp ENGY.",
+    "size": "4.9 MB",
+    "url": "/documents/catalogs/engy-accessories-catalog.pdf"
+  },
+  {
+    "title": "Tampon & Khuôn In ENGY",
+    "supplier": "ENGY",
+    "type": "Vật tư",
+    "desc": "Danh mục cục cao su (Tampon) và khuôn in từ ENGY.",
+    "size": "10.0 MB",
+    "url": "/documents/catalogs/engy-pads-moulds-catalog.pdf"
+  },
+  {
+    "title": "Vật Tư Ngành In Amy",
+    "supplier": "Amy",
+    "type": "Vật tư",
+    "desc": "Cốc mực, vòng gạt mực, dao gạt và vật tư tiêu hao.",
+    "size": "1.6 MB",
+    "url": "/documents/catalogs/amy-consumables-catalog.pdf"
+  },
+  {
+    "title": "Bản Đồ Tampon Amy",
+    "supplier": "Amy",
+    "type": "Vật tư",
+    "desc": "Kích thước, mã số và sơ đồ các cục silicone in tampon.",
+    "size": "6.1 MB",
+    "url": "/documents/catalogs/amy-tampon-catalog.pdf"
+  },
+  {
+    "title": "Vật Tư Niuniu",
+    "supplier": "Niuniu",
+    "type": "Vật tư",
+    "desc": "Các trang thiết bị và vật tư ngành in cơ bản.",
+    "size": "1.8 MB",
+    "url": "/documents/catalogs/niuniu-catalog.pdf"
+  },
+  {
+    "title": "Máy In Tiffany (DL Series)",
+    "supplier": "Tiffany",
+    "type": "Máy in",
+    "desc": "Danh mục toàn diện các dòng máy in tampon chuyên dụng.",
+    "size": "45.5 MB",
+    "url": "/documents/catalogs/tiffany-product-catalog.pdf"
+  },
+  {
+    "title": "Máy In Lụa Tiffany",
+    "supplier": "Tiffany",
+    "type": "Máy in lụa",
+    "desc": "Các hệ thống máy in lụa và băng tải.",
+    "size": "7.0 MB",
+    "url": "/documents/catalogs/tiffany-silkscreen-catalog.pdf"
+  }
+]

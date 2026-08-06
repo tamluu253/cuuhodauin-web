@@ -1,0 +1,192 @@
+[
+  {
+    "model": "HP160A-CCD",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu với hệ thống canh chỉnh CCD tự động chính xác cao",
+    "plateSize": "100x150mm",
+    "printArea": "70x120mm",
+    "speed": "600 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp160a_ccd.png"
+  },
+  {
+    "model": "HP-300HZ",
+    "colors": 8,
+    "desc": "Hệ thống mâm xoay 8 màu, 22 trạm gắp thả sản phẩm chuyên dụng cho chai lọ",
+    "plateSize": "100x2500mm",
+    "printArea": "70x2470mm",
+    "speed": "500 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_300hz.png"
+  },
+  {
+    "model": "HP250AYM",
+    "colors": 2,
+    "desc": "Máy in pad 2 màu với hệ thống động cơ Servo kép",
+    "plateSize": "200x400mm",
+    "printArea": "170x370mm",
+    "speed": "1450 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp250aym.png"
+  },
+  {
+    "model": "HP-300FAC",
+    "colors": 6,
+    "desc": "Máy in pad 6 màu có hệ thống độc lập nâng hạ pad",
+    "plateSize": "150x300mm",
+    "printArea": "120x270mm",
+    "speed": "800 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_300fac.png"
+  },
+  {
+    "model": "HP-125A",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu dạng cơ bản, khay mực hở",
+    "plateSize": "100x100mm",
+    "printArea": "70x70mm",
+    "speed": "2100 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_125a.png"
+  },
+  {
+    "model": "HP-125AY",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu dùng cốc mực kín",
+    "plateSize": "100x200mm",
+    "printArea": "70x170mm",
+    "speed": "1500 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_125ay.png"
+  },
+  {
+    "model": "HP-125B",
+    "colors": 2,
+    "desc": "Máy in pad 2 màu hệ thống Shuttle trượt",
+    "plateSize": "100x100mm",
+    "printArea": "70x70mm",
+    "speed": "1500 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_125b.png"
+  },
+  {
+    "model": "HP-160",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu khay mực hở đứng",
+    "plateSize": "100x150mm",
+    "printArea": "70x120mm",
+    "speed": "1800 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_160.png"
+  },
+  {
+    "model": "HP-160Y",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu dùng cốc mực kín đứng",
+    "plateSize": "100x250mm",
+    "printArea": "Ф80mm",
+    "speed": "1800 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_160y.png"
+  },
+  {
+    "model": "HP-160BZ",
+    "colors": 2,
+    "desc": "Máy in pad 2 màu băng tải (Conveyor)",
+    "plateSize": "100x150mm",
+    "printArea": "70x120mm",
+    "speed": "1800 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_160bz.png"
+  },
+  {
+    "model": "HP-160C",
+    "colors": 3,
+    "desc": "Máy in pad 3 màu hệ thống trượt Shuttle",
+    "plateSize": "100x250mm",
+    "printArea": "Ф80mm",
+    "speed": "900 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_160c.png"
+  },
+  {
+    "model": "HP-160D",
+    "colors": 4,
+    "desc": "Máy in pad 4 màu hệ thống trượt Shuttle",
+    "plateSize": "100x250mm",
+    "printArea": "Ф80mm",
+    "speed": "680 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_160d.png"
+  },
+  {
+    "model": "HP-160CZ",
+    "colors": 3,
+    "desc": "Máy in pad 3 màu hệ thống mâm xoay (Turntable)",
+    "plateSize": "100x150mm",
+    "printArea": "70x120mm",
+    "speed": "1200 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_160cz.png"
+  },
+  {
+    "model": "HP-160DZ",
+    "colors": 4,
+    "desc": "Máy in pad 4 màu hệ thống băng chuyền",
+    "plateSize": "100x150mm",
+    "printArea": "70x120mm",
+    "speed": "1200 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_160dz.png"
+  },
+  {
+    "model": "HP-200DZY",
+    "colors": 4,
+    "desc": "Máy in pad 4 màu hệ cốc mực kín, băng chuyền",
+    "plateSize": "100x150mm",
+    "printArea": "70x120mm",
+    "speed": "1200 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_200dzy.png"
+  },
+  {
+    "model": "HP-200Y",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu khay mực đứng (cỡ trung)",
+    "plateSize": "150x300mm",
+    "printArea": "120x270mm",
+    "speed": "1600 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_200y.png"
+  },
+  {
+    "model": "HP-200B",
+    "colors": 2,
+    "desc": "Máy in pad 2 màu trượt Shuttle",
+    "plateSize": "150x150mm",
+    "printArea": "120x120mm",
+    "speed": "1600 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_200b.png"
+  },
+  {
+    "model": "HP-200FZ",
+    "colors": 6,
+    "desc": "Máy in pad 6 màu hệ thống băng chuyền (Conveyor)",
+    "plateSize": "100x150mm",
+    "printArea": "70x120mm",
+    "speed": "1600 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_200fz.png"
+  },
+  {
+    "model": "HP-300D",
+    "colors": 4,
+    "desc": "Máy in pad 4 màu khổ lớn trượt Shuttle",
+    "plateSize": "150x350mm",
+    "printArea": "120x320mm",
+    "speed": "400 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_300d.png"
+  },
+  {
+    "model": "HP-300K",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu khổ siêu lớn (chuyên in bàn phím máy tính)",
+    "plateSize": "250x600mm",
+    "printArea": "220x570mm",
+    "speed": "1200 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hp_300k.png"
+  },
+  {
+    "model": "HP-200YX",
+    "colors": 1,
+    "desc": "Máy in tampon 1 màu cốc mực, chuyên dùng cho các sản phẩm công nghiệp.",
+    "plateSize": "100x250mm",
+    "printArea": "Ф80mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/hj/hp_200yx.png",
+    "video": "/media/machines/hp-200yx-1-mau.mp4"
+  }
+]

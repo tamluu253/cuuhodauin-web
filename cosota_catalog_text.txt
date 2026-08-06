@@ -1,0 +1,1161 @@
+
+--- Page 1 ---
+(cid:4395)(cid:1)(cid:1)(cid:2375)
+CONTENTS
+丝印设备系列 01-07
+Screen Printing Series
+移印设备系列 08-16
+Pad Printing Series
+烫金机系列 17-18
+Hot Stamping Machine Series
+周边设备系列 19-22
+Other relative machines
+印刷耗材 23-24
+Cliche
+--- Page 2 ---
+HJ-GY-3000全自动滚筒式印刷机
+HI-GY-3000 automatic cylinder screen printer
+技术参数
+TECHNICAL PARAMETER
+最大印刷直径（Max Printing Size）：Ф20mm
+产 能 （Max Capacity） ：3000pcs/H
+振动盘速度（Vibrating plate Speed）：70-80pcs/sec
+套印精度（Register Accuracy） ：±0.05mm
+气源压力（Air Source Pressure） ：0.4-0.6Mpa
+上 料 系 统 印 刷 系 统
+机身尺寸 （Body size） ：1268*750*1874mm
+适 用范围 Scope：
+圆柱形产品滚印，例如圆形端子、螺丝刀笔、
+Cylindrical printing, such as circular terminals, screwdriver, pen,
+铜销、吸管、保险管、火化塞，等。
+copper pins,straws, fuse, spark plugs, etc.
+特点(Featires)：
+产 品 印 刷
+1.采用自动上料方式快速入料，提高生产速度，适用于 量大且规格相同产品，提升良率。最高印刷速度可达到3000PCS/H。
+The automatic feeding way quickly into the material, improve the production speed, is suitable for the quantity
+and specifications of the same products, increase yield. The highest printing speed can reach 3000 PCS/H.
+2.直线送料导槽采用优质碳钢表面加硬处理，保证送料导槽经久耐用。
+Straight line feeding guide groove is made of high quality carbon steel surfacehardened treatment,
+ensure feeding guide groove durable.
+3.印刷滚筒采用进口胶浆经过特殊制造工艺而成，提高印刷速度及印刷效果和胶轮的适用寿命。籍由三套滚筒经齿轮配合
+The printing roller adopts imported mucilage with special manufacturing process,improve the effect of printing speed and printing and
+lugs for life. By three sets of roller by the gear With speed driving, and on the name of the second roller printing design,
+同速传动，且在 第二道滚筒上做印刷图案，使油墨覆盖到产品上完成印刷。
+make the ink to complete printing products.
+4.输送带配置有自动烘干系统，智能温度可调节，流量大小可调节。
+Conveyor belt equipped with automatic drying system and intelligent temperature adjustable, flow size can be adjusted.
+5.免油式滤水调压组不生产排气油雾污染，适合无尘室内使用。
+Oil free type filter water regulating group production exhaust pollution of oil mist, not suitable for clean room use.
+HS260R-12 曲面丝印机
+HS-260R-12 Hengjin precisesingie color 12stations curve screen printing machine
+技术参数
+TECHNICAL PARAMETER
+最大网框尺寸（Max frame size） ：400*350mm
+最大印刷直径（max printing dia）：Ф35mm
+印刷速度 （Printing speed） ：1500次/小时
+工位数 （Stations） ：12个
+外形尺寸 （Dimension） ：1500*1122*1623mm
+滚筒式印刷系列产品特点（FEATUES）:
+1.单色印刷PLC程序控制，人机界面数字化系统操作。
+The monochrome printing PLC program control, human-machine interface digital system operation.
+提供多种功能设定达到数据化标准化，人性化之完善要求
+Offers a variety of function set to digital standardization, humanization of perfect
+2.转盘12个工位设计，采用精密凸轮分别器驱动，运行稳，速度快，做到上料，印刷 ，烘干，
+The rotary table 12 station design, USES the precision CAM device driver respectively, running stability,
+speed, feeding, printing, drying,automatic the material at the same time
+自动下料同时同步完成，节省时间，提高产能.
+synchronization is complete, save time, increase production capacity.
+3.配置热风烘干系统，Uv干固系统，自动下料装置，出料输送带灯自动化装置.
+The configuration of hot air drying system, UV dry system, automatic cutting device,
+discharge conveyor belt lamp automatic device.Use scope: cosmetics bottle tube, automotive tubing,
+使用范围：化妆品瓶管，汽车油管，圆珠笔等圆状产品.
+cone ballpoint pens, and other products.
+03
+--- Page 3 ---
+HS90120跑台丝印机
+HS92120 treadmill printing machine
+技术参数
+TECHNICAL PARAMETER
+最大印刷面积
+Max Printing Size ：900*1200mm
+最大网版尺寸
+Max screen Size ：1200*1600mm
+产能
+Max Capacity ：450pcs/h
+最大台板面积
+Max plate areahao：1000*1400mm
+跑台速度
+Treadmil speed ：350mm/sec
+HS5070跑台丝印机
+HS5070 treadmill printing machine
+技术参数
+TECHNICAL PARAMETER
+最大印刷面积
+Max Printing Size ：700*500mm
+工作台面积
+Table size ：800*600mm
+工作台高度
+Bench height ：990±30mm
+网框尺寸
+Screen frame size ：700*600mm
+机身尺寸
+Body size ：1350*1120*1805mm
+跑台式印刷系列产品特点（FEATUES）: 跑台速度
+Treadmil speed ：450mm/sec
+1.跑台伺服电机驱动，位置精准，运作稳定.
+Run a servo by motor drive, position precision and operational stability.
+2.单工作台设计师多位置移动工作，方便大承印物上下料.
+The position of single stage designer work, convenient large substrates materials up and down.
+3.配备自动下料机械手适用于机械对接，减少劳动力节约成本
+Equipped with automatic blanking manipulator applies to mechanical docking, reduce labor and cost savings
+适用范围：膜，玻璃，纸张，条幅等大型平面产品
+Scope of application: membrane, glass, paper, banners and other large flat products.
+03
+04
+--- Page 4 ---
+HS260PME高精密伺服丝印机
+HS1515气球图案印刷机
+HS-260PME high precision servo screen printing machine
+HS1515 balloon pattem presses
+技术参数
+技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+最大印刷面积
+最小印刷面积
+Max Printing Area : 200*260mm
+S mall Printing Size：150*150mm
+最大网框面积
+工作台面积
+Screen Frame Size : 400*600mm Table size ：250x250mm
+适用电源 工作台高度
+Power Supply : 220V/50Hz Bench heiht ：80mm
+耗气量 网框尺寸
+Air consumption : 2.0L/次 Screen frame size ：370*250mm
+耗电量 机身尺寸
+Power consumption : 1.2Kw Body size :918*480*1360mm
+最大印刷速度
+The maximum printing speed: 1500PCS/H
+印刷最大厚度
+Printing maximum thickness: 0-100mm
+整机尺寸
+Machine Dimension ：975*700*1580mm
+最大整机重量
+Most Total Weight : 280Kg
+HS-4060CCD对位丝印机
+HS-4060 CCD registration screen printing machine
+技术参数
+TECHNICAL PARAMETER
+最大网框尺寸：650*900mm 最大印刷面积：400*550mm
+Max screen frame Maxprinting size
+印刷速度 ：900pcs/H 机身尺寸 ：1875*962*1767mm
+Max printing speed Dimension
+承印物高度 （The height of target products）：0-30mm
+适应范围（Scope）：液晶玻璃LCD 镜片玻璃IMD发光片EL 有机玻璃导电膜电路LED等.
+Adaptation:LCD glass LCD glass lenses IMD luminous film EL piesiglass LED
+andother conductive film circult
+特点 （Feature）：
+1.单色印刷PLC程序控制，人机界面数字化系统操作，提供多功能设定，
+Single color printing,PLC program control,man-machine intertace
+达标数据化，标准化，人性化之完善结合。
+digital system operation.
+2.高清CCD视觉自动对位系统，定位精度正负0.01MM.
+high-definition CCD visual auto-alignment system.positioning acuracy:+-0.01
+3.印刷座驾采用伺服电动驱动光电开关控制行程，独立调校运作平稳，
+Printing wheels adopt servo motor drive photoelectric switch control,
+independent adjustment smooth operation,
+高速无冲击，低速无爬行.
+No impact on the high-speed and low-speed crawling.
+4.变速齿轮减速电机驱动，网版升降动作平稳，往返精度高.
+slown down by Frequency control,motor drive.screenframe go up and down.high precise back and forth.
+中空铝合金平台，表面硬阳氧极处理，配附真空喜气泵.
+This is machine can be widely used in liquid crystal glass(LCD).IMD.EL.organic
+glasses,conductive filmcircult LED etc......
+05
+--- Page 5 ---
+HS260PME-2R 双工位高精度伺服丝印印机机
+HS260PME-2R Double-precision servo screen printing macchhiinnee
+技术参数
+TECHNICAL PARAMETER
+最大网框面积
+Screen Frame Size ：400*600mm
+产能
+Max Capacity ：1450pcs/H
+印刷座驱动
+Printing base drive :无刷电机（合资）
+套印精度
+Register Accuracy : ±0.02mm
+工作高度
+Operational height : 900mm
+功率
+Power : 2kw
+机身尺寸
+Body size : 910*720*1460mm
+HS260PME-4RX 四工位伺服自动下料系统丝印机
+HS260PME-4RX Four-servo automatic screen printing machine teeding system
+技术参数
+TECHNICAL PARAMETER
+最大网框面积
+Screen Frame Size ：350*600mm
+最大印刷面积
+Max Printing Size : 180*220mm
+产能
+Max Capacity ：1200pcs/H
+印刷座驱动
+Printing base drive : 无刷电机（合资）
+套印精度
+Register Accuracy : ±0.02mm
+工作高度
+Operational height : 900mm
+功率
+power : 2.4kw
+机身尺寸
+Body size : 1030*1620*1568mm
+丝印机系列印刷产品特点（FEATUES）:
+本系列丝印机是我司精心设计的一种通用型印刷机。可用于电路板。薄膜开关，信用卡，玻璃镜片，包装纸箱，广泛应用于日常用品，
+This kind of screen printing machine is universal type,of special designed by my company which widely use in different
+玩具，电子，电器，塑胶，皮革，金属，轻工业及食品包装等各种平面产品.
+kinds of products printing,such as:dally used products,toys,electron,electrical appliance,plastilc leathers,metal,grass,etc
+06
+--- Page 6 ---
+HS260平面吸气丝印机 HS-260R圆面丝印机
+HP-260P Precise flat screen printing machine HS-260R cylindrical screen printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+最大网框 最大网框
+Max screen plate Max screen plate
+400mm*600mm 350mm*500mm
+印刷面积 印刷面积
+Printing Size Printing Size
+200mm*260mm Ф80mm
+印刷速度 印刷速度
+Printing Speed Printing speed
+1600次/小时 1400次/小时
+机身尺寸 机身尺寸
+Body size Body size
+610*650*1680mm 690*630*1660mm
+HS-350P 精密型平面丝印机 HS-350R圆面丝印机
+HS-350p Precision flat screen printing machine HS-350R cylindrical screen printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+最大网框 最大网框
+Max screen plate Max screen plate
+500mm*700mm 400mm*600mm
+印刷面积 印刷面积
+Printing Size Printing Size
+250*350mm Ф110mm
+印刷速度 印刷高度
+Printing speed Print height
+1400次/小时 180mm
+机身尺寸 印刷速度
+Body size Printing speed
+790*700*1680mm 1200次/小时
+机身尺寸
+Body size
+790*700*1680mm
+HS-精密型系列丝印机只要特点（FEATUES）
+本系列丝印机是我司精心设计的一种通用型印刷机。可用于电路板。薄膜开关，信用卡，玻璃镜片、包装纸箱，广泛应用
+This kind screen printing machine is universal type,and designed by our company,which widely use in different kinds
+printing,such as:
+于日常用品、玩具、电子、电器、塑料、皮革、金属、轻工业及食品包装等各种平面产品。
+daily used products,toys,electron,electrical appliance,plastic,leathers,metal,glass,etc.
+07
+--- Page 7 ---
+HS-500P平面丝印机 HS-500R圆印丝印机
+HS-500P screen printer HS-500R cylindrical screen printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+最大网框 最大网框
+Max screen plate Max screen plate
+550mm*8000mm 450mm*750mm
+印刷面积 印刷面积
+Printing Size Printing Size
+300mm*500mm Ф150mm丝印直径
+印刷速度 印刷高度
+Printing Speed Print height
+900次/小时 250mm
+机身尺寸 印刷速度
+Body size Printing speed
+910*720*1680mm 900次/小时
+机身尺寸
+Body size
+910*720*1680mm
+HS-600P平面丝印机 HS-600R圆印丝印机
+HS-600P screen printer HP-600R cylindrical screen printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+最大网框 最大网框
+Max screen plate Max screen plate
+700mm*1000mm 500mm*900mm
+印刷面积 印刷面积
+Printing Size Printing Size
+400mm*600mm Ф320mm
+印刷速度 印刷高度
+Printing speed Print height
+1000次/小时 250mm
+机身尺寸 印刷速度
+Body size Printing speed
+1150*800*1750mm 600次/小时
+机身尺寸
+Body size
+1150*800*1750mm
+HS-精密型系列丝印机主要特点（FEATUES）
+本系列丝印机是我司精心设计的一种通用型印刷机。可用于电路板。薄膜开关，信用卡，玻璃镜片、包装纸箱，广泛应用
+This kind of screen printing machine is universal type,of special designedby my company,which widely use in different kinds
+of products printing,such as:
+于日常用品、玩具、电子、电器、塑料、皮革、金属、轻工业及食品包装等各种平面产品。
+daily used products,toys,electron,electrical appliance,plastic,leathers,metal,grass,etc.
+08
+--- Page 8 ---
+HS-600PX精密跑台式平面丝印机 HS-5070P精密型平面丝印机
+HP-600PX Precise flat screen printing machine HS-5070P precise flat screen cacuum printing machine
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+最大网框 最大网框
+Max screen plate Max screen plate
+600mm*1000mm 800mm*1100mm
+印刷面积 印刷面积
+Printing Size Printing Size
+400mm*600mm 500mm*700mm
+印刷速度 印刷速度
+Printing Speed Printing speed
+650次/小时 750次/小时
+机身尺寸 机身尺寸
+Body size Body size
+1240*1100*1760mm 1350*1050*1880mm
+HS-70100P精密型平面丝印机 HS-10150PX精密型跑台式平面丝印机
+HP-70100P Precision flat screen vacuum printing machine HS-10150PX precise run-table flat screen printing machine
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+最大网框 最大网框
+Max screen plate Max screen plate
+1000mm*1400mm 1300mm*1900mm
+印刷面积 印刷面积
+Printing Size Printing Size
+700mm*1000mm 1000mm*1500mm
+印刷速度 印刷速度
+Printing speed Printing speed
+600次/小时 400次/小时
+机身尺寸 机身尺寸
+Body size Body size
+1950*1380*1980mm 2600*3500*2300mm
+HS-精密型系列丝印机只要特点（FEATUES）:
+本系列丝印机是我司精心设计的一种通用型印刷机。可用于电路板,薄膜开关，信用卡，玻璃镜片、包装纸箱，广泛应用
+This kind of screen printing machine is universal type,of special designed by my company,which widely use in different kinds
+of products printing,such as:
+于日常用品、玩具、电子、电器、塑料、皮革、金属、轻工业及食品包装等各种平面产品。
+daily used products,toys,electron,electrical appliance,plastic,leathers,metal,grass,etc.
+09
+--- Page 9 ---
+HP160A-CCD跑台式移印印刷机
+HP-160A CCD Slide 1 color pad printer
+技术参数
+TECHNICAL PARAMETER
+印刷台面尺寸 吸气面积
+Workbench Size ：400x400mm Vacuum Size：200x250mm
+最大印刷面积 最大钢板尺寸
+Max Printing Area ：75x125mm Max Steel Plate Size：100x150mm
+钢板厚度 印刷高度
+Steel Plate Thickness ：10mm Printing Height ：25mm
+台面高度 跑台左右行程
+Workbench Height ：890±30mm Run-table Left/ Right Stroke：450mm
+印刷头速度 最大产能
+Printing Head Speed ：150-650mm/sec Max Produce Capacity：600P/H
+耗电量 气源压力
+Power consumption ：1.5Kw Air Source Pressure ：4-6Kg/ M2
+机器尺寸Machine Dimension(Wx L x H) ：1190x1179x1600mm
+适用范围 Scope：
+适适用用小小件件膜膜、、玻玻璃璃、、手手机机盖盖板板、、IIRR孔孔、、llooggoo薄薄膜膜按按键键（（MMeemmbbrraannee SSwwiittcchh））、、生生物物测测试试片片等等。
+A p ply to small pieces/ plate shape for accuracy printing. Like FPC, IMD,Membrane Switch, Biological test pieces Etc
+采采用用高高精精密密CCCCDD影影像像对对位位系系统统自自动动对对位位，，提提高高印印刷刷精精度度，，减减小小不不良良率率。。最最高高影影像像对对位位精精度度00..000055mmmm内内
+CCD image registration system for high precision automatic alignment, improve the printing accuracy, reduce scrap rate.
+The highest image registration accuracy within 0.005 mm.
+胶胶头头前前后后采采用用台台湾湾精精密密线线性性导导轨轨搭搭配配气气缸缸与与一一体体机机身身相相结结合合。。采采机机械械式式死死限限固固定定对对位位块块定定位位。。
+Adopt Taiwan before and after the glue head match precision linear guide cylinder with a fuselage. Adopt mechanical die limit fixed Para piece positioning.
+胶胶头头上上下下采采用用台台湾湾精精密密线线性性导导轨轨加加一一体体成成型型铝铝合合金金结结构构，，精精度度及及耐耐用用性性提提高高，，承承载载力力量量强强，，稳稳静静无无声声。。
+Under the head adopts Taiwan precision linear guide rail and a integrated aluminum alloy structure, improving accuracy and durability
+bearing strength is strong, steady static silent.
+对对位位平平台台左左右右采采用用日日本本松松下下伺伺服服电电机机搭搭配配精精密密线线性性导导轨轨运运行行，，定定位位采采用用日日本本强强力力电电磁磁铁铁精精准准定定位位。。
+Para platform around the Japanese Panasonic servo motor with precision linear guide rail, precision positioning using Japaness powerful magnet positioning.
+作作业业数数据据化化及及标标装装化化，，人人性性化化。。
+Digital control, human-machine interface can be set of multi-function and operating parameters, digital and standard pack for homework, humanization.
+免免油油式式滤滤水水调调压压组组不不产产生生排排气气油油雾雾污污染染，，适适合合无无尘尘室室内内使使用用。。
+Oil free type filter water regulating group does not produce exhaust pollution of oil mist, suitable for clean room use.
+HP-300HZ 8色转盘移印机-专用奶瓶图案印刷机
+HP-300HZ Hengjin precise 8colors 22 stations pad printer with rurn table
+技术参数
+TECHNICAL PARAMETER
+钢板尺寸（Max printing p late s ize）:100mm*2500mm
+印刷面积（Max Printing area） :75mm*225mm
+印刷速度（ Max Printing speed） : 500pcs/hour
+机身尺寸（Max Dimension） : 1475*2005*1732mm
+印刷颜色（Max Printing colors） :8
+特点(Features)：
+1.多色印刷，操作简单，人机界面数字化操作，提供多种功能设定达到标准化。
+Multicolor printing, simple operation, the man-machine interface digital operation,
+offers a variety of function set to standardization.
+数字化人性化之完善要求。
+Digital humanization of perfect.
+2.转盘气动棘抓定位方式，定位精度高，22工位设计达到装料，取料，印刷同步
+Rotary pneumatic spines stresses the locate mode, high positioning accuracy,
+22 to charging station design, material, printing. To save time to increase capacity.
+进行。节省时间提高产能。配备自动翻转装置，可翻转90-180度，实现多个面印
+Equipped with automatic turn-over device,can flip 90-180 degrees, a complete implement
+刷一次完成，节省工人装夹产品次数。
+multiple surface printing, save workers clamping product number.
+3.适用开发式油盅。调节简单使用方便.
+Apply to open the oil cup. Adjust the simple easy to use.
+适用范围：奶瓶，瓶子，玩具等。
+Scope of application: bottles, bottle, toys, etc.
+10
+--- Page 10 ---
+HP250AYM 双伺服移印机
+HP250AYM 2colors servo screen printing machine
+技术参数
+TECHNICAL PARAMETER
+钢板尺寸
+p late s ize : 200*400mm/150mm*350mm
+印刷面积
+Printing Size : Ф160mm/Ф120mm
+印刷速度
+Ink cup size : Ф180mm/Ф140mm
+油盅大小
+Printing speed : 1450pcs/hour
+机身尺寸
+Dimension : 650*888*1900mm
+特点(Featires)：
+1.跑台伺服电机驱动，位置精准，运作稳定.
+Treadmill servomotordrive,precise location,stable operation
+2.单工作台设计师 多位置移动工作，方便大承印物上下料.
+Single stage designer multi-position work,tofacilltate loading and unloading large substrates
+3.配备自动下料机械手适用于机械手对接，减少劳动力节约成本.
+equipped with automatic cutting robot manipulator for docking,reduce labor cost savings
+适用范围：膜，玻璃 ，纸张，条幅等大型平面类产品.
+Suitable range.....Membrane glass paper banners and other large flat products
+HP-300FAC六色伺服移印机（胶头独立下降）
+HP-300FAC hengjin automatic 6colors pad printer with ink cup
+技术参数
+TECHNICAL PARAMETER
+钢板尺寸 Max Plate s ize:150mm*300mm
+印刷面积 Max Printing Size:Ф125mm
+印刷速度 Max Printing speed:800pcs/hour
+油盅大小 Max Ink cup size:Ф140mm
+机身尺寸 Dimension:1150*1330*1774mm
+印刷颜色 Printing color:6
+穿梭式印刷系列产品特点（FEATUES）:
+特点(Feature of this pad printing machine)
+1.多色印刷，操作方便，人机界面数字化操作。提供多种功能设定，达到标准化，
+Multicolor printing,easy to operate,man-machine inerface,digital operation,provide a variety of
+funcion set,to achieve standardization
+数字化人性化之完善要求.
+digitization and humanization of the perfect requests
+2.电子推送器平台，可任意设定平台移动位置，距离顺序，达到印刷颜色距离增大也可以印刷
+Can be random set of mobile location,distance sequence,in the electronic push platform,even if the printing distance increase
+which still can be printing
+3.独立胶头下降，对于承印物，小图案完美解决。人机界面可设定一次单色印刷或多色同时印刷。
+.Independent glue head drop, for substrates, small design perfect solution.Man-machina interface can be setted single
+and milticolor printing at the same time
+4.使用密封式环保油杯，节省油墨，智能环保，使用方便易清洗。
+Used stealed ink cup, save ink, green smart easy to operate and wash
+适用范围(scope)
+安全帽，电子产品外壳（机顶盒，键盘，饮水机外壳）等大型产品。
+Helmet,electronics (set-top boxes,keyboards,water dispenser shell) and other large products
+1 1
+--- Page 11 ---
+HP-125座台式单色移印机 HP-125A座地油盘式单色移印机
+HS-125 pneumatic desktop 1 color pad printer HP-125A pneumatic single color pad printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+Printing plate size Printing plate size
+100mm*100mm 100mm*100mm
+印刷面积 印刷面积
+Printing Size Printing Size
+75mm*75mm 75mm*75mm
+印刷速度 印刷速度
+Printing Speed Printing speed
+2100次/小时 2100次/小时
+机身尺寸 机身尺寸
+Body size Body size
+560*340*540mm 590*480*1240mm
+HP-125AY座地油盘式单色移印机 HP-125B双色穿梭移印机
+HP-125AY pneumatic single color pad printer with ink cup HP-125B pneumatic 2 colors pad printer with shuttle
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+Printing plate size Printing plate size
+100mm*200mm 100mm*100mm
+印刷面积 印刷面积
+Printing Size Printing Size
+Ф45mm 75mm*75mm
+油盅大小 印刷速度
+Lnk cup Size Printing speed
+Ф60mm 1500次/小时
+机身尺寸 机身尺寸
+Body size Body size
+590*480*1240mm 590*520*1240mm
+HP-125系列印刷主要特点（FEATUES）:
+本系列移印机使用于各类电子产品的按键，如计算机键盘，手机按键，电子面板，电话机，游戏机以及钟表，玩具，日用品，
+This seres of machines are widely applied to printing on all kinds of button of electric products like computer,mobile phone
+,electric pane,telephone,game player,rtc.Printing on accessories of hardware such as logo,toy,and commodity It is also
+礼品等五金塑胶物品logo，图案文字印刷，也可以针对特殊产品需求设计专用机型。
+applicable for these machines,special design is available according to the specific requirements of our clients.
+1 2
+--- Page 12 ---
+HP-160座地式油盘单色移印机 HP-160Y座地式油盅单色移印机
+HP-160 single color ppad pprinter HP-160Y single color ink cup pad printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+Printing p late s ize Printing p late s ize
+100mm*150mm 100mm*250mm
+印刷面积 印刷面积
+Printing Size Printing Size
+75mm*125mm 70mm*70mm或Ф75
+印刷速度 油盅大小
+Printing Speed Ink cup Size
+1800次/小时 Ф90mm
+机身尺寸 机身尺寸
+Body size Body size
+770*580*1400mm 770*580*1400mm
+HP-160BY座地式油盅双色移印机 HP-160BZ双色转盘移印机
+HP-160BY pneumatic 2 colors pad printer with ink cup HP-160BZ pneumatic 2 colors pad printer with conveyor
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+100mm*250mm 100mm*150mm
+印刷面积 印刷面积
+Printing Size Printing Size
+70mm*70mm或Ф75 75mm*125mm
+油盅大小 印刷速度
+Ink cup Size Printing speed
+Ф90mm 1800次/小时
+机身尺寸 机身尺寸
+Body size Body size
+770*650*1400mm 860*710*1400mm
+HP-160系列印刷机主要特点（FEATUES）:
+本系列移印机是我司精心设计的一种通用型印刷机。能广泛应用于日常用品、玩具、电子、电器、塑料、皮革、金属、玻
+This series of pad printing Machines designed by our company is a universal type printing machine Can be widely used in
+daily articles.such as:toys,electronics,electrical appliances,plastic,leather,matal,glass,
+璃、轻工业及食品包装等各种行业中。
+light industry,packaging etc.
+1 3
+--- Page 13 ---
+HP-160C三色穿梭移印机 HP-160YX座地式油盅单色移印机
+HP-160C 3 color pad printer with shuttle HP-160YX single color ink cup pad printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+100mm*250mm 100mm*500mm
+印刷面积 印刷面积
+Printing Size Printing Size
+70mm*70mm或Ф75mm 70mm*300mm
+油盅大小 油盅大小
+Ink cup Size Ink cup Size
+Ф90mm Ф90mm
+印刷速度 机身尺寸
+Printing Speed Body size
+900次/小时 780*760*1450mm
+机身尺寸
+Body size
+770*770*1400mm
+HP-160D 四色穿梭移印机
+顾客购机指南
+HP-160D 4 colors pad printer with shuttle
+1.生产场所 1.Production sites
+技术参数 2.印刷色组 2.Color printing gtoup
+TECHNICAL PARAMETER 3.印刷工件规格 3.Printed workpiece specifications
+4.印刷面积 4.Printing Area
+钢板尺寸
+5.钢板尺寸要求 5.Plate size requirements
+printing p late s ize
+6.印刷物料要求 6.Printed material requirements
+100mm*250mm
+7.产量要求 7.Production requirements
+印刷面积
+8.生产工业 8.Production of industrial
+Printing Size
+70*70或Ф75mm
+油盅大小
+Ink cup Size
+Ф90mm
+印刷速度
+Printing speed
+680次/小时
+机身尺寸
+Body size
+770*850*1400mm
+节油式油盘 油盅及油环
+HP-160系列印刷机主要特点（FEATUES）:
+本系列移印机是我司精心设计的一种通用型印刷机。能广泛应用于日常用品、玩具、电子、电器、塑料、皮革、金属、玻
+This series of pad printing Machines designed by our company is a universal type printing machine Can be widely used in
+daily articles.such as:toys,electronics,electrical appliances,plastic,leather,matal,glass,
+璃、轻工业及食品包装等各种行业中。
+light industry,packaging etc.
+1 4
+--- Page 14 ---
+HP-160CZ三色转盘移印机 HP-160DZ四色转盘移印机
+HP-160CZ pneumatic3 color pad printer with turntable HP-160DZ Four single color pad printer with conweyor
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+100mm*150mm 100mm*150mm
+印刷面积 印刷面积
+Printing Size Printing Size
+75mm*125mm 75mm*125mm
+印刷速度 印刷速度
+Printing Speed Printing speed
+1200次/小时 1200次/小时
+机身尺寸 机身尺寸
+Body size Body size
+860*810*1450mm 860*1100*1450mm
+HP-200D四色穿梭移印机 HP-200DZY四色转盘移印机
+HP-200D 4 color pad printer with turntable HP-200DZY four color ink cup pad printer with conveyor
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETERR
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+100mm*250mm
+100mm*150mm
+印刷面积
+印刷面积
+Printing Size
+Printing Size
+75mm*125mm
+75mm*120mm
+油盅大小
+印刷速度
+Ink cup Size
+Ф90mm Printing speed
+印刷速度 1200次/小时
+Printing Speed 机身尺寸
+600次/小时 Body size
+机身尺寸
+1030*1045*1450mmm
+Body size
+900*900*1450mm
+HP-160系列印刷机主要特点（FEATUES）:
+本系列移印机是我司精心设计的一种通用型印刷机。能广泛应用于日常用品、玩具、电子、电器、塑料、
+This series of pad printing Machines designed by our company is a universal type printing machine Can be widely used in daily articles.
+皮革、金属、玻璃、轻工业及食品包装等各种行业中。
+such as:toys,electronics,electrical appliances,plastic,leather,matal,glass,light industry,packaging etc.
+1 5
+--- Page 15 ---
+HP-200单色油盘移印机 HP-200Y单色油盘移印机
+HP-200Y single color ink tray pad machine HP-200Y single color ink cup pad printer
+技术参数 技术参数
+TECHNICAL PARAMETERR TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+150mm*150mm 150mm*300mm
+印刷面积 印刷面积
+Printing Size Printing Size
+125mm*125mm 100mm*120mm或Ф1200
+印刷速度 油盅大小
+Printing Speed Ink cup Size
+1200次/小时 Ф135mm
+机身尺寸 印刷速度
+Body size Printing Speed
+630*920*1450mm 1600次/小时
+机身尺寸
+Body size
+890*630*1450mm
+HP-200B双色穿梭移印机 HP-200DZ四色转盘移印机
+HP-200B 2 colors pad printer with shuttle HP-200DZ 4colors pad printer with conveyor
+技术参数 技术参数
+TECHNICAL PARAMETEERR TECHNICAL PARAMEETTEERR
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s izee
+150mm*150mm 100mm*150mm
+印刷面积 印刷面积
+Printing Size Printing Size
+120mm*125mm 75mm*120mm
+印刷速度 印刷速度
+Printing speed Printing speed
+1600次/小时 1200次/小时
+机身尺寸 机身尺寸
+Body size Body size
+890*630*1450mm 910*1050*1450mmm
+HP-200系列印刷机主要特点（FEATUES）:
+本系列移印机适用于各类电子产品的按键，如计算机键盘，电子面板，电话机，游戏机以及钟表，玩具，日用品，礼品
+This serie machines are widely applied to print on various key-press of electric components like keyboard,mobile phone,
+electeic panel,telephone,game player,etc.print on accessories of hardware and plastic such as logo,toy,and commodity
+等五金塑胶物品LOGO，图案文字印刷，也可以针对于特殊产品需求设计专用机型。
+we can also design special machine for special product demand.
+1 6
+--- Page 16 ---
+HP-200FZ六色转盘移印机 HP-300D四色穿梭移印机
+HP-200FZ 6 colors pad printer with conveyor HP-300D 4 color pad printer with shuttle
+技术参数 技术参数
+TECHNICAL PARAMETER
+TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing plate size
+100mm*150mm 150mm*350mm
+印刷面积 印刷面积
+Printing Size Printing Size
+75mm*120mm 120mm*200mm
+印刷速度 油盅大小
+Printing speed Ink cup Size
+1600次/小时 Ф135mm
+机身尺寸 印刷速度
+Body size Printing Speed
+1030*1045*1450mm 400次/小时
+机身尺寸
+Body size
+1200*1160*1690mm
+HP-300DZ四色转盘移印机 HP-300FZ六色转盘移印机
+HP-300DZ single color ink cup pad printer HP-300FZ 6 colors pad printer with conveyor
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+150mm*250mm 100mm*250mm
+印刷面积 印刷面积
+Printing Size Printing Size
+125mm*225mm 75mm*225mm
+印刷速度 印刷速度
+Printing speed Printing speed
+1200次/小时 1200次/小时
+机身尺寸 机身尺寸
+Body size Body size
+1560*1650*1690mm 1600*1550*1690mm
+HP-200系列印刷机主要特点（FEATUES）:
+本系列移印机适用于各类电子产品的按键，如计算机键盘，手机按键，电子面板，电话机，游戏机以及钟表，
+This serie of machines are widely applied to print on all key-press of electric push-button like computer,mobile phone,
+electeic panel,telephone,game player,etc.printing on accessories of hardware and plsttic
+玩具，日用品，礼品等五金塑胶物品LOGO，图案文字印刷，也可以针对于特殊产品需求设计专用机型。
+such as logo,toy,and commodity It we can also design special machine for special product demand.
+1 7
+--- Page 17 ---
+HP-300K（电脑键盘）单色移印机 HP-300B双色穿梭移印机
+HP-300K PC Keyboard single color pad printer HP-300B 2 color pad printer wirh shuttle
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+250mm*600mm 150mm*300mm
+印刷面积 印刷面积
+Printing Size Printing Size
+200mm*500mm 125mm*275mm
+印刷速度 印刷速度
+Printing Speed Printing speed
+1200次/小时 800次/小时
+机身尺寸 机身尺寸
+Body size Body size
+1500*800*1690mm 1170*800*1690mm
+HP-300A特大单色油盘移印机 HP-300AY大单色油盅移印机
+HP-300A Big single color pad printer HP-300AY large color ink cup pad printer
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+钢板尺寸 钢板尺寸
+printing p late s ize printing p late s ize
+200mm*500mm 150mm*350mm
+200mm*400mm 印刷面积
+印刷面积 Printing Size
+Printing Size Ф125mm
+175mm*450mm 油盅大小
+175mm*350mm Lnk cup Size
+印刷速度 Ф140mm
+Printing speed 机身尺寸
+1200次/小时 Body size
+机身尺寸 1170*800*1690mm
+Body size
+1170*800*1690mm
+HP-200系列印刷机主要特点（FEATUES）:
+本系列移印机是我司精心设计的一种通用型印刷机。能广泛应用于日常用品、玩具、电子、电器、塑料、
+This serie pad printing machines designed by our company,it is a universal type and widely used in daily articles.
+皮革、金属、玻璃、轻工业及食品包装等各种行业中。
+such as:toys,electronics,electrical appliances,plastic,leather,matal,glass,light industry,packaging etc.
+1 8
+--- Page 18 ---
+HH-90-2气动烫金机 HH-168S气动平/圆面烫金机
+HH-90-2 pneumatic hot stamping machine HH-168S pneumatic flat & cylindrical hot stamping machine
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+机身面积 烫板面积
+Dimension Hot stamping plate size
+415*415*750mm Ф45mm
+烫金面积 最大工件高度
+Stamping area Printing workplece height
+85*110mm 95mm
+工作台尺寸 烫印头行程
+Stamping table Stamping head trip
+120*90mm 25mm
+功率 压力范围
+Power Pressure range
+500W 220V/50HZ <130kgf
+净重 工作台尺寸
+N.Weight worktable size
+42kg 108mm*108mm
+HH-195气动平面烫金机 HH-195S气动平/圆面烫金机
+HH-195 pneumatic flat hot stamping machine HP-195S pneumatic flat & cylindrical hot sramping machine
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+烫金面积 烫板面积
+hot stamping plate size hot stamping plate size
+150mm*200mm Ф60mm
+最大工件高度 最大工件高度
+Printing workpiece height Printing workpiece height
+230mm 185mm
+烫印头行程
+烫印头行程
+Stamping head trip
+Stamping heed trip
+38mm
+38mm
+压力范围
+压力范围
+Pressure range
+Pressure ramge
+<130kgf
+<130kgf
+工作台尺寸
+工作台尺寸
+worktable size
+worktable size
+108*108mm
+170mm*220mm
+烫金机系列产品主要特点（FEATUES）:
+烫金机是指在一定的温度和压力下将电化铅箔烫印到承印物表面的工艺过程，烫金技术目前被广泛地采用，烫印的适用
+Hot stamping machine is refers to under certain temperature and pressure to electrochemical lead foil stamping process
+on the surface of the substrates,hot stamping technology are widely used at present, the application of the hot stamping
+范围还在不断扩大。本司的烫金机系列产品顺应潮流，能适应各种产品的烫印，如：玩具、电器、塑料、皮革、金属、玻璃、
+Scope continues to expand. The division of hot stamping machine series products comply with the trend, can adapt to all kinds of
+stamping products, such as: toys, electrical appliances, plastic, leather, metal, glass,Light industry and
+轻工业及食品包装等等。
+food packing, and so on
+1 9
+--- Page 19 ---
+HH-90型手动烫金机 HH-2040气动平/圆面热转印机
+HH-90 Manual hot stamping machine HH-2040 Pneumatic Flat/Cylindrical heat transfer machine
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+烫印面积 烫印面积
+Stamping area Hot stamping plate size
+60mm*90mm 200mm*400mm
+操作方式(手动) 胶辊尺寸
+Operating mode Size of rubber
+工作台面积 200mm*100mm
+Table size 最大烫印直径
+120mm*150mm Max hot stamping diameter
+工件最大高度 Ф300mm
+Maximum workpiece height 烫金纸卷绕长度
+40mm rolling length of hot foil stamping paper
+走箔长度 250mm
+Walk foil length 最快印刷速度
+0-60mm Max printing capacity
+900pcs/hr
+HH-300-A圆桶式热转印机 HH-168C精密型跑台式平面丝印机
+HH-300-A Heat transfer machine for bucket HH-168C flat hor stamoing machine with conveyor
+技术参数 技术参数
+TECHNICAL PARAMETER TECHNICAL PARAMETER
+烫印面积 烫板尺寸
+Stamping area Stamping plate size 100*168mm
+Ф400mm*300mm 烫金温度
+加热功率 Stamping temperature scape
+Power 0-280℃
+35KW 最大工作高度
+烫印温度 Max products height 50mm
+Temperature ofprinting 最大产品尺寸
+Max-350℃ Max products size 100*100mm
+烫印频率 烫金速度
+Frequency of printing Max stampring speed 1200pcs/hr
+30次/分 功率
+气源压力 Hearing power 900w
+Presure of air source 机身尺寸
+5~7bar Body size 530*5820*1395
+热转机系列产品主要特点（FEATUES）:
+热转印机身采用优质钢材制造，质轻耐磨，铸钢平板工作台，经精密研磨，平整度佳，坚固耐用，使用微电
+Thermal transfer the fuselage is made of high quality steel products manufacturing, qualitative light, wear-resisting
+cast steel plate workbench, by precision grinding, flatness, strong and durable, using microcomputer control system,
+脑控制系统，加压延时均可，精密准确控制，特殊马达卷箔，装卸方便，可配合不同硬度及大小砂筒，转印图
+pressure delay, precision control,special motor roll of foil, loading and unloading of convenient, can cooperate with different
+hardness and the size of the sand cone, transfer printing design effectively.
+案效果佳。适用于中至大平面积的平面，各种圆面或弧面的烫印工件，可配合不同的颜色的烫印纸，花纹纸及
+Applies to the Pacific Ocean in the area of the plane, all kinds of round face or a curved stamping work piece,
+may coordinate the different color printing paper, pattern paper and thermal transfer paper, can be used in different materials
+热转印纸，可用于不同的物料上（如塑胶皮，塑胶纸张，木材。瓶身，笔杆，产品面板，及弧面产品和各式商
+(such as plastic, leather, plastic,paper, wood. The bottle, pens, the panels, and a curved products and all kinds of
+标的印刷）。
+trademark printing). 2 0
+--- Page 20 ---
+LT-300HC 标准型火焰处理机
+LT-300HC Flame Treatment Machine
+功能特点
+FEATURE
+1.本机装有通用型锥形支撑，可满足一般瓶口的要求，
+Assembied with general purpose conical hoder
+can meet the normal requirements
+特殊尺寸可以配做.
+special size is also available by made to-order
+2.输送带传送部分采用微型调速马达，用无线调速的方式调整速度，
+The conveyor belt part adopts micro speed regulating motor,
+using the method of wireless control of motor speed adjustment speed,
+一适应不同共建的不同需求.
+a adapt to the different needs of different build.
+3.喷火头及汇流器设计先进督导，燃料利用效率高，是节能产品
+Advanced spray fire head and junction station design supervision, fuel efficiency is high,
+is energy saving products.
+4.优质钢材主机架锥形枝杆工位，抛光铝合金链板，更显本机美观适用.
+Electroplated aluminum alloy holder and blue bright plating converyor make nice appearance.
+5.整机结构新颍，设计合理，操作方便，底部装有活动脚轮，移动方便.
+The structure of the machine is new,design is reasonable,operation is convenient,
+and bottom side with mobile roller wheels to make convenient move.
+技术参数
+PARAMETER
+火焰官渡：200mm 工位：27PCS旋转工位 重量：100KG
+Frame width:200mm Combustion gas :standard petrolic gas Weight：100KG
+燃烧气体：标准石油气 Combustion-supporting gas : compression air with pressure 8KGF/cm2
+助燃气体;压缩空气8KG1/cm2 Power supply: 220v/50hz 电源：220/50Hz Conveyor speed:2-10m/min
+输送带速度：2-10min Speed adjustment speed: electronic stepless change:
+输送带尺寸：1830x360(长X宽） Conveorsize：1830x360mm（LxW）
+外形尺寸：1850x530x1200mm（长x宽x高） Dimension：1850x530x1200mm（LxWxH）
+UV紫外线光固机
+UV ultraviclet light machine money
+一.概述Overview
+1.UV干燥机的设计新颖.造型美观实用操作性能好名牌灯管及进口调速马达其
+UV dryer design. Modelling beautiful and practical operating
+performance is good brand tubes, and import the speed regulating
+固化效果或技术参数还远远超越同类产品；进口调速马达的操作性，
+motor Curing effect or technical parameters also far beyond the
+similar products;Import operational speed regulating motor, control
+completely up to the required Requirements teflon conveyor belt can
+控制性完全可达所需要求选用铁氟龙输送带即可耐高温
+use high temperature resistant material occupy a high resistance to
+hardships and stand hard work
+有事很高的抗耐劳材料.
+2.技术参数the technical paramerers
+规格 长2.5米宽0.75米高1.6米 功率：12kw
+Specifications Length 2.5m 0.75m wide and 1.6m high Power
+电压380v（三相四线） 有效照射面积：长60cm宽65cm
+Voltage:380v(three-phase four-wire) Effective inradited area:60cm long width 85 cm
+有效干燥面积：长50cm宽75cm 最高使用高度：10cm
+Efficient dryingare :length50cm width 75cm Maximum working height:10cm
+灯管数量:2pcs 输送速度：1:12m
+Lamp Number Converyin speed
+3.排风系统：
+the exhaust system
+排风系统采用卧式马达，安装手机身最顶端，抽风力强均匀，
+Exhaust system uses a horizontal motor,mounted on top of the fuselage,ventilation and strong uniform,
+起到很好的散热通风作用.
+play a very good heat ventilation.
+2 1
+--- Page 21 ---
+LT12-18手动机械式双铝夹头拉网机
+LT12-18 manual mechanlcal double alumlnum chucknet machine
+最大拉网 最小拉网 最大拉力 平均拉力 单边最大
+型号
+面积（mm） 面积（mm） （N） （N) 拉网行程
+LT12-15 1200*1500 任意可调 35-50 ±1 1500m
+LT16-18 1600*1800 任意可调 35-50 ±1 1500m
+应用范围
+Applications
+应用于各类网版的拉控，特别适合制作者桃色印刷网版，
+Used invarious network version of the drawing,especially for
+production of color printing screen,
+高精度的单双面电路班。
+high_precision single_sided cirouit boards.
+主要性能 main preformacnce
+1）大量使用120*80特种方管制作拉力可达50牛顿以上，
+beam using a120*80special square tube producion.up to 50 Newtons pull
+长期高张力拉网大梁不变形。
+the net long -terrm high ten sion beam deformation
+2)N内装有轨道滑板，四边大梁可活动型，收缩灵活方便，
+that has the track skateboarding,four_bearns are movable fype,
+shrink flexibility, according tothe frame size adjustment dragnet area ,
+根据网框大小调整拉网面积有效节约网纱.
+工业烤箱
+effective conservation gauze.
+Industrial ovens
+一.用途 purpose
+电热烘箱主要用于物品的烘焙干燥，热处理和加热，工农业生产，
+Mainly . used in electric oven baked goods drying heat treatment and heating,industrial
+and agricultural producion scientific research health care and other units for laoratory
+科学研究，医疗卫生等单位实验室使用但不适用于挥发性物品，
+use,but not for the volatile items .so as not to casue
+以免引起爆炸.
+an explosion
+二技术参数technicalparameters
+外尺寸为1200*1500*800m 特殊规格可订做
+Outer dimensions:1200*1500*800m,special specifications can be customized
+电压220v，功率2.1kw 使用温度：常温至30-200度
+Voltage:220V,Power: 2.1Kw Temperature:room temperature to 30-200degrees
+内胆为优质不锈钢材料，外部为冷板吸塑处理
+HS-1126手动旋转印花机
+Linerfor high_quality stainless steel,outside the cold spary.
+HS-1126 Manual screen printer for T-shirts
+技术参数 TECHNICAL PARAMTE HS-1126
+印色 Printing color 4/6/8
+最大印刷面积 Max estention area 400mm*350mm
+工作台面积 Worktable size 500mm*400mm
+移动烘箱功率 The powero fT ravelling oven 36.Kw
+覆膜机
+Film laminating machine 外型尺寸 Overall dimension 2500*2500*1300mm
+技术参数 TECHNICAL PARAMTE
+1.胶辊直径：500/300/700mm 7.功率（电机）：4KW
+2.包胶长度：500mm 8.重量：55kg
+3.可复膜宽度：460mm 9.平台宽度：660mm
+4.复膜速度：1-8m/min 10.进料台长度：410mm
+5.复膜产品厚度：0.01-15mm 11.出料台长度：310mm
+6.使用电源：220V 50HZ 12.平台高度：700mm
+2 2
+--- Page 22 ---
+LT-280S树脂版（PS板）曝光机
+LT-280+树脂版晒版机
+LT-280+resin plate Shai Banji
+HI-280S Exposure machine for polymer plate
+主要技术指标：
+主要技术指标
+1.电源：1100V 60HZ 功率：160w
+1、电源：110V-60HZ
+2.光源：8w*6
+2、光源：8W*6
+3.波长：3500*4599埃
+3、波长：3500*4599A
+4.曝光时间：0-5.5分钟连续可调
+4、曝光时间：0-5.5分钟连续可调
+5.晒版面积：210*260mm
+5、晒版面积：210*260mm
+6.体积：320*310*90mm
+6、体积：320*310*90mm
+7.重量：5kg
+该机器体积小，结构紧凑，光源稳定低电压仍
+The machine is small in size, compact structure, light stability of
+low voltage can still normal boot, wavelength coincide well with
+可以正常启动，波长与树脂版吻合良好，晒出的
+the resin version, bask in the plate has a text, image is clear,
+版材具有文字，图像清晰，耐印率高等特点。
+high rate of resistance to printing, etc.
+适合印刷商标，名片，请柬，小表格等的印刷
+Suitable for printing logo, business CARDS, invitation CARDS,
+small table and other printing
+LT-280M型真空丝网晒版机 单位使用280+抽屉式晒版机除具备280晒版
+Use 280 + drawer units printing-down machine 280 printing-down
+Screen plate expsoure machine with vacuum 机的功能外，还具有不同规则形状的工艺品晒版
+machine function, also has the different rules in the shape of
+以及树脂曝光水洗之后，烘干功能
+a handicraft plate burning and resin exposure after washing,
+主要技术指标 drying function
+1、电源：220V 50HZ
+2、功率：160w
+3、真空度：≥-0.025
+4、橡皮内腔尺寸：520*420mm
+5、外形尺寸：600*600*180mm
+精密网版晒版机
+型号 晒板尺寸 功率KM
+LT-280L120 900*1200 2.0
+LT-280L150 1200*1500 3.0
+主要性能：
+Main performance:
+1、箱体表面处理采用高温静电喷塑，具有耐腐蚀性、耐磨性、不易老化等优点。
+body surface processing with high temperature electrostatic spraying, has the advantages of corrosion resistance,
+wear resistance, not easy ageing.
+2、内置抽风冷却系统，可将灯管的热量及时散发，从而延长灯管的使用寿命，达到最好的晒版效果。
+built-in ventilation cooling system, can be timely heat tube lights,
+so as to prolong the service life of tubes, to achieve the best printing effect.
+3、反光系统：反光罩采用反光材料AR481#，确保反光照强度均匀。
+reflective system: adopt reflective material AR481 reflecting cover,
+to ensure that the light intensity.
+此款机器工作台可左右前后微调，
+台面采用烛铝台面经久耐用 This machine workbench can control before and after fine-tuning
+一般规格有
+Use candle aluminum mesa mesa durable
+general specifications have
+工作台尺寸有:
+100*100mm 270*350mm 320*440mm
+Table size is
+特殊规格可订做
+240*300mm 320*440mm450*600mm Special specifications can be customized
+2 3
+--- Page 23 ---
+SYC-120Y 手动油盅移印机
+SYC-120Y manual oil insanity printing machine
+1.概述
+Summery
+SYC-120Y单手操作手动油盅移印机具有以下特点
+SYC-120Y is a single manual ink cup shift printing machine.it has following characteristics；
+（1）单手实现胶头水品垂直方向的驱动腾出一只手装拔印件，炒作方便：
+it canrealize rubber head:”driving of harizontla and vertical direction by only one hand :
+the other hand is released to load the printing piece ,It is easy to operate:
+（2）设有垂直导 槽和深度限位调节块，便落胶点准确无误：上墨刮墨用先进的密闭
+油盅系统，即省钱又环保：
+It has vertical channer and depth positive-stop regulating black so that the dropping
+point of rubber head will be accurate: linking and ink scrape adopt advanced confined
+ink cup system which has economic and environmental proterction effect:
+（3）工作台上下，左右，前后调节，胶头可左右，牵头平面角度调节，调校机器方便快捷
+The working table can be adjusted from top to bottom from left to right and
+fram front to back . Rubber head can be adjusted from left to right,from front to
+back befor and in plance angle.It is convenient and quick to make adjustmant to machine
+规规格格 油油盅盅规规格格 最最大大印印刷刷面面积积
+specification Ink cup specification:Ф70mm Maximum prirting area:Ф60mm
+胶胶头头水水平平行行程程 Horizontal stroke of adhesive:120mm
+胶胶头头最最大大垂垂直直行行程程 Maximum vertical l stroke of adhesive:50mm
+工工作作台台最最大大升升降降量量 Maximum lifiting depth of working platform :55mm
+工工作作台台左左右右前前后后调调节节量量 Left to right and front to back adjustment distance of working platform:±10mm
+胶胶头头前前后后调调节节量量 Front to back adjustment distance of adhesive:±20mm
+胶胶头头左左右右调调节节量量 Lefl to right adjustment distance of adhesive:±10mm
+外外形形尺尺寸寸LLxxWWxxHH（mm) Overall dimension LxWxH（mm):365x170*450 重重量量 Weight :22kg
+手动圆（曲）面丝印机
+Manual Curved Suriace Screen Printing Machines
+改机采用于手动操作，它小巧玲珑，廉价物美，质量可靠
+This machine manual, and cheap,low noise,reliable,and individual households
+是小型企业及个体家庭工厂的最佳选择。
+and smail businesses is the bestoption.
+主要参数
+Main Parameters:
+型号
+l LT-S1 LT-S2 LT-S3 LT-L1 LT-L2
+Model
+网框尺寸 320*210 320*370 460*360 460*560 560*750
+Max Frame (mm)
+最大印刷直径
+φ60 φ1 60 φ160 φ300 φ400
+Max Dia.(mm)
+最大印刷周长 200 200 300 300 500
+Max circumference（mm）
+最大印刷面积 200*100 200*240 300*240 300*400 500*400
+Max Size（mm）
+包装体积 680*310 680*480 830*480 1000*650 1320*680
+Dimensions(L*W*H) *220 *350 *350 *350 *620
+重量 20KG 30KG 50KG 75KG 100KG
+Weight
+2 4
+--- Page 24 ---
+德国马来宝 高品质移印、丝印、油墨 英国高氏 高品质移印、丝印、油墨
+GGeermrmaann M Miriarabbaal lh higighh-q-quuaalitliyty p paadd p prirnintitningg, ,s sccrereeenn p prirnintitningg, ,p prirnintitningg i ninkk Britain Gao's quality pad printing, screen printing, printing ink
+日本精工高品质移印、丝印、油墨 恒锦油墨高品质移印、丝印、油墨(详见（恒锦油墨彩页）
+Japanese high quality pad printing, screen printing, printing ink Hengjin high quality ink pad printing, screen printing, printing ink (see (constant chromatic ink color pages)
+各种特殊胶头、胶浆、钢板、刀片、油墨、油盘、洗网水、
+A variety of special plastic,mortar,steel,razor blades,ink,oil pan,wash water nework
+感光浆、腐蚀剂等。
+photosensitive paste,corrosion and water.
+2 5
+--- Page 25 ---
+代理日本NBC和瑞士赛发网纱：
+Japan's NBC/poly (ethyl hairnet yarn
+1.抗拉伸 2.抗磨损
+To stretch Resistance to wear and tear
+3.耐高温 4.抗腐蚀
+High te mperature resistant The anticorrosion material
+世界名牌刮胶：
+The world famous brand spreading
+抗溶剂；抗撕扯；
+Solvent resistance; Tear resistance
+使用寿命长；边缘精度高。
+The service life is long; High precision of edge
+丝印周边耗材
+Screen Printing consumables
+日本村上网版感光浆
+Japanese Village Interner version
+of the photosensitive paste
+南宝树脂
+Nanbao Resin
+粘网胶 除鬼影膏 红色封边剂
+Emulsion In addition to ghost cream Red Coueuliguid
+网版粘网胶
+Screen plastic Stick network
+柯图泰感光浆 脱模粉 PP处理水
+Emulsion Autosrip Powder PP Treating Water

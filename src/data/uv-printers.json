@@ -1,0 +1,71 @@
+[
+  {
+    "id": "model-x1",
+    "name": "Máy In Phun Công Nghiệp UV Single Pass X1",
+    "description": "Dòng máy in UV Single Pass cơ bản với 1 đầu in công nghiệp, lý tưởng cho việc in dữ liệu biến đổi, QR code, mã vạch trên tem nhãn và các bao bì cỡ nhỏ với độ phân giải cao và tốc độ vượt trội.",
+    "features": [
+      "Công nghệ đầu in Piezoelectric công nghiệp (1 đầu in).",
+      "Tuổi thọ đầu in lên đến 10 tỷ lần phun.",
+      "Tốc độ in tối đa 150m/phút.",
+      "Công nghệ sấy UV-LED tiết kiệm điện, bảo vệ môi trường.",
+      "Hỗ trợ in đa dạng chất liệu: Decal, nhựa PE/PP, màng kim loại."
+    ],
+    "specs": {
+      "printheadType": "On-demand piezoelectric",
+      "printWidth": "54mm",
+      "printSpeed": "0-150m/min",
+      "resolution": "600 x 200-1200 dpi",
+      "inkType": "Mực UV Eco-friendly",
+      "curingSystem": "UV-LED curing",
+      "weight": "270KG",
+      "dimensions": "1.39m x 0.83m x 1.50m"
+    },
+    "image": "/images/products/uv-x1.jpg"
+  },
+  {
+    "id": "model-x6",
+    "name": "Hệ Thống In Phun UV Single Pass X6",
+    "description": "Giải pháp in UV Single Pass mở rộng với 6 cụm đầu in, cung cấp khổ in lớn hơn để đáp ứng các dây chuyền đóng gói công nghiệp và in thùng carton, in bao bì linh hoạt (flexible packaging).",
+    "features": [
+      "Khổ in mở rộng lên đến 324mm.",
+      "Kết hợp 6 đầu in hoạt động đồng bộ, độ ổn định cực cao.",
+      "Tích hợp hệ thống kiểm soát mực in áp suất âm tự động.",
+      "Giao diện phần mềm MagicData trực quan, hỗ trợ thiết kế dữ liệu biến đổi nhanh chóng.",
+      "Dễ dàng tích hợp lên các dây chuyền chia cuộn, máy đóng gói."
+    ],
+    "specs": {
+      "printheadType": "On-demand piezoelectric",
+      "printWidth": "324mm",
+      "printSpeed": "0-150m/min",
+      "resolution": "600 x 200-1200 dpi",
+      "inkType": "Mực UV Eco-friendly",
+      "curingSystem": "Hệ thống sấy UV-LED công suất lớn",
+      "weight": "Liên hệ",
+      "dimensions": "Tùy biến theo băng tải"
+    },
+    "image": "/images/products/uv-x6.jpg"
+  },
+  {
+    "id": "model-x9",
+    "name": "Dây Chuyền In UV Single Pass X9 Khổ Lớn",
+    "description": "Hệ thống in tối tân với 9 đầu in, mang đến khổ in siêu rộng. Giải pháp hoàn hảo cho in hộp carton tấm lớn, bao bì màng rộng và các ứng dụng cần vùng in dữ liệu cực lớn trong một lần chạy.",
+    "features": [
+      "Khổ in tối đa lên đến 486mm với 9 cụm đầu in ghép nối.",
+      "Độ phân giải bản in sắc nét tuyệt đối ngay cả ở tốc độ cao.",
+      "Kiểm soát giọt mực thông minh, chống nghẹt đầu phun.",
+      "Tự động cảnh báo hết mực, hệ thống cảnh báo bằng đèn/còi.",
+      "Cung cấp SDK kết nối đồng bộ với hệ thống MES/ERP của nhà máy."
+    ],
+    "specs": {
+      "printheadType": "On-demand piezoelectric",
+      "printWidth": "486mm",
+      "printSpeed": "0-150m/min",
+      "resolution": "600 x 200-1200 dpi",
+      "inkType": "Mực UV Eco-friendly",
+      "curingSystem": "Hệ thống sấy UV-LED công suất lớn",
+      "weight": "Liên hệ",
+      "dimensions": "Tùy biến theo băng tải"
+    },
+    "image": "/images/products/uv-x9.jpg"
+  }
+]

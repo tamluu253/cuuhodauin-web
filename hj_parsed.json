@@ -1,0 +1,470 @@
+[
+  {
+    "id": "hs260r-12",
+    "name": "HS260R-12",
+    "model": "HS260R-12",
+    "desc": "曲面丝印机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs-260r-12",
+    "name": "HS-260R-12",
+    "model": "HS-260R-12",
+    "desc": "Hengjin precisesingie color 12stations curve screen printing machine",
+    "specs": {
+      "plateSize": "最大印刷直径（max printing dia）：Ф35mm",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs90120跑台丝印机",
+    "name": "HS90120跑台丝印机",
+    "model": "HS90120跑台丝印机",
+    "desc": "",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs92120",
+    "name": "HS92120",
+    "model": "HS92120",
+    "desc": "treadmill printing machine",
+    "specs": {
+      "plateSize": "",
+      "printArea": "Max Printing Size ：900*1200mm",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs5070跑台丝印机",
+    "name": "HS5070跑台丝印机",
+    "model": "HS5070跑台丝印机",
+    "desc": "",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs5070",
+    "name": "HS5070",
+    "model": "HS5070",
+    "desc": "treadmill printing machine",
+    "specs": {
+      "plateSize": "Screen frame size ：700*600mm",
+      "printArea": "Max Printing Size ：700*500mm",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs-260pme",
+    "name": "HS-260PME",
+    "model": "HS-260PME",
+    "desc": "high precision servo screen printing machine",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs1515",
+    "name": "HS1515",
+    "model": "HS1515",
+    "desc": "balloon pattem presses",
+    "specs": {
+      "plateSize": "Screen Frame Size : 400*600mm Table size ：250x250mm",
+      "printArea": "Max Printing Area : 200*260mm",
+      "speed": "The maximum printing speed: 1500PCS/H"
+    },
+    "image": ""
+  },
+  {
+    "id": "hs-4060",
+    "name": "HS-4060",
+    "model": "HS-4060",
+    "desc": "CCD registration screen printing machine",
+    "specs": {
+      "plateSize": "印刷速度 ：900pcs/H 机身尺寸 ：1875*962*1767mm",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs260pme-2r",
+    "name": "HS260PME-2R",
+    "model": "HS260PME-2R",
+    "desc": "双工位高精度伺服丝印印机机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs260pme-4rx",
+    "name": "HS260PME-4RX",
+    "model": "HS260PME-4RX",
+    "desc": "四工位伺服自动下料系统丝印机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs260平面吸气丝印机",
+    "name": "HS260平面吸气丝印机",
+    "model": "HS260平面吸气丝印机",
+    "desc": "HS-260R圆面丝印机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-260p",
+    "name": "HP-260P",
+    "model": "HP-260P",
+    "desc": "Precise flat screen printing machine HS-260R cylindrical screen printer",
+    "specs": {
+      "plateSize": "400mm*600mm 350mm*500mm",
+      "printArea": "200mm*260mm Ф80mm",
+      "speed": "1600次/小时 1400次/小时"
+    },
+    "image": ""
+  },
+  {
+    "id": "hs-350p",
+    "name": "HS-350P",
+    "model": "HS-350P",
+    "desc": "精密型平面丝印机 HS-350R圆面丝印机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs-500p平面丝印机",
+    "name": "HS-500P平面丝印机",
+    "model": "HS-500P平面丝印机",
+    "desc": "HS-500R圆印丝印机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs-500p",
+    "name": "HS-500P",
+    "model": "HS-500P",
+    "desc": "screen printer HS-500R cylindrical screen printer",
+    "specs": {
+      "plateSize": "550mm*8000mm 450mm*750mm",
+      "printArea": "300mm*500mm Ф150mm丝印直径",
+      "speed": "900次/小时 250mm"
+    },
+    "image": ""
+  },
+  {
+    "id": "hs-600p平面丝印机",
+    "name": "HS-600P平面丝印机",
+    "model": "HS-600P平面丝印机",
+    "desc": "HS-600R圆印丝印机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs-600p",
+    "name": "HS-600P",
+    "model": "HS-600P",
+    "desc": "screen printer HP-600R cylindrical screen printer",
+    "specs": {
+      "plateSize": "700mm*1000mm 500mm*900mm",
+      "printArea": "400mm*600mm Ф320mm",
+      "speed": "1000次/小时 250mm"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-600px",
+    "name": "HP-600PX",
+    "model": "HP-600PX",
+    "desc": "Precise flat screen printing machine HS-5070P precise flat screen cacuum printing machine",
+    "specs": {
+      "plateSize": "600mm*1000mm 800mm*1100mm",
+      "printArea": "400mm*600mm 500mm*700mm",
+      "speed": "650次/小时 750次/小时"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-70100p",
+    "name": "HP-70100P",
+    "model": "HP-70100P",
+    "desc": "Precision flat screen vacuum printing machine HS-10150PX precise run-table flat screen printing machine",
+    "specs": {
+      "plateSize": "1000mm*1400mm 1300mm*1900mm",
+      "printArea": "700mm*1000mm 1000mm*1500mm",
+      "speed": "600次/小时 400次/小时"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-160a",
+    "name": "HP-160A",
+    "model": "HP-160A",
+    "desc": "CCD Slide 1 color pad printer",
+    "specs": {
+      "plateSize": "Max Printing Area ：75x125mm Max Steel Plate Size：100x150mm",
+      "printArea": "Steel Plate Thickness ：10mm Printing Height ：25mm",
+      "speed": "Printing Head Speed ：150-650mm/sec Max Produce Capacity：600P/H"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-300hz",
+    "name": "HP-300HZ",
+    "model": "HP-300HZ",
+    "desc": "8色转盘移印机-专用奶瓶图案印刷机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hp250aym",
+    "name": "HP250AYM",
+    "model": "HP250AYM",
+    "desc": "双伺服移印机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-300fac",
+    "name": "HP-300FAC",
+    "model": "HP-300FAC",
+    "desc": "hengjin automatic 6colors pad printer with ink cup",
+    "specs": {
+      "plateSize": "印刷面积 Max Printing Size:Ф125mm",
+      "printArea": "油盅大小 Max Ink cup size:Ф140mm",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hs-125",
+    "name": "HS-125",
+    "model": "HS-125",
+    "desc": "pneumatic desktop 1 color pad printer HP-125A pneumatic single color pad printer",
+    "specs": {
+      "plateSize": "100mm*100mm 100mm*100mm",
+      "printArea": "75mm*75mm 75mm*75mm",
+      "speed": "2100次/小时 2100次/小时"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-125ay",
+    "name": "HP-125AY",
+    "model": "HP-125AY",
+    "desc": "pneumatic single color pad printer with ink cup HP-125B pneumatic 2 colors pad printer with shuttle",
+    "specs": {
+      "plateSize": "100mm*200mm 100mm*100mm",
+      "printArea": "Ф45mm 75mm*75mm",
+      "speed": "Ф60mm 1500次/小时"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-160",
+    "name": "HP-160",
+    "model": "HP-160",
+    "desc": "single color ppad pprinter HP-160Y single color ink cup pad printer",
+    "specs": {
+      "plateSize": "100mm*150mm 100mm*250mm",
+      "printArea": "75mm*125mm 70mm*70mm或Ф75",
+      "speed": "1800次/小时 Ф90mm"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-160by",
+    "name": "HP-160BY",
+    "model": "HP-160BY",
+    "desc": "pneumatic 2 colors pad printer with ink cup HP-160BZ pneumatic 2 colors pad printer with conveyor",
+    "specs": {
+      "plateSize": "100mm*250mm 100mm*150mm",
+      "printArea": "70mm*70mm或Ф75 75mm*125mm",
+      "speed": "Ф90mm 1800次/小时"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-160c",
+    "name": "HP-160C",
+    "model": "HP-160C",
+    "desc": "3 color pad printer with shuttle HP-160YX single color ink cup pad printer",
+    "specs": {
+      "plateSize": "100mm*250mm 100mm*500mm",
+      "printArea": "70mm*70mm或Ф75mm 70mm*300mm",
+      "speed": "900次/小时 780*760*1450mm"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-160d",
+    "name": "HP-160D",
+    "model": "HP-160D",
+    "desc": "四色穿梭移印机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-160cz",
+    "name": "HP-160CZ",
+    "model": "HP-160CZ",
+    "desc": "pneumatic3 color pad printer with turntable HP-160DZ Four single color pad printer with conweyor",
+    "specs": {
+      "plateSize": "100mm*150mm 100mm*150mm",
+      "printArea": "75mm*125mm 75mm*125mm",
+      "speed": "1200次/小时 1200次/小时"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-200d",
+    "name": "HP-200D",
+    "model": "HP-200D",
+    "desc": "4 color pad printer with turntable HP-200DZY four color ink cup pad printer with conveyor",
+    "specs": {
+      "plateSize": "100mm*250mm",
+      "printArea": "75mm*125mm",
+      "speed": "印刷速度 1200次/小时"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-200y",
+    "name": "HP-200Y",
+    "model": "HP-200Y",
+    "desc": "single color ink tray pad machine HP-200Y single color ink cup pad printer",
+    "specs": {
+      "plateSize": "150mm*150mm 150mm*300mm",
+      "printArea": "125mm*125mm 100mm*120mm或Ф1200",
+      "speed": "1200次/小时 Ф135mm"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-200b",
+    "name": "HP-200B",
+    "model": "HP-200B",
+    "desc": "2 colors pad printer with shuttle HP-200DZ 4colors pad printer with conveyor",
+    "specs": {
+      "plateSize": "150mm*150mm 100mm*150mm",
+      "printArea": "120mm*125mm 75mm*120mm",
+      "speed": "1600次/小时 1200次/小时"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-200fz",
+    "name": "HP-200FZ",
+    "model": "HP-200FZ",
+    "desc": "6 colors pad printer with conveyor HP-300D 4 color pad printer with shuttle",
+    "specs": {
+      "plateSize": "100mm*150mm 150mm*350mm",
+      "printArea": "75mm*120mm 120mm*200mm",
+      "speed": "1600次/小时 Ф135mm"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-300dz",
+    "name": "HP-300DZ",
+    "model": "HP-300DZ",
+    "desc": "single color ink cup pad printer HP-300FZ 6 colors pad printer with conveyor",
+    "specs": {
+      "plateSize": "150mm*250mm 100mm*250mm",
+      "printArea": "125mm*225mm 75mm*225mm",
+      "speed": "1200次/小时 1200次/小时"
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-300k",
+    "name": "HP-300K",
+    "model": "HP-300K",
+    "desc": "（电脑键盘）单色移印机 HP-300B双色穿梭移印机",
+    "specs": {
+      "plateSize": "",
+      "printArea": "",
+      "speed": ""
+    },
+    "image": ""
+  },
+  {
+    "id": "hp-300a",
+    "name": "HP-300A",
+    "model": "HP-300A",
+    "desc": "Big single color pad printer HP-300AY large color ink cup pad printer",
+    "specs": {
+      "plateSize": "200mm*500mm 150mm*350mm",
+      "printArea": "Printing Size Ф125mm",
+      "speed": "1200次/小时 Body size"
+    },
+    "image": ""
+  },
+  {
+    "id": "hs-1126",
+    "name": "HS-1126",
+    "model": "HS-1126",
+    "desc": "Manual screen printer for T-shirts",
+    "specs": {
+      "plateSize": "Max Frame (mm)",
+      "printArea": "工作台面积 Worktable size 500mm*400mm",
+      "speed": ""
+    },
+    "image": ""
+  }
+]

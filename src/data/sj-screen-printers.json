@@ -1,0 +1,83 @@
+[
+  {
+    "model": "MN300-A",
+    "colors": 1,
+    "desc": "Máy in lụa SJ",
+    "plateSize": "350x350mm",
+    "printArea": "250x200mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/mn300_a.png"
+  },
+  {
+    "model": "MN400-A",
+    "colors": 1,
+    "desc": "Máy in lụa SJ",
+    "plateSize": "450x450mm",
+    "printArea": "350x250mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/mn400_a.png"
+  },
+  {
+    "model": "SLD-200",
+    "colors": 1,
+    "desc": "Máy in lụa SJ",
+    "plateSize": "250x250mm",
+    "printArea": "150x150mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sld_200.png"
+  },
+  {
+    "model": "SS-400-3",
+    "colors": 1,
+    "desc": "Máy in lụa SJ",
+    "plateSize": "450x450mm",
+    "printArea": "350x250mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ss_400_3.png"
+  },
+  {
+    "model": "S-200L",
+    "colors": 1,
+    "desc": "Máy in lụa SJ",
+    "plateSize": "250x250mm",
+    "printArea": "150x150mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/s_200l.png"
+  },
+  {
+    "model": "S-400T",
+    "colors": 1,
+    "desc": "Máy in lụa SJ",
+    "plateSize": "450x450mm",
+    "printArea": "350x250mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/s_400t.png"
+  },
+  {
+    "model": "SS-AG-200",
+    "colors": 1,
+    "desc": "Máy in lụa SJ",
+    "plateSize": "250x250mm",
+    "printArea": "150x150mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ss_ag_200.jpg"
+  },
+  {
+    "model": "SLS-400-2H",
+    "colors": 1,
+    "desc": "Máy in lụa SJ",
+    "plateSize": "450x450mm",
+    "printArea": "350x250mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sls_400_2h.png"
+  },
+  {
+    "model": "SS-250-3",
+    "colors": 1,
+    "desc": "Máy in lụa SJ",
+    "plateSize": "300x300mm",
+    "printArea": "200x160mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ss_250_3.png"
+  }
+]
