@@ -8,6 +8,9 @@ const languages = [
   { code: "zh-CN", name: "中文 (Chinese)", flag: "🇨🇳" },
   { code: "ja", name: "日本語 (Japanese)", flag: "🇯🇵" },
   { code: "ko", name: "한국어 (Korean)", flag: "🇰🇷" },
+  { code: "th", name: "ไทย (Thai)", flag: "🇹🇭" },
+  { code: "km", name: "ភាសាខ្មែរ (Khmer)", flag: "🇰🇭" },
+  { code: "lo", name: "ພາສາລາວ (Lao)", flag: "🇱🇦" },
   { code: "es", name: "Español", flag: "🇪🇸" },
   { code: "de", name: "Deutsch", flag: "🇩🇪" },
   { code: "fr", name: "Français", flag: "🇫🇷" },
@@ -122,7 +125,7 @@ export default function Home() {
         new (window as any).google.translate.TranslateElement(
           {
             pageLanguage: "vi",
-            includedLanguages: "en,zh-CN,ja,ko,es,de,fr,vi",
+            includedLanguages: "en,zh-CN,ja,ko,th,km,lo,es,de,fr,vi",
             autoDisplay: false,
           },
           "google_translate_element"
