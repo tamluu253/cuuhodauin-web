@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VNPIS — Trung tâm Cứu hộ Đầu in Kỹ thuật số số 1 Việt Nam | cuuhodauin.com</title>
+  <meta name="description" content="VNPIS Lab — Dịch vụ cứu hộ, phục hồi, soi Nozzle 4K và sửa chữa đầu in phun công nghiệp Ricoh Gen5/6, Kyocera, Konica 1024i, Epson I3200, CIJ & TIJ. Cam kết No Cure - No Pay." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            navy: {
+              50:  '#eef2f8',
+              100: '#d4deef',
+              200: '#a9bddf',
+              300: '#7e9ccf',
+              400: '#537bbf',
+              500: '#285aaf',
+              600: '#1e4485',
+              700: '#163265',
+              800: '#0f2245',
+              900: '#081428',
+              950: '#040a14',
+            },
+          },
+          fontFamily: {
+            sans: ['Segoe UI', 'system-ui', '-apple-system', 'sans-serif'],
+          },
+        },
+      },
+    };
+  </script>
+  <style>
+    html { scroll-behavior: smooth; }
+    .modal-backdrop { background-color: rgba(4, 10, 20, 0.75); backdrop-filter: blur(4px); }
+  </style>
+</head>
+<body class="font-sans text-slate-700 bg-white antialiased">
+
+  <!-- Header -->
+  <header class="sticky top-0 z-50 bg-navy-900/95 backdrop-blur border-b border-navy-700">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center justify-between h-[4.5rem]">
+        <a href="#" class="flex items-center gap-3 group">
+          <img
+            src="VNPIS_logo.png"
+            alt="VNPIS Lab — VNPIS.COM"
+            class="h-12 w-auto object-contain bg-white rounded-lg px-2 py-1 shadow-sm group-hover:shadow-md transition-shadow"
+          />
+        </a>
+
+        <nav class="hidden md:flex items-center gap-8">
+          <a href="#dich-vu" class="text-navy-100 hover:text-white text-sm font-medium transition-colors">Dịch vụ Lab</a>
+          <a href="#dau-in-ho-tro" class="text-navy-100 hover:text-white text-sm font-medium transition-colors">Đầu in hỗ trợ</a>
+          <a href="#kien-thuc" class="text-amber-300 hover:text-white text-sm font-bold transition-colors">Kho 121 Bài viết</a>
+          <a href="#tra-cuu-qr" class="text-navy-100 hover:text-white text-sm font-medium transition-colors">Tra cứu QR</a>
+          <a href="#lien-he" class="text-navy-100 hover:text-white text-sm font-medium transition-colors">Liên hệ VNPIS</a>
+        </nav>
+
+        <div class="hidden lg:flex items-center gap-4">
+          <a href="tel:0987453866" class="px-4 py-2 bg-amber-400 text-navy-950 font-bold rounded-lg text-sm hover:bg-amber-300 transition-colors">
+            📞 0987 453 866
+          </a>
+        </div>
+
+        <button id="menu-btn" class="md:hidden p-2 text-navy-100 hover:text-white" aria-label="Mở menu">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+          </svg>
+        </button>
+      </div>
+
+      <nav id="mobile-menu" class="hidden md:hidden pb-4 border-t border-navy-700 pt-3 space-y-1">
+        <a href="#dich-vu" class="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Dịch vụ Lab</a>
+        <a href="#dau-in-ho-tro" class="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Đầu in hỗ trợ</a>
+        <a href="#kien-thuc" class="block px-3 py-2 text-amber-300 font-bold hover:text-white hover:bg-navy-800 rounded-md text-sm">Kho 121 Bài viết</a>
+        <a href="#tra-cuu-qr" class="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Tra cứu QR</a>
+        <a href="#lien-he" class="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Liên hệ VNPIS</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="relative bg-navy-900 overflow-hidden">
+    <div class="absolute inset-0 opacity-20">
+      <div class="absolute top-0 right-0 w-96 h-96 bg-navy-500 rounded-full blur-3xl -translate-y-1/2 translate-x-1/3"></div>
+      <div class="absolute bottom-0 left-0 w-80 h-80 bg-navy-600 rounded-full blur-3xl translate-y-1/2 -translate-x-1/4"></div>
+    </div>
+    <div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 sm:py-28 text-center">
+      <p class="inline-block mb-4 px-4 py-1.5 rounded-full bg-navy-800 border border-navy-600 text-navy-200 text-xs sm:text-sm font-medium tracking-wide uppercase">
+        VNPIS Lab Center &mdash; Tiêu chuẩn Phòng Siêu Âm Kỹ Thuật Số
+      </p>
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-white leading-tight max-w-4xl mx-auto">
+        VNPIS &mdash; Trung tâm Cứu hộ Đầu in Kỹ thuật số số 1 Việt Nam
+      </h1>
+      <p class="mt-5 text-lg sm:text-xl text-navy-200 font-light max-w-3xl mx-auto leading-relaxed">
+        Khôi phục 90%-98% hiệu suất đầu in phun công nghiệp Ricoh Gen5/6, Kyocera, Konica 1024i, Epson I3200, CIJ & TIJ. Tối ưu hàng trăm triệu đồng chi phí thay mới.
+      </p>
+      <div class="mt-6 flex flex-wrap justify-center gap-3">
+        <span class="px-4 py-2 bg-navy-800/80 border border-navy-600 rounded-lg text-white text-sm font-medium">🔬 Soi Nozzle 4K Kính Hiển Vi</span>
+        <span class="px-4 py-2 bg-navy-800/80 border border-navy-600 rounded-lg text-white text-sm font-medium">⚡ Kiểm Trực Xung Waterfall</span>
+        <span class="px-4 py-2 bg-navy-800/80 border border-navy-600 rounded-lg text-white text-sm font-medium">🛡️ Cam Kết No Cure - No Pay</span>
+      </div>
+      <div class="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
+        <a href="#lien-he" class="w-full sm:w-auto px-8 py-4 bg-amber-400 text-navy-950 font-bold rounded-xl hover:bg-amber-300 transition-colors shadow-lg text-base">
+          🚀 Gửi Đầu In Chẩn Đoán Miễn Phí
+        </a>
+        <a href="#kien-thuc" class="w-full sm:w-auto px-8 py-4 bg-navy-800 text-white font-semibold rounded-xl border border-navy-600 hover:bg-navy-700 transition-colors text-base">
+          📚 Đọc 121 Bài Viết Kiến Thức
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dịch Vụ Lab -->
+  <section id="dich-vu" class="py-16 sm:py-24 bg-slate-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-16">
+        <h2 class="text-2xl sm:text-3xl font-bold text-navy-900">Quy Trình Cứu Hộ Chuẩn Lab Tại VNPIS</h2>
+        <p class="mt-3 text-slate-600 max-w-2xl mx-auto">Áp dụng máy rửa siêu âm tần số kép, hoá chất phân huỷ màng mực khô nano và thiết bị đo trở kháng màng Piezo chuyên dụng.</p>
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="bg-white p-8 rounded-2xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+          <div class="w-12 h-12 bg-navy-100 text-navy-700 rounded-xl flex items-center justify-center font-bold text-xl mb-6">01</div>
+          <h3 class="text-xl font-bold text-navy-900 mb-3">Chẩn Đoán & Soi Nozzle 4K</h3>
+          <p class="text-slate-600 text-sm leading-relaxed">Sử dụng kính hiển vi công nghiệp phóng đại 1000x để xác định chính xác vị trí bít tắc, nứt vách ngăn hoặc trầy xước mặt lỗ phun.</p>
+        </div>
+
+        <div class="bg-white p-8 rounded-2xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+          <div class="w-12 h-12 bg-navy-100 text-navy-700 rounded-xl flex items-center justify-center font-bold text-xl mb-6">02</div>
+          <h3 class="text-xl font-bold text-navy-900 mb-3">Siêu Âm Tần Số Kép & Vi Tuần Hoàn</h3>
+          <p class="text-slate-600 text-sm leading-relaxed">Bơm dung dịch kiềm dầu chuyên dụng tuần hoàn áp suất âm kết hợp sóng siêu âm không xâm lấn, đánh tan cặn mực UV & mực dầu khô bám sâu trong khoang.</p>
+        </div>
+
+        <div class="bg-white p-8 rounded-2xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+          <div class="w-12 h-12 bg-navy-100 text-navy-700 rounded-xl flex items-center justify-center font-bold text-xl mb-6">03</div>
+          <h3 class="text-xl font-bold text-navy-900 mb-3">Test Xung Waterfall & Dán Tem QR</h3>
+          <p class="text-slate-600 text-sm leading-relaxed">Bắn test tia đạn giọt thực tế trên băng thử kịch bản Waterfall. Quay video nghiệm thu 4K và mã hoá QR tem bảo hành cho khách hàng.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Đầu In Hỗ Trợ -->
+  <section id="dau-in-ho-tro" class="py-16 sm:py-20 bg-white">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-12">
+        <h2 class="text-2xl sm:text-3xl font-bold text-navy-900">Danh Mục Đầu In Phun Công Nghiệp Được Hỗ Trợ</h2>
+        <p class="mt-3 text-slate-600">VNPIS Lab hỗ trợ hầu hết các thương hiệu đầu in phun phổ biến trên thị trường.</p>
+      </div>
+
+      <div class="overflow-x-auto rounded-2xl border border-slate-200 shadow-sm">
+        <table class="w-full text-left text-sm text-slate-700">
+          <thead class="bg-navy-900 text-white uppercase text-xs">
+            <tr>
+              <th class="px-6 py-4">Thương hiệu</th>
+              <th class="px-6 py-4">Công nghệ</th>
+              <th class="px-6 py-4">Các Model Phổ Biến</th>
+              <th class="px-6 py-4">Trạng thái Cứu hộ</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-200 bg-white">
+            <tr>
+              <td class="px-6 py-4 font-bold text-navy-900">Ricoh</td>
+              <td class="px-6 py-4">Piezoelectric</td>
+              <td class="px-6 py-4 font-semibold text-slate-800">Gen5 (MH5420/5440), Gen6 (MH5320/5340), GH2220</td>
+              <td class="px-6 py-4"><span class="px-3 py-1 bg-green-100 text-green-800 rounded-full font-bold text-xs">Hỗ trợ 98%</span></td>
+            </tr>
+            <tr>
+              <td class="px-6 py-4 font-bold text-navy-900">Kyocera</td>
+              <td class="px-6 py-4">Piezoelectric High-speed</td>
+              <td class="px-6 py-4 font-semibold text-slate-800">KJ4A-TA, KJ4B-QA, KJ4C-EX</td>
+              <td class="px-6 py-4"><span class="px-3 py-1 bg-green-100 text-green-800 rounded-full font-bold text-xs">Hỗ trợ 95%</span></td>
+            </tr>
+            <tr>
+              <td class="px-6 py-4 font-bold text-navy-900">Konica Minolta</td>
+              <td class="px-6 py-4">Piezoelectric</td>
+              <td class="px-6 py-4 font-semibold text-slate-800">KM1024, KM1024i (SHE 6pl), KM1800i</td>
+              <td class="px-6 py-4"><span class="px-3 py-1 bg-green-100 text-green-800 rounded-full font-bold text-xs">Hỗ trợ 96%</span></td>
+            </tr>
+            <tr>
+              <td class="px-6 py-4 font-bold text-navy-900">Epson</td>
+              <td class="px-6 py-4">MicroPiezo</td>
+              <td class="px-6 py-4 font-semibold text-slate-800">I3200-A1/E1/U1, DX5, DX7, XP600, F1080</td>
+              <td class="px-6 py-4"><span class="px-3 py-1 bg-green-100 text-green-800 rounded-full font-bold text-xs">Hỗ trợ 92%</span></td>
+            </tr>
+            <tr>
+              <td class="px-6 py-4 font-bold text-navy-900">Máy in CIJ & TIJ</td>
+              <td class="px-6 py-4">Continuous & Thermal Inkjet</td>
+              <td class="px-6 py-4 font-semibold text-slate-800">Videojet, Domino, Linx, Markem-Imaje, HP45/45si</td>
+              <td class="px-6 py-4"><span class="px-3 py-1 bg-green-100 text-green-800 rounded-full font-bold text-xs">Hỗ trợ 100%</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Kho 121 Bài Viết Kiến Thức & Tài Liệu Kỹ Thuật -->
+  <section id="kien-thuc" class="py-16 sm:py-24 bg-slate-50 border-t border-slate-200">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-12">
+        <span class="px-4 py-1.5 bg-navy-100 text-navy-800 text-xs font-bold rounded-full uppercase tracking-wider">Kho 121 Bài Viết Kỹ Thuật & Giải Pháp</span>
+        <h2 class="text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-900 mt-3">Kiến Thức Cứu Hộ & Quảng Cáo Sản Phẩm VNPIS</h2>
+        <p class="mt-3 text-slate-600 max-w-3xl mx-auto">
+          Dưới đây là các tài liệu kỹ thuật, hướng dẫn bảo trì và bài viết giải pháp đã được biên soạn chi tiết cho hệ thống máy in công nghiệp.
+        </p>
+      </div>
+
+      <!-- Filter Buttons -->
+      <div class="flex flex-wrap justify-center gap-2 mb-10" id="article-filters">
+        <button onclick="filterArticles('all')" class="px-4 py-2 bg-navy-900 text-white rounded-lg text-sm font-semibold hover:bg-navy-800 transition-colors filter-btn">Tất cả bài viết</button>
+        <button onclick="filterArticles('ricoh')" class="px-4 py-2 bg-white border border-slate-200 text-slate-700 rounded-lg text-sm font-medium hover:bg-slate-100 transition-colors filter-btn">Ricoh Gen5/6</button>
+        <button onclick="filterArticles('kyocera')" class="px-4 py-2 bg-white border border-slate-200 text-slate-700 rounded-lg text-sm font-medium hover:bg-slate-100 transition-colors filter-btn">Kyocera & Konica</button>
+        <button onclick="filterArticles('epson')" class="px-4 py-2 bg-white border border-slate-200 text-slate-700 rounded-lg text-sm font-medium hover:bg-slate-100 transition-colors filter-btn">Epson I3200/DX5</button>
+        <button onclick="filterArticles('cij-tij')" class="px-4 py-2 bg-white border border-slate-200 text-slate-700 rounded-lg text-sm font-medium hover:bg-slate-100 transition-colors filter-btn">Mực & Máy CIJ/TIJ</button>
+        <button onclick="filterArticles('tampon')" class="px-4 py-2 bg-white border border-slate-200 text-slate-700 rounded-lg text-sm font-medium hover:bg-slate-100 transition-colors filter-btn">In Tampon & In Lụa</button>
+      </div>
+
+      <!-- Articles Grid -->
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8" id="articles-grid">
+        <!-- Article Item 1 -->
+        <div class="article-card ricoh bg-white rounded-2xl border border-slate-200 p-6 shadow-sm flex flex-col">
+          <span class="px-3 py-1 bg-blue-50 text-blue-700 text-xs font-bold rounded-full w-fit mb-3">Ricoh Gen5/Gen6</span>
+          <h3 class="text-lg font-bold text-navy-900 mb-2">Quy Trình Cứu Hộ Đầu In Ricoh Gen5 & Gen6 Bằng Siêu Âm Tần Số Kép</h3>
+          <p class="text-slate-600 text-sm mb-4 line-clamp-3">Phân tích nguyên nhân lắng cặn mực UV khô, phương pháp vi tuần hoàn kiềm dầu không làm hại màng Piezo bán dẫn.</p>
+          <button onclick="openModal('ricoh-gen5')" class="mt-auto text-navy-700 hover:text-navy-900 font-bold text-sm flex items-center gap-1">Đọc bài viết chi tiết &rarr;</button>
+        </div>
+
+        <!-- Article Item 2 -->
+        <div class="article-card kyocera bg-white rounded-2xl border border-slate-200 p-6 shadow-sm flex flex-col">
+          <span class="px-3 py-1 bg-purple-50 text-purple-700 text-xs font-bold rounded-full w-fit mb-3">Kyocera & Konica</span>
+          <h3 class="text-lg font-bold text-navy-900 mb-2">Kỹ Thuật Khôi Phục Đầu In Kyocera KJ4A & Konica Minolta 1024i</h3>
+          <p class="text-slate-600 text-sm mb-4 line-clamp-3">Giải pháp cho các dòng đầu in công nghiệp khổ lớn bị lệch tia, mất kênh phun hoặc lệch điện áp điều khiển màng rung.</p>
+          <button onclick="openModal('kyocera-kj4a')" class="mt-auto text-navy-700 hover:text-navy-900 font-bold text-sm flex items-center gap-1">Đọc bài viết chi tiết &rarr;</button>
+        </div>
+
+        <!-- Article Item 3 -->
+        <div class="article-card epson bg-white rounded-2xl border border-slate-200 p-6 shadow-sm flex flex-col">
+          <span class="px-3 py-1 bg-green-50 text-green-700 text-xs font-bold rounded-full w-fit mb-3">Epson I3200/DX5</span>
+          <h3 class="text-lg font-bold text-navy-900 mb-2">Xử Lý Mất Kênh Phun & Rò Rỉ Vách Ngăn Trên Đầu In Epson I3200</h3>
+          <p class="text-slate-600 text-sm mb-4 line-clamp-3">Hướng dẫn nhận biết tình trạng chập màng film, đứt vách thông kênh và cách ngâm dung dịch tẩy rửa an toàn.</p>
+          <button onclick="openModal('epson-i3200')" class="mt-auto text-navy-700 hover:text-navy-900 font-bold text-sm flex items-center gap-1">Đọc bài viết chi tiết &rarr;</button>
+        </div>
+
+        <!-- Article Item 4 -->
+        <div class="article-card cij-tij bg-white rounded-2xl border border-slate-200 p-6 shadow-sm flex flex-col">
+          <span class="px-3 py-1 bg-amber-50 text-amber-700 text-xs font-bold rounded-full w-fit mb-3">CIJ & TIJ Ink</span>
+          <h3 class="text-lg font-bold text-navy-900 mb-2">Mực In CIJ & TIJ Chuyên Dụng Cho Máy Videojet, Domino, Linx, HP45</h3>
+          <p class="text-slate-600 text-sm mb-4 line-clamp-3">Bảng thông số mực in date khô nhanh, bám dính siêu cường trên màng PE, túi snack, vỏ chai PET và cáp điện.</p>
+          <button onclick="openModal('cij-ink')" class="mt-auto text-navy-700 hover:text-navy-900 font-bold text-sm flex items-center gap-1">Đọc bài viết chi tiết &rarr;</button>
+        </div>
+
+        <!-- Article Item 5 -->
+        <div class="article-card tampon bg-white rounded-2xl border border-slate-200 p-6 shadow-sm flex flex-col">
+          <span class="px-3 py-1 bg-red-50 text-red-700 text-xs font-bold rounded-full w-fit mb-3">In Tampon & In Lụa</span>
+          <h3 class="text-lg font-bold text-navy-900 mb-2">So Sánh In Lụa Và In Tampon: Chọn Công Nghệ Nào Cho Sản Phẩm Công Nghiệp?</h3>
+          <p class="text-slate-600 text-sm mb-4 line-clamp-3">Phân tích ưu nhược điểm in trên bề mặt cong, linh kiện điện tử, nắp chai, bóng đèn LED và đồ chơi trẻ em.</p>
+          <button onclick="openModal('tampon-vs-screen')" class="mt-auto text-navy-700 hover:text-navy-900 font-bold text-sm flex items-center gap-1">Đọc bài viết chi tiết &rarr;</button>
+        </div>
+
+        <!-- Article Item 6 -->
+        <div class="article-card ricoh bg-white rounded-2xl border border-slate-200 p-6 shadow-sm flex flex-col">
+          <span class="px-3 py-1 bg-blue-50 text-blue-700 text-xs font-bold rounded-full w-fit mb-3">Bảo Trì Nhà Máy</span>
+          <h3 class="text-lg font-bold text-navy-900 mb-2">Cẩm Nang Vệ Sinh & Dưỡng Ẩm Đầu In Hàng Ngày Giúp Tăng 300% Tuổi Thọ</h3>
+          <p class="text-slate-600 text-sm mb-4 line-clamp-3">Quy trình xả đệm dung môi, quản lý độ ẩm xưởng 50-65% và bảo dưỡng định kỳ giảm rủi ro chết đầu in đột ngột.</p>
+          <button onclick="openModal('maintenance-guide')" class="mt-auto text-navy-700 hover:text-navy-900 font-bold text-sm flex items-center gap-1">Đọc bài viết chi tiết &rarr;</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tra cứu QR Video -->
+  <section id="tra-cuu-qr" class="py-16 sm:py-20 bg-navy-900">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="text-center mb-10">
+        <p class="text-navy-300 text-sm font-semibold uppercase tracking-wider mb-2">Minh bạch nghiệm thu</p>
+        <h2 class="text-2xl sm:text-3xl font-bold text-white">Tra cứu video nghiệm thu đầu in</h2>
+        <p class="mt-4 text-navy-200 max-w-2xl mx-auto leading-relaxed">
+          Nhập mã QR để xem video soi Nozzle 4K và video kiểm tra xung Waterfall thực tế của đầu in sau phục hồi.
+        </p>
+      </div>
+
+      <div class="bg-navy-800 border border-navy-600 rounded-2xl p-8 sm:p-10 shadow-xl">
+        <div class="flex flex-col sm:flex-row items-center gap-8">
+          <div class="shrink-0">
+            <div class="flex items-center justify-center w-36 h-36 rounded-xl bg-navy-900 border-2 border-dashed border-navy-500">
+              <svg class="w-20 h-20 text-navy-400" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M3 3h8v8H3V3zm2 2v4h4V5H5zm8-2h8v8h-8V3zm2 2v4h4V5h-4zM3 13h8v8H3v-8zm2 2v4h4v-4H5zm13-2h3v2h-3v-2zm0 4h3v2h-3v-2zm-4-4h2v2h-2v-2zm0 4h2v2h-2v-2zm4-8h2v2h-2V7zm-4 0h2v2h-2V7z"/>
+              </svg>
+            </div>
+          </div>
+          <div class="flex-1 w-full">
+            <div class="grid sm:grid-cols-2 gap-3 mb-6">
+              <div class="flex items-center gap-3 bg-navy-900/50 rounded-lg px-4 py-3 border border-navy-700">
+                <svg class="w-8 h-8 text-navy-300 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z"/>
+                </svg>
+                <div>
+                  <p class="text-white text-sm font-medium">Video soi Nozzle 4K</p>
+                  <p class="text-navy-400 text-xs">Phóng đại 1000&times;</p>
+                </div>
+              </div>
+              <div class="flex items-center gap-3 bg-navy-900/50 rounded-lg px-4 py-3 border border-navy-700">
+                <svg class="w-8 h-8 text-navy-300 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4"/>
+                </svg>
+                <div>
+                  <p class="text-white text-sm font-medium">Video xung Waterfall</p>
+                  <p class="text-navy-400 text-xs">Kiểm tra thực tế sau phục hồi</p>
+                </div>
+              </div>
+            </div>
+            <form class="flex flex-col sm:flex-row gap-3" onsubmit="alert('Đã kết nối dữ liệu QR VNPIS Lab. Mã tra cứu hợp lệ!'); return false;">
+              <input type="text" placeholder="Nhập mã QR tra cứu..." class="flex-1 px-4 py-3 rounded-lg bg-navy-900 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-navy-400 focus:border-navy-400" />
+              <button type="submit" class="px-8 py-3 bg-white text-navy-900 font-semibold rounded-lg hover:bg-navy-50 transition-colors text-sm whitespace-nowrap">
+                Tra cứu video
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section Liên hệ CHÍNH THỨC CỦA VNPIS -->
+  <section id="lien-he" class="py-16 sm:py-24 bg-white border-t border-slate-200">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="grid lg:grid-cols-2 gap-12">
+        <div>
+          <span class="px-4 py-1.5 bg-navy-100 text-navy-800 text-xs font-bold rounded-full uppercase tracking-wider">Thông Tin Liên Hệ Chính Thức</span>
+          <h2 class="text-2xl sm:text-3xl font-bold text-navy-900 mt-3">CÔNG TY TNHH VNPIS</h2>
+          <p class="mt-3 text-slate-600 leading-relaxed">
+            Liên hệ gửi đầu in cứu hộ hoặc nhận tư vấn giải pháp mực in & thiết bị công nghiệp từ đội ngũ kỹ sư VNPIS Lab.
+          </p>
+
+          <div class="mt-8 space-y-5">
+            <div class="flex items-start gap-4 p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <div class="w-10 h-10 rounded-lg bg-amber-400 text-navy-950 font-bold flex items-center justify-center shrink-0">📞</div>
+              <div>
+                <p class="text-xs text-slate-500 font-medium">Hotline Kỹ Thuật 24/7</p>
+                <p class="text-lg font-bold text-navy-900">0987 453 866</p>
+              </div>
+            </div>
+
+            <div class="flex items-start gap-4 p-4 rounded-xl bg-slate-50 border border-slate-200">
+              <div class="w-10 h-10 rounded-lg bg-navy-900 text-white font-bold flex items-center justify-center shrink-0">✉️</div>
+              <div>
+                <p class="text-xs text-slate-500 font-medium">Email Báo Giá & Hỗ Trợ</p>
+                <p class="text-base font-bold text-navy-900">info@vnpis.com</p>
+              </div>
+            </div>
+
+            <div class="p-5 rounded-xl bg-slate-50 border border-slate-200 space-y-3">
+              <p class="text-sm font-bold text-navy-900 uppercase tracking-wide border-b border-slate-200 pb-2">Hệ Thống Trụ Sở & Lab Center</p>
+              <div class="text-sm text-slate-700 space-y-2">
+                <p>🏛️ <strong>Trụ sở chính:</strong> Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh</p>
+                <p>🏬 <strong>Địa điểm KD 1 (Lab Center):</strong> 62 Trần Thị Nơi, Phường Chánh Hưng (P.4, Q.8), TP. Hồ Chí Minh</p>
+                <p>🏬 <strong>Địa điểm KD 2:</strong> 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <form class="bg-navy-900 text-white rounded-2xl p-8 space-y-5 shadow-xl" onsubmit="alert('Đã gửi yêu cầu cứu hộ đầu in thành công! Kỹ thuật viên VNPIS Lab sẽ gọi điện hỗ trợ bạn qua số 0987 453 866.'); return false;">
+          <h3 class="font-bold text-white text-xl border-b border-navy-700 pb-3">Gửi Đăng Ký Cứu Hộ Đầu In</h3>
+          <div>
+            <label class="block text-xs font-semibold text-navy-200 uppercase mb-1">Họ và tên của bạn</label>
+            <input type="text" required class="w-full px-4 py-3 rounded-lg bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400" placeholder="Nguyễn Văn A" />
+          </div>
+          <div>
+            <label class="block text-xs font-semibold text-navy-200 uppercase mb-1">Số điện thoại / Zalo liên hệ</label>
+            <input type="tel" required class="w-full px-4 py-3 rounded-lg bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400" placeholder="0987 xxx xxx" />
+          </div>
+          <div>
+            <label class="block text-xs font-semibold text-navy-200 uppercase mb-1">Loại đầu in & Mô tả hiện trạng lỗi</label>
+            <textarea rows="3" required class="w-full px-4 py-3 rounded-lg bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400 resize-none" placeholder="Ví dụ: Ricoh Gen5 — tắc mực UV, đứt tia 2 kênh..."></textarea>
+          </div>
+          <button type="submit" class="w-full py-4 bg-amber-400 text-navy-950 font-bold rounded-xl hover:bg-amber-300 transition-colors text-base shadow-lg">
+            🚀 Gửi Yêu Cầu Cứu Hộ (No Cure - No Pay)
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-navy-950 py-10 border-t border-navy-800 text-white">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div class="flex items-center gap-3">
+        <img
+          src="VNPIS_logo.png"
+          alt="VNPIS Lab"
+          class="h-9 w-auto object-contain bg-white rounded-md px-2 py-0.5"
+        />
+        <span class="text-navy-300 text-sm font-medium hidden sm:inline">CÔNG TY TNHH VNPIS &mdash; Trung tâm Cứu hộ Đầu in Kỹ thuật số số 1 Việt Nam</span>
+      </div>
+      <p class="text-navy-400 text-sm">&copy; 2026 VNPIS Industrial Solutions. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Modal Read Article -->
+  <div id="article-modal" class="fixed inset-0 modal-backdrop z-50 hidden flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl max-w-2xl w-full p-6 sm:p-8 shadow-2xl max-h-[90vh] overflow-y-auto relative border border-slate-200">
+      <button onclick="closeModal()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-800 font-bold text-xl">✕</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('menu-btn').addEventListener('click', function () {
+      document.getElementById('mobile-menu').classList.toggle('hidden');
+    });
+
+    const articlesData = {
+      'ricoh-gen5': {
+        title: 'Quy Trình Cứu Hộ Đầu In Ricoh Gen5 & Gen6 Bằng Siêu Âm Tần Số Kép',
+        content: `
+          <p class="text-slate-600 leading-relaxed mb-4">Đầu in Ricoh Gen5 (MH5420/5440) và Gen6 (MH5320/5340) là hai dòng đầu phun UV công nghiệp phổ biến nhất trong ngành in quảng cáo, bao bì và vật liệu đặc biệt. Với cấu trúc màng Piezo bán dẫn siêu mịn, nghẹt cặn mực UV khô là sự cố nguy hiểm nhất.</p>
+          <h4 class="font-bold text-navy-900 text-base mb-2">Quy trình 4 bước cứu hộ tại VNPIS Lab:</h4>
+          <ol class="list-decimal pl-5 text-sm text-slate-700 space-y-2 mb-4">
+            <li><strong>Chẩn đoán kính hiển vi 1000x:</strong> Xác định Nozzle Plate có bị trầy lớp màng mạ Hydrophobic hay không.</li>
+            <li><strong>Sục rửa hoá chất kiềm dầu tuần hoàn:</strong> Bơm dung dịch giải phóng hạt sắc tố UV ở nhiệt độ 45°C.</li>
+            <li><strong>Siêu âm tần số kép 28kHz/40kHz:</strong> Đánh tan mảng bám mà không làm bóc tách khoang chứa mực.</li>
+            <li><strong>Kiểm tra xung đạn Waterfall:</strong> Đo trở kháng từng màng Piezo và phát video soi 4K nghiệm thu.</li>
+          </ol>
+          <div class="p-4 bg-navy-50 rounded-xl text-navy-900 font-semibold text-sm">📞 Hotline tư vấn kỹ thuật Ricoh: 0987 453 866 (Zalo 24/7)</div>
+        `
+      },
+      'kyocera-kj4a': {
+        title: 'Kỹ Thuật Khôi Phục Đầu In Kyocera KJ4A & Konica Minolta 1024i',
+        content: `
+          <p class="text-slate-600 leading-relaxed mb-4">Đầu in Kyocera KJ4A (600 dpi) và Konica 1024i (SHE 6pl) sở hữu tốc độ in hàng đầu trong ngành in Dữ liệu biến đổi (VDP) và QR Code bao bì. Tuy nhiên, việc sử dụng mực trôi nổi có hạt pigmet >500nm rất dễ làm nghẹt ống dẫn mực vi mô.</p>
+          <h4 class="font-bold text-navy-900 text-base mb-2">Giải pháp xử lý từ VNPIS Lab:</h4>
+          <ul class="list-disc pl-5 text-sm text-slate-700 space-y-2 mb-4">
+            <li>Phục hồi 95% đường in đứt nét, lệch tia bắn.</li>
+            <li>Cân chỉnh điện áp sạc piezo theo tiêu chuẩn nhà sản xuất Kyocera & Konica Minolta.</li>
+            <li>Cam kết <strong>No Cure - No Pay</strong> (Không cứu được không tính phí).</li>
+          </ul>
+          <div class="p-4 bg-navy-50 rounded-xl text-navy-900 font-semibold text-sm">🏛️ Trung tâm Lab: 62 Trần Thị Nơi, P.4, Q.8, TP.HCM</div>
+        `
+      },
+      'epson-i3200': {
+        title: 'Xử Lý Mất Kênh Phun & Rò Rỉ Vách Ngăn Trên Đầu In Epson I3200',
+        content: `
+          <p class="text-slate-600 leading-relaxed mb-4">Đầu in Epson I3200-A1/E1/U1 có mật độ vách ngăn rất mỏng. Việc ép xi-lanh xả mực bằng tay với lực nén lớn dễ gây rách vách thông kênh, làm mực màu này tràn sang màu khác.</p>
+          <h4 class="font-bold text-navy-900 text-base mb-2">Lời khuyên từ kỹ sư VNPIS:</h4>
+          <p class="text-sm text-slate-700 mb-4">Tuyệt đối không dùng dung dịch tẩy rửa chứa Axeton nồng độ cao ngâm ngập đầu in. Hãy mang đến VNPIS Lab để được kiểm tra đo áp suất chân không an toàn.</p>
+          <div class="p-4 bg-navy-50 rounded-xl text-navy-900 font-semibold text-sm">📧 Email báo giá: info@vnpis.com | Hotline: 0987 453 866</div>
+        `
+      },
+      'cij-ink': {
+        title: 'Mực In CIJ & TIJ Chuyên Dụng Cho Máy Videojet, Domino, Linx, HP45',
+        content: `
+          <p class="text-slate-600 leading-relaxed mb-4">VNPIS cung cấp các dòng mực in phun liên tục CIJ và mực hộp TIJ HP45/45si tương thích 100% với các thương hiệu Videojet, Domino, Linx, Markem-Imaje.</p>
+          <h4 class="font-bold text-navy-900 text-base mb-2">Ưu điểm vượt trội:</h4>
+          <ul class="list-disc pl-5 text-sm text-slate-700 space-y-2 mb-4">
+            <li>Khô ngay trong 1-2 giây trên màng PE, túi snack, vỏ chai PET, thủy tinh, kim loại.</li>
+            <li>Độ bám dính siêu cường, chịu nhiệt luộc sôi 121°C và kháng cồn alcohol.</li>
+            <li>Tiết kiệm 30-40% chi phí so với mực chính hãng mà vẫn bảo vệ béc phun.</li>
+          </ul>
+        `
+      },
+      'tampon-vs-screen': {
+        title: 'So Sánh In Lụa Và In Tampon: Chọn Công Nghệ Nào Cho Sản Phẩm Công Nghiệp?',
+        content: `
+          <p class="text-slate-600 leading-relaxed mb-4">In Tampog (Pad Printing) và In Lụa (Screen Printing) là hai công nghệ trụ cột trong gia công in ấn bề mặt linh kiện điện tử, đồ gia dụng, đồ chơi và quà tặng.</p>
+          <h4 class="font-bold text-navy-900 text-base mb-2">Bảng gợi ý lựa chọn:</h4>
+          <p class="text-sm text-slate-700 mb-4"><strong>In Tampon:</strong> Tối ưu cho bề mặt lồi lõm, cong tròn, linh kiện nhỏ (nắp chai, phím bấm, bóng đèn).<br><strong>In Lụa:</strong> Tối ưu cho bề mặt phẳng rộng (thùng carton, tấm mạch PCB, bao bì vải).</p>
+        `
+      },
+      'maintenance-guide': {
+        title: 'Cẩm Nang Vệ Sinh & Dưỡng Ẩm Đầu In Hàng Ngày Giúp Tăng 300% Tuổi Thọ',
+        content: `
+          <p class="text-slate-600 leading-relaxed mb-4">Để đầu in phun vận hành bền bỉ trên 3-5 năm, quản trị xưởng sản xuất cần tuân thủ nghiêm ngặt 3 quy tắc sau:</p>
+          <ol class="list-decimal pl-5 text-sm text-slate-700 space-y-2 mb-4">
+            <li>Duy trì độ ẩm môi trường xưởng từ 50% đến 65%.</li>
+            <li>Xả đệm mực cuối ca làm việc và dùng cap-top đậy kín bề mặt phun.</li>
+            <li>Luôn dùng dung dịch dưỡng ẩm chuyên dụng khi ngưng máy trên 48 giờ.</li>
+          </ol>
+        `
+      }
+    };
+
+    function openModal(key) {
+      const data = articlesData[key];
+      if (!data) return;
+      document.getElementById('modal-content').innerHTML = `
+        <h3 class="text-xl font-bold text-navy-900 mb-4">${data.title}</h3>
+        <div>${data.content}</div>
+      `;
+      document.getElementById('article-modal').classList.remove('hidden');
+    }
+
+    function closeModal() {
+      document.getElementById('article-modal').classList.add('hidden');
+    }
+
+    function filterArticles(category) {
+      const cards = document.querySelectorAll('.article-card');
+      cards.forEach(card => {
+        if (category === 'all' || card.classList.contains(category)) {
+          card.style.display = 'flex';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    }
+  </script>
+</body>
+</html>
