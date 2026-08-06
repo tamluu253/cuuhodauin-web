@@ -1,6 +1,17 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
+
+const languages = [
+  { code: "vi", name: "Tiếng Việt", flag: "🇻🇳" },
+  { code: "en", name: "English", flag: "🇺🇸" },
+  { code: "zh-CN", name: "中文 (Chinese)", flag: "🇨🇳" },
+  { code: "ja", name: "日本語 (Japanese)", flag: "🇯🇵" },
+  { code: "ko", name: "한국어 (Korean)", flag: "🇰🇷" },
+  { code: "es", name: "Español", flag: "🇪🇸" },
+  { code: "de", name: "Deutsch", flag: "🇩🇪" },
+  { code: "fr", name: "Français", flag: "🇫🇷" },
+];
 
 const articlesData: Record<string, { title: string; category: string; summary: string; content: string }> = {
   "ricoh-gen5": {
@@ -87,6 +98,46 @@ export default function Home() {
   const [activeCategory, setActiveCategory] = useState("all");
   const [selectedArticle, setSelectedArticle] = useState<string | null>(null);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [langOpen, setLangOpen] = useState(false);
+  const [currentLang, setCurrentLang] = useState(languages[0]);
+
+  useEffect(() => {
+    // Check existing Google Translate cookie
+    const cookies = document.cookie.split(";");
+    const googtrans = cookies.find((c) => c.trim().startsWith("googtrans="));
+    if (googtrans) {
+      const code = googtrans.split("/").pop();
+      const match = languages.find((l) => l.code === code);
+      if (match) setCurrentLang(match);
+    }
+
+    // Load Google Translate script dynamically if not present
+    if (!document.getElementById("google-translate-script")) {
+      const script = document.createElement("script");
+      script.id = "google-translate-script";
+      script.src = "//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+      document.body.appendChild(script);
+
+      (window as any).googleTranslateElementInit = () => {
+        new (window as any).google.translate.TranslateElement(
+          {
+            pageLanguage: "vi",
+            includedLanguages: "en,zh-CN,ja,ko,es,de,fr,vi",
+            autoDisplay: false,
+          },
+          "google_translate_element"
+        );
+      };
+    }
+  }, []);
+
+  const changeLanguage = (lang: typeof languages[0]) => {
+    setCurrentLang(lang);
+    setLangOpen(false);
+    document.cookie = `googtrans=/vi/${lang.code};path=/`;
+    document.cookie = `googtrans=/vi/${lang.code};domain=${window.location.hostname};path=/`;
+    window.location.reload();
+  };
 
   const filteredArticles = Object.entries(articlesData).filter(([_, article]) => {
     if (activeCategory === "all") return true;
@@ -100,6 +151,9 @@ export default function Home() {
 
   return (
     <main className="font-sans text-slate-800 bg-slate-50 antialiased selection:bg-blue-100 selection:text-blue-900">
+      {/* Hidden Google Translate container */}
+      <div id="google_translate_element" className="hidden"></div>
+
       {/* Header Top Bar */}
       <div className="bg-slate-900 text-slate-300 text-xs py-2.5 border-b border-slate-800">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-2">
@@ -133,7 +187,7 @@ export default function Home() {
               </div>
             </a>
 
-            <nav className="hidden md:flex items-center gap-8">
+            <nav className="hidden md:flex items-center gap-7">
               <a href="#quy-trinh-lab" className="text-slate-600 hover:text-blue-600 text-sm font-semibold transition-colors">Quy Trình Lab</a>
               <a href="#thong-so-ky-thuat" className="text-slate-600 hover:text-blue-600 text-sm font-semibold transition-colors">Thông Số Đầu In</a>
               <a href="#kien-thuc" className="text-blue-600 hover:text-blue-700 text-sm font-bold transition-colors flex items-center gap-1.5">
@@ -143,7 +197,41 @@ export default function Home() {
               <a href="#lien-he" className="text-slate-600 hover:text-blue-600 text-sm font-semibold transition-colors">Liên Hệ VNPIS</a>
             </nav>
 
-            <div className="hidden lg:flex items-center gap-3">
+            <div className="hidden md:flex items-center gap-3">
+              {/* Select Language Dropdown Component */}
+              <div className="relative">
+                <button
+                  onClick={() => setLangOpen(!langOpen)}
+                  className="flex items-center gap-2 border border-slate-300 rounded-xl px-3 py-2 bg-white text-slate-700 font-medium text-xs sm:text-sm hover:border-blue-500 hover:text-blue-600 transition-all shadow-sm"
+                >
+                  <svg className="w-4 h-4 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.6 9h16.8M3.6 15h16.8" />
+                  </svg>
+                  <span>{currentLang.flag} {currentLang.name}</span>
+                  <svg className={`w-3.5 h-3.5 text-slate-400 transition-transform ${langOpen ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                  </svg>
+                </button>
+
+                {langOpen && (
+                  <div className="absolute right-0 mt-2 w-48 bg-white border border-slate-200 rounded-2xl shadow-xl py-2 z-50 animate-fadeIn">
+                    {languages.map((lang) => (
+                      <button
+                        key={lang.code}
+                        onClick={() => changeLanguage(lang)}
+                        className={`w-full text-left px-4 py-2 text-xs font-semibold flex items-center gap-2.5 hover:bg-blue-50 hover:text-blue-600 transition-colors ${
+                          currentLang.code === lang.code ? "bg-blue-50 text-blue-600 font-bold" : "text-slate-700"
+                        }`}
+                      >
+                        <span>{lang.flag}</span>
+                        <span>{lang.name}</span>
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+
               <a href="#lien-he" className="px-5 py-2.5 bg-blue-600 text-white font-bold rounded-xl text-sm hover:bg-blue-700 transition-colors shadow-md shadow-blue-500/20">
                 🚀 Gửi Đầu In Cứu Hộ
               </a>
@@ -162,6 +250,25 @@ export default function Home() {
 
           {mobileMenuOpen && (
             <nav className="md:hidden pb-4 border-t border-slate-100 pt-3 space-y-1">
+              {/* Select Language inside Mobile Menu */}
+              <div className="px-3 py-2 border-b border-slate-100 mb-2">
+                <div className="text-xs font-bold text-slate-400 uppercase mb-2">Chọn Ngôn Ngữ (Language)</div>
+                <div className="grid grid-cols-2 gap-1.5">
+                  {languages.map((lang) => (
+                    <button
+                      key={lang.code}
+                      onClick={() => changeLanguage(lang)}
+                      className={`text-left px-2.5 py-1.5 rounded-lg text-xs font-semibold flex items-center gap-1.5 ${
+                        currentLang.code === lang.code ? "bg-blue-600 text-white" : "bg-slate-100 text-slate-700"
+                      }`}
+                    >
+                      <span>{lang.flag}</span>
+                      <span>{lang.name}</span>
+                    </button>
+                  ))}
+                </div>
+              </div>
+
               <a href="#quy-trinh-lab" className="block px-3 py-2 text-slate-700 hover:bg-blue-50 hover:text-blue-600 rounded-lg text-sm font-medium">Quy Trình Lab</a>
               <a href="#thong-so-ky-thuat" className="block px-3 py-2 text-slate-700 hover:bg-blue-50 hover:text-blue-600 rounded-lg text-sm font-medium">Thông Số Đầu In</a>
               <a href="#kien-thuc" className="block px-3 py-2 text-blue-600 font-bold hover:bg-blue-50 rounded-lg text-sm">Kho 121 Bài Viết Kỹ Thuật</a>
