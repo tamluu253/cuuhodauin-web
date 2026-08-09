@@ -1,6 +1,0 @@
-{
-  "cleanUrls": true,
-  "trailingSlash": true,
-  "buildCommand": "next build",
-  "outputDirectory": "out"
-}
