@@ -15,7 +15,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
           <div className="flex flex-wrap items-center gap-2 sm:gap-4 text-center sm:text-left">
             <span>🏛️ Trụ sở: 202 Lê Lai, P. Bến Thành, Q.1, TP.HCM</span>
             <span className="hidden md:inline">&bull;</span>
-            <span className="hidden md:inline">🔬 Lab Center: 62 Trần Thị Nơi, P.4, Q.8, TP.HCM</span>
+            <span className="hidden md:inline">🔬 Lab Center: 62 Trần Thị Nơi, P. Chánh Hưng, Q.8, TP.HCM</span>
           </div>
           <div className="flex items-center gap-4 font-semibold">
             <a href="tel:0987453866" className="text-amber-400 hover:underline">📞 Hotline/Zalo: 0987 453 866</a>
@@ -45,7 +45,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
               <a href="#quy-trinh-lab" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Quy Trình Lab</a>
               <a href="#dau-in-ho-tro" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Đầu In Hỗ Trợ</a>
               <Link href="/kien-thuc" className="text-amber-300 hover:text-white text-sm font-bold transition-colors flex items-center gap-1">
-                📚 Kho 121 Bài Viết
+                📚 Blog / Kiến Thức
               </Link>
               <a href="#tra-cuu-qr" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Tra Cứu QR</a>
               <a href="#lien-he" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Liên Hệ VNPIS</a>
@@ -72,7 +72,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
             <nav className="md:hidden pb-4 border-t border-navy-700 pt-3 space-y-1">
               <a href="#quy-trinh-lab" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Quy Trình Lab</a>
               <a href="#dau-in-ho-tro" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Đầu In Hỗ Trợ</a>
-              <Link href="/kien-thuc" className="block px-3 py-2 text-amber-300 font-bold hover:text-white hover:bg-navy-800 rounded-md text-sm">Kho 121 Bài Viết Kỹ Thuật</Link>
+              <Link href="/kien-thuc" className="block px-3 py-2 text-amber-300 font-bold hover:text-white hover:bg-navy-800 rounded-md text-sm">📚 Blog / Kiến Thức</Link>
               <a href="#tra-cuu-qr" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Tra Cứu QR Video</a>
               <a href="#lien-he" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Liên Hệ VNPIS</a>
             </nav>
@@ -375,7 +375,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
                   <p className="text-xs font-bold text-navy-900 uppercase tracking-wide border-b border-slate-200 pb-2">Hệ Thống Trụ Sở & Phòng Lab Tiếp Nhận</p>
                   <div className="text-xs sm:text-sm text-slate-700 space-y-2">
                     <p>🏛️ <strong>Trụ sở chính:</strong> Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh</p>
-                    <p>🔬 <strong>Lab Center 1 (Phòng Siêu Âm Cứu Hộ):</strong> 62 Trần Thị Nơi, Phường Chánh Hưng (P.4, Q.8), TP. Hồ Chí Minh</p>
+                    <p>🔬 <strong>Lab Center 1 (Phòng Siêu Âm Cứu Hộ):</strong> 62 Trần Thị Nơi, Phường Chánh Hưng, Quận 8, TP. Hồ Chí Minh</p>
                     <p>🏬 <strong>Địa điểm KD 2:</strong> 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh</p>
                   </div>
                 </div>
