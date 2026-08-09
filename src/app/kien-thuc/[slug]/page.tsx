@@ -5,6 +5,8 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Metadata } from "next";
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const slugs = getArticleSlugs();
   return slugs.map((slug) => ({

@@ -26,7 +26,8 @@ export function getArticleSlugs() {
 }
 
 export function getArticleBySlug(slug: string): Article | null {
-  const realSlug = slug.replace(/\.md$/, '');
+  const decodedSlug = decodeURIComponent(slug);
+  const realSlug = decodedSlug.replace(/\.md$/, '');
   const fullPath = path.join(articlesDirectory, `${realSlug}.md`);
   
   if (!fs.existsSync(fullPath)) {
