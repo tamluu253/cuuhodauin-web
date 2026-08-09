@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-cach-xu-ly-au-in-epson-dx7-mat-mau-tan-goc-33"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Cách xử lý đầu in Epson DX7 mất màu tận gốc"
-description: "Tìm hiểu cách xử lý tình trạng mất màu trên dòng đầu in công nghiệp Epson DX7. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-02"
-category: "KY-THUAT"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-cach-xu-ly-au-in-epson-dx7-mat-mau-tan-goc-33
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Cách xử lý đầu in Epson DX7 mất màu tận gốc'
+description: >-
+  Tìm hiểu cách xử lý tình trạng mất màu trên dòng đầu in công nghiệp Epson DX7.
+  VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với
+  công nghệ siêu âm hiện đại.
+date: '2026-07-02'
+category: KY-THUAT
+printhead: Epson
 ---
-
 Đầu in **Epson DX7** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **mất màu** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ cách xử lý tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Epson DX7 mất màu

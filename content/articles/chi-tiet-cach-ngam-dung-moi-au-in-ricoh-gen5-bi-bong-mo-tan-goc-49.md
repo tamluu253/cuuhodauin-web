@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-cach-ngam-dung-moi-au-in-ricoh-gen5-bi-bong-mo-tan-goc-49"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Cách ngâm dung môi đầu in Ricoh Gen5 bị bóng mờ tận gốc"
-description: "Tìm hiểu cách ngâm dung môi tình trạng bị bóng mờ trên dòng đầu in công nghiệp Ricoh Gen5. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-18"
-category: "KY-THUAT"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-cach-ngam-dung-moi-au-in-ricoh-gen5-bi-bong-mo-tan-goc-49
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Cách ngâm dung môi đầu in Ricoh Gen5 bị bóng mờ tận gốc'
+description: >-
+  Tìm hiểu cách ngâm dung môi tình trạng bị bóng mờ trên dòng đầu in công nghiệp
+  Ricoh Gen5. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ
+  thuật số với công nghệ siêu âm hiện đại.
+date: '2026-07-18'
+category: KY-THUAT
+printhead: Ricoh
 ---
-
 Đầu in **Ricoh Gen5** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **bị bóng mờ** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ cách ngâm dung môi tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Ricoh Gen5 bị bóng mờ

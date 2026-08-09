@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-huong-dan-phuc-hoi-au-in-epson-i3200-mat-mau-tan-goc-7"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Hướng dẫn phục hồi đầu in Epson I3200 mất màu tận gốc"
-description: "Tìm hiểu hướng dẫn phục hồi tình trạng mất màu trên dòng đầu in công nghiệp Epson I3200. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-06"
-category: "DICH-VU"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-huong-dan-phuc-hoi-au-in-epson-i3200-mat-mau-tan-goc-7
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Hướng dẫn phục hồi đầu in Epson I3200 mất màu tận gốc'
+description: >-
+  Tìm hiểu hướng dẫn phục hồi tình trạng mất màu trên dòng đầu in công nghiệp
+  Epson I3200. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ
+  thuật số với công nghệ siêu âm hiện đại.
+date: '2026-07-06'
+category: DICH-VU
+printhead: Epson
 ---
-
 Đầu in **Epson I3200** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **mất màu** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ hướng dẫn phục hồi tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Epson I3200 mất màu

@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-o-ien-tro-kiem-tra-au-in-konica-512i-thong-vach-tan-goc-77"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Đo điện trở kiểm tra đầu in Konica 512i thông vách tận gốc"
-description: "Tìm hiểu đo điện trở kiểm tra tình trạng thông vách trên dòng đầu in công nghiệp Konica 512i. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-16"
-category: "KY-THUAT"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-o-ien-tro-kiem-tra-au-in-konica-512i-thong-vach-tan-goc-77
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Đo điện trở kiểm tra đầu in Konica 512i thông vách tận gốc'
+description: >-
+  Tìm hiểu đo điện trở kiểm tra tình trạng thông vách trên dòng đầu in công
+  nghiệp Konica 512i. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu
+  phun kỹ thuật số với công nghệ siêu âm hiện đại.
+date: '2026-07-16'
+category: KY-THUAT
+printhead: Konica
 ---
-
 Đầu in **Konica 512i** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **thông vách** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ đo điện trở kiểm tra tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Konica 512i thông vách

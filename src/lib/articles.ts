@@ -7,6 +7,7 @@ export interface ArticleMetadata {
   description: string;
   date: string;
   category: string;
+  printhead: string;
   slug: string;
 }
 
@@ -43,6 +44,7 @@ export function getArticleBySlug(slug: string): Article | null {
       description: data.description || '',
       date: data.date || new Date().toISOString(),
       category: data.category || 'Khác',
+      printhead: data.printhead || 'Khác',
       slug: realSlug,
     },
     content,

@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-o-ien-tro-kiem-tra-au-in-epson-xp600-bi-nghet-muc-tan-goc-82"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Đo điện trở kiểm tra đầu in Epson XP600 bị nghẹt mực tận gốc"
-description: "Tìm hiểu đo điện trở kiểm tra tình trạng bị nghẹt mực trên dòng đầu in công nghiệp Epson XP600. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-21"
-category: "KINH-NGHIEM"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-o-ien-tro-kiem-tra-au-in-epson-xp600-bi-nghet-muc-tan-goc-82
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Đo điện trở kiểm tra đầu in Epson XP600 bị nghẹt mực tận gốc'
+description: >-
+  Tìm hiểu đo điện trở kiểm tra tình trạng bị nghẹt mực trên dòng đầu in công
+  nghiệp Epson XP600. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu
+  phun kỹ thuật số với công nghệ siêu âm hiện đại.
+date: '2026-07-21'
+category: KINH-NGHIEM
+printhead: Epson
 ---
-
 Đầu in **Epson XP600** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **bị nghẹt mực** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ đo điện trở kiểm tra tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Epson XP600 bị nghẹt mực

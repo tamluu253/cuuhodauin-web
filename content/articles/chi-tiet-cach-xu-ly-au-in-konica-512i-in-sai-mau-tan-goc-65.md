@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-cach-xu-ly-au-in-konica-512i-in-sai-mau-tan-goc-65"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Cách xử lý đầu in Konica 512i in sai màu tận gốc"
-description: "Tìm hiểu cách xử lý tình trạng in sai màu trên dòng đầu in công nghiệp Konica 512i. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-04"
-category: "KY-THUAT"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-cach-xu-ly-au-in-konica-512i-in-sai-mau-tan-goc-65
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Cách xử lý đầu in Konica 512i in sai màu tận gốc'
+description: >-
+  Tìm hiểu cách xử lý tình trạng in sai màu trên dòng đầu in công nghiệp Konica
+  512i. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số
+  với công nghệ siêu âm hiện đại.
+date: '2026-07-04'
+category: KY-THUAT
+printhead: Konica
 ---
-
 Đầu in **Konica 512i** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **in sai màu** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ cách xử lý tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Konica 512i in sai màu

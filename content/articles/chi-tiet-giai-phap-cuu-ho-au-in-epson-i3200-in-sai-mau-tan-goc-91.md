@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-giai-phap-cuu-ho-au-in-epson-i3200-in-sai-mau-tan-goc-91"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Giải pháp cứu hộ đầu in Epson I3200 in sai màu tận gốc"
-description: "Tìm hiểu giải pháp cứu hộ tình trạng in sai màu trên dòng đầu in công nghiệp Epson I3200. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-06-30"
-category: "DICH-VU"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-giai-phap-cuu-ho-au-in-epson-i3200-in-sai-mau-tan-goc-91
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Giải pháp cứu hộ đầu in Epson I3200 in sai màu tận gốc'
+description: >-
+  Tìm hiểu giải pháp cứu hộ tình trạng in sai màu trên dòng đầu in công nghiệp
+  Epson I3200. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ
+  thuật số với công nghệ siêu âm hiện đại.
+date: '2026-06-30'
+category: DICH-VU
+printhead: Epson
 ---
-
 Đầu in **Epson I3200** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **in sai màu** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ giải pháp cứu hộ tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Epson I3200 in sai màu

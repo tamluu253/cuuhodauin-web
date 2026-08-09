@@ -13,9 +13,9 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
       <div className="bg-navy-950 text-navy-300 text-xs py-2 border-b border-navy-800">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-2">
           <div className="flex flex-wrap items-center gap-2 sm:gap-4 text-center sm:text-left">
-            <span>🏛️ Trụ sở: 202 Lê Lai, P. Bến Thành, Q.1, TP.HCM</span>
+            <span>🏛️ Trụ sở: 202 Lê Lai, P. Bến Thành, TP.HCM</span>
             <span className="hidden md:inline">&bull;</span>
-            <span className="hidden md:inline">🔬 Lab Center: 62 Trần Thị Nơi, P. Chánh Hưng, Q.8, TP.HCM</span>
+            <span className="hidden md:inline">🔬 Lab Center: 62 Trần Thị Nơi, P. Chánh Hưng, TP.HCM</span>
           </div>
           <div className="flex items-center gap-4 font-semibold">
             <a href="tel:0987453866" className="text-amber-400 hover:underline">📞 Hotline/Zalo: 0987 453 866</a>
@@ -31,7 +31,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
           <div className="flex items-center justify-between h-[4.5rem]">
             <Link href="/" className="flex items-center gap-3 group">
               <img
-                src="VNPIS_logo.png"
+                src="/VNPIS_logo.png"
                 alt="VNPIS Lab — Cứu Hộ Đầu In Kỹ Thuật Số"
                 className="h-11 w-auto object-contain bg-white rounded-lg px-2 py-1 shadow-sm group-hover:shadow-md transition-shadow"
               />
@@ -374,8 +374,8 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
                 <div className="p-5 rounded-xl bg-slate-50 border border-slate-200 space-y-3">
                   <p className="text-xs font-bold text-navy-900 uppercase tracking-wide border-b border-slate-200 pb-2">Hệ Thống Trụ Sở & Phòng Lab Tiếp Nhận</p>
                   <div className="text-xs sm:text-sm text-slate-700 space-y-2">
-                    <p>🏛️ <strong>Trụ sở chính:</strong> Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh</p>
-                    <p>🔬 <strong>Lab Center 1 (Phòng Siêu Âm Cứu Hộ):</strong> 62 Trần Thị Nơi, Phường Chánh Hưng, Quận 8, TP. Hồ Chí Minh</p>
+                    <p>🏛️ <strong>Trụ sở chính:</strong> Tầng 1, 202 Lê Lai, Phường Bến Thành, TP. Hồ Chí Minh</p>
+                    <p>🔬 <strong>Lab Center 1 (Phòng Siêu Âm Cứu Hộ):</strong> 62 Trần Thị Nơi, Phường Chánh Hưng, TP. Hồ Chí Minh</p>
                     <p>🏬 <strong>Địa điểm KD 2:</strong> 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh</p>
                   </div>
                 </div>

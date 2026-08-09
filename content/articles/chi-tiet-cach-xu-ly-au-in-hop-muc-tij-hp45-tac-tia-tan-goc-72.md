@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-cach-xu-ly-au-in-hop-muc-tij-hp45-tac-tia-tan-goc-72"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Cách xử lý đầu in Hộp mực TIJ HP45 tắc tia tận gốc"
-description: "Tìm hiểu cách xử lý tình trạng tắc tia trên dòng đầu in công nghiệp Hộp mực TIJ HP45. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-11"
-category: "TIN-TUC"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-cach-xu-ly-au-in-hop-muc-tij-hp45-tac-tia-tan-goc-72
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Cách xử lý đầu in Hộp mực TIJ HP45 tắc tia tận gốc'
+description: >-
+  Tìm hiểu cách xử lý tình trạng tắc tia trên dòng đầu in công nghiệp Hộp mực
+  TIJ HP45. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật
+  số với công nghệ siêu âm hiện đại.
+date: '2026-07-11'
+category: TIN-TUC
+printhead: TIJ
 ---
-
 Đầu in **Hộp mực TIJ HP45** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **tắc tia** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ cách xử lý tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Hộp mực TIJ HP45 tắc tia

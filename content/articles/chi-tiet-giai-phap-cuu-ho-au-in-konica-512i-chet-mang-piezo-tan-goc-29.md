@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-giai-phap-cuu-ho-au-in-konica-512i-chet-mang-piezo-tan-goc-29"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Giải pháp cứu hộ đầu in Konica 512i chết màng Piezo tận gốc"
-description: "Tìm hiểu giải pháp cứu hộ tình trạng chết màng Piezo trên dòng đầu in công nghiệp Konica 512i. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-28"
-category: "KY-THUAT"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-giai-phap-cuu-ho-au-in-konica-512i-chet-mang-piezo-tan-goc-29
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Giải pháp cứu hộ đầu in Konica 512i chết màng Piezo tận gốc'
+description: >-
+  Tìm hiểu giải pháp cứu hộ tình trạng chết màng Piezo trên dòng đầu in công
+  nghiệp Konica 512i. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu
+  phun kỹ thuật số với công nghệ siêu âm hiện đại.
+date: '2026-07-28'
+category: KY-THUAT
+printhead: Konica
 ---
-
 Đầu in **Konica 512i** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **chết màng Piezo** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ giải pháp cứu hộ tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Konica 512i chết màng Piezo

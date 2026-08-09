@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-su-dung-song-sieu-am-e-sua-au-in-ricoh-gen6-in-sai-mau-tan-goc-26"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Sử dụng sóng siêu âm để sửa đầu in Ricoh Gen6 in sai màu tận gốc"
-description: "Tìm hiểu sử dụng sóng siêu âm để sửa tình trạng in sai màu trên dòng đầu in công nghiệp Ricoh Gen6. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-25"
-category: "KINH-NGHIEM"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-su-dung-song-sieu-am-e-sua-au-in-ricoh-gen6-in-sai-mau-tan-goc-26
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Sử dụng sóng siêu âm để sửa đầu in Ricoh Gen6 in sai màu tận gốc'
+description: >-
+  Tìm hiểu sử dụng sóng siêu âm để sửa tình trạng in sai màu trên dòng đầu in
+  công nghiệp Ricoh Gen6. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu
+  phun kỹ thuật số với công nghệ siêu âm hiện đại.
+date: '2026-07-25'
+category: KINH-NGHIEM
+printhead: Ricoh
 ---
-
 Đầu in **Ricoh Gen6** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **in sai màu** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ sử dụng sóng siêu âm để sửa tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Ricoh Gen6 in sai màu

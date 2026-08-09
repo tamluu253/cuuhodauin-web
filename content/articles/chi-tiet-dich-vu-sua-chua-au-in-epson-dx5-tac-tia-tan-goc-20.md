@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-dich-vu-sua-chua-au-in-epson-dx5-tac-tia-tan-goc-20"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Dịch vụ sửa chữa đầu in Epson DX5 tắc tia tận gốc"
-description: "Tìm hiểu dịch vụ sửa chữa tình trạng tắc tia trên dòng đầu in công nghiệp Epson DX5. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-19"
-category: "TIN-TUC"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-dich-vu-sua-chua-au-in-epson-dx5-tac-tia-tan-goc-20
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Dịch vụ sửa chữa đầu in Epson DX5 tắc tia tận gốc'
+description: >-
+  Tìm hiểu dịch vụ sửa chữa tình trạng tắc tia trên dòng đầu in công nghiệp
+  Epson DX5. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ
+  thuật số với công nghệ siêu âm hiện đại.
+date: '2026-07-19'
+category: TIN-TUC
+printhead: Epson
 ---
-
 Đầu in **Epson DX5** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **tắc tia** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ dịch vụ sửa chữa tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Epson DX5 tắc tia

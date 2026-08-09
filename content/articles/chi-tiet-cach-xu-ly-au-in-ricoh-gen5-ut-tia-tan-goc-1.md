@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-cach-xu-ly-au-in-ricoh-gen5-ut-tia-tan-goc-1"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Cách xử lý đầu in Ricoh Gen5 đứt tia tận gốc"
-description: "Tìm hiểu cách xử lý tình trạng đứt tia trên dòng đầu in công nghiệp Ricoh Gen5. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-06-30"
-category: "KY-THUAT"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-cach-xu-ly-au-in-ricoh-gen5-ut-tia-tan-goc-1
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Cách xử lý đầu in Ricoh Gen5 đứt tia tận gốc'
+description: >-
+  Tìm hiểu cách xử lý tình trạng đứt tia trên dòng đầu in công nghiệp Ricoh
+  Gen5. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số
+  với công nghệ siêu âm hiện đại.
+date: '2026-06-30'
+category: KY-THUAT
+printhead: Ricoh
 ---
-
 Đầu in **Ricoh Gen5** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **đứt tia** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ cách xử lý tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Ricoh Gen5 đứt tia

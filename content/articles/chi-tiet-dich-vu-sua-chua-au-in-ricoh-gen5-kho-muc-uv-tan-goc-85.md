@@ -1,13 +1,17 @@
 ---
-canonical: "https://cuuhodauin.com/blog/chi-tiet-dich-vu-sua-chua-au-in-ricoh-gen5-kho-muc-uv-tan-goc-85"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "[Chi Tiết] Dịch vụ sửa chữa đầu in Ricoh Gen5 khô mực UV tận gốc"
-description: "Tìm hiểu dịch vụ sửa chữa tình trạng khô mực UV trên dòng đầu in công nghiệp Ricoh Gen5. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ thuật số với công nghệ siêu âm hiện đại."
-date: "2026-07-24"
-category: "KY-THUAT"
+canonical: >-
+  https://cuuhodauin.com/blog/chi-tiet-dich-vu-sua-chua-au-in-ricoh-gen5-kho-muc-uv-tan-goc-85
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: '[Chi Tiết] Dịch vụ sửa chữa đầu in Ricoh Gen5 khô mực UV tận gốc'
+description: >-
+  Tìm hiểu dịch vụ sửa chữa tình trạng khô mực UV trên dòng đầu in công nghiệp
+  Ricoh Gen5. VNPIS Lab chuyên nhận cứu hộ, phục hồi và sửa chữa đầu phun kỹ
+  thuật số với công nghệ siêu âm hiện đại.
+date: '2026-07-24'
+category: KY-THUAT
+printhead: Ricoh
 ---
-
 Đầu in **Ricoh Gen5** là một trong những linh kiện đắt tiền và quan trọng nhất trên hệ thống máy in kỹ thuật số. Tuy nhiên, trong quá trình vận hành, sự cố **khô mực UV** thường xuyên xảy ra gây gián đoạn sản xuất và tốn kém chi phí. Bài viết này, các chuyên gia từ VNPIS Lab sẽ chia sẻ dịch vụ sửa chữa tình trạng này một cách triệt để.
 
 ## Nguyên Nhân Gây Ra Tình Trạng Đầu In Ricoh Gen5 khô mực UV
