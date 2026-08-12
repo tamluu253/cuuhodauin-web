@@ -97,6 +97,7 @@ export default function AnalyticsDashboard() {
               </div>
             </div>
 
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
             <div className="bg-slate-800 border border-slate-700/50 rounded-xl shadow-lg p-6">
               <h2 className="text-xl font-bold text-amber-500 mb-6 flex items-center gap-2">
                 🏆 Top Nội Dung Thu Hút Nhất
@@ -111,7 +112,7 @@ export default function AnalyticsDashboard() {
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-slate-700/50">
-                    {data.topPages?.map((page, i) => (
+                    {data.topPages?.map((page: any, i: number) => (
                       <tr key={i} className="hover:bg-slate-700/20 transition-colors">
                         <td className="py-4 px-4">
                           <span className={`px-2 py-1 rounded text-xs font-bold ${
@@ -129,6 +130,45 @@ export default function AnalyticsDashboard() {
                 </table>
               </div>
             </div>
+
+            <div className="bg-slate-800 border border-slate-700/50 rounded-xl shadow-lg p-6">
+              <h2 className="text-xl font-bold text-blue-500 mb-6 flex items-center gap-2">
+                🔍 Top Từ Khóa Tìm Kiếm (GSC)
+              </h2>
+              <div className="overflow-x-auto">
+                <table className="w-full text-left">
+                  <thead>
+                    <tr className="border-b border-slate-700 text-slate-400 text-sm">
+                      <th className="pb-4 px-4 font-medium">Vị Trí</th>
+                      <th className="pb-4 px-4 font-medium">Từ khóa (Query)</th>
+                      <th className="pb-4 px-4 font-medium text-center">Lượt nhấp</th>
+                      <th className="pb-4 px-4 font-medium text-center">Hiển thị</th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-slate-700/50">
+                    {data.topKeywords && data.topKeywords.length > 0 ? data.topKeywords.map((kw: any, i: number) => (
+                      <tr key={i} className="hover:bg-slate-700/20 transition-colors">
+                        <td className="py-4 px-4">
+                          <span className={`px-2 py-1 rounded text-xs font-bold ${
+                            i <= 2 ? "bg-blue-500 text-white" : "bg-slate-700 text-slate-300"
+                          }`}>Top {kw.rank}</span>
+                        </td>
+                        <td className="py-4 px-4 font-medium text-slate-200">{kw.query}</td>
+                        <td className="py-4 px-4 text-center font-bold text-green-400">{kw.clicks}</td>
+                        <td className="py-4 px-4 text-center text-slate-400">{kw.impressions}</td>
+                      </tr>
+                    )) : (
+                      <tr>
+                        <td colSpan={4} className="py-8 text-center text-slate-500">
+                          Chưa có dữ liệu từ khóa Google Search Console
+                        </td>
+                      </tr>
+                    )}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
           </div>
         ) : null}
       </div>
