@@ -3,10 +3,15 @@ import nodemailer from 'nodemailer';
 
 // Transporter for sending lead notification emails
 const transporter = nodemailer.createTransport({
-  service: 'gmail',
+  host: 'smtp.gmail.com',
+  port: 587,
+  secure: false, // TLS
   auth: {
     user: 'info@vnpis.com',
     pass: 'lejochkwtxpxrefu',
+  },
+  tls: {
+    rejectUnauthorized: false,
   },
 });
 
@@ -74,8 +79,11 @@ export async function POST(request: Request) {
     });
 
     return NextResponse.json({ success: true, message: 'Đã gửi thông tin thành công' });
-  } catch (error) {
+  } catch (error: any) {
     console.error('Contact API Error:', error);
-    return NextResponse.json({ success: false, error: 'Không thể gửi email thông báo' }, { status: 500 });
+    return NextResponse.json({
+      success: false,
+      error: error?.message || String(error)
+    }, { status: 500 });
   }
 }
