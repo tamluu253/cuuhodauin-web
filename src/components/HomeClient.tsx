@@ -6,6 +6,38 @@ import { ArticleMetadata } from "@/lib/articles";
 
 export default function HomeClient({ latestArticles }: { latestArticles: ArticleMetadata[] }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [formState, setFormState] = useState({ name: '', phone: '', message: '' });
+  const [loading, setLoading] = useState(false);
+  const [submitted, setSubmitted] = useState(false);
+
+  const handleSubmitLead = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setLoading(true);
+    try {
+      const res = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: formState.name,
+          phone: formState.phone,
+          message: formState.message,
+          pageTitle: 'Trang chủ Cứu Hộ Đầu In (cuuhodauin.com)'
+        }),
+      });
+
+      const data = await res.json();
+      if (data.success) {
+        setSubmitted(true);
+        setFormState({ name: '', phone: '', message: '' });
+      } else {
+        alert('Có lỗi xảy ra, vui lòng liên hệ hotline/Zalo: 0987 453 866');
+      }
+    } catch (err) {
+      alert('Không thể kết nối đến máy chủ, vui lòng liên hệ hotline/Zalo: 0987 453 866');
+    } finally {
+      setLoading(false);
+    }
+  };
 
   return (
     <main className="font-sans text-slate-700 bg-white antialiased">
@@ -31,7 +63,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
           <div className="flex items-center justify-between h-[4.5rem]">
             <Link href="/" className="flex items-center gap-3 group">
               <img
-                src="/VNPIS_logo.png"
+                src="/images/vnpis-logo.png"
                 alt="VNPIS Lab — Cứu Hộ Đầu In Kỹ Thuật Số"
                 className="h-11 w-auto object-contain bg-white rounded-lg px-2 py-1 shadow-sm group-hover:shadow-md transition-shadow"
               />
@@ -355,21 +387,21 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
               </p>
 
               <div className="mt-6 space-y-4">
-                <div className="flex items-center gap-4 p-4 rounded-xl bg-slate-50 border border-slate-200">
-                  <div className="w-11 h-11 rounded-lg bg-amber-400 text-navy-950 font-bold flex items-center justify-center shrink-0 text-xl">📞</div>
+                <a href="tel:0987453866" className="flex items-center gap-4 p-4 rounded-xl bg-slate-50 border border-slate-200 hover:border-amber-400 transition-colors group">
+                  <div className="w-11 h-11 rounded-lg bg-amber-400 text-navy-950 font-bold flex items-center justify-center shrink-0 text-xl group-hover:scale-105 transition-transform">📞</div>
                   <div>
                     <p className="text-xs text-slate-500 font-semibold uppercase">Hotline Kỹ Thuật 24/7 (Zalo)</p>
                     <p className="text-xl font-bold text-navy-900">0987 453 866</p>
                   </div>
-                </div>
+                </a>
 
-                <div className="flex items-center gap-4 p-4 rounded-xl bg-slate-50 border border-slate-200">
-                  <div className="w-11 h-11 rounded-lg bg-navy-900 text-white font-bold flex items-center justify-center shrink-0 text-xl">✉️</div>
+                <a href="mailto:info@vnpis.com" className="flex items-center gap-4 p-4 rounded-xl bg-slate-50 border border-slate-200 hover:border-blue-500 transition-colors group">
+                  <div className="w-11 h-11 rounded-lg bg-navy-900 text-white font-bold flex items-center justify-center shrink-0 text-xl group-hover:scale-105 transition-transform">✉️</div>
                   <div>
                     <p className="text-xs text-slate-500 font-semibold uppercase">Email Báo Giá & Tiếp Nhận</p>
                     <p className="text-base font-bold text-navy-900">info@vnpis.com</p>
                   </div>
-                </div>
+                </a>
 
                 <div className="p-5 rounded-xl bg-slate-50 border border-slate-200 space-y-3">
                   <p className="text-xs font-bold text-navy-900 uppercase tracking-wide border-b border-slate-200 pb-2">Hệ Thống Trụ Sở & Phòng Lab Tiếp Nhận</p>
@@ -382,49 +414,69 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
               </div>
             </div>
 
-            {/* Form đăng ký */}
-            <form
-              className="bg-navy-900 text-white rounded-2xl p-8 space-y-5 shadow-2xl border border-navy-700"
-              onSubmit={(e) => {
-                e.preventDefault();
-                alert("Đã tiếp nhận yêu cầu cứu hộ! Kỹ thuật viên VNPIS Lab sẽ gọi lại tư vấn qua số 0987 453 866.");
-              }}
-            >
-              <h3 className="font-bold text-white text-xl border-b border-navy-700 pb-3">Đăng Ký Cứu Hộ Đầu In (No Cure - No Pay)</h3>
-              <div>
-                <label className="block text-xs font-semibold text-navy-200 uppercase mb-1">Họ và tên người gửi</label>
-                <input
-                  type="text"
-                  required
-                  className="w-full px-4 py-3 rounded-xl bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
-                  placeholder="Nguyễn Văn A"
-                />
+            {/* Form đăng ký cứu hộ có kết nối gửi mail tự động về info@vnpis.com */}
+            {submitted ? (
+              <div className="bg-emerald-900 text-white rounded-2xl p-8 shadow-2xl border border-emerald-700 text-center flex flex-col items-center justify-center space-y-4">
+                <div className="w-16 h-16 bg-emerald-500 text-white rounded-full flex items-center justify-center text-3xl font-bold">✓</div>
+                <h3 className="text-2xl font-bold">Đã Gửi Yêu Cầu Cứu Hộ Thành Công!</h3>
+                <p className="text-emerald-200 text-sm leading-relaxed max-w-md">
+                  Hệ thống đã tự động chuyển thông tin về Email <strong>info@vnpis.com</strong> và <strong>tamluu253@gmail.com</strong>. Kỹ thuật viên VNPIS Lab sẽ gọi điện tư vấn ngay cho bạn!
+                </p>
+                <button 
+                  onClick={() => setSubmitted(false)}
+                  className="px-6 py-2.5 bg-emerald-500 hover:bg-emerald-400 text-white font-bold rounded-xl text-sm transition-colors"
+                >
+                  Gửi Yêu Cầu Khác
+                </button>
               </div>
-              <div>
-                <label className="block text-xs font-semibold text-navy-200 uppercase mb-1">Số điện thoại / Zalo liên hệ</label>
-                <input
-                  type="tel"
-                  required
-                  className="w-full px-4 py-3 rounded-xl bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
-                  placeholder="0987 xxx xxx"
-                />
-              </div>
-              <div>
-                <label className="block text-xs font-semibold text-navy-200 uppercase mb-1">Loại đầu in & Mô tả hiện trạng nghẹt lỗi</label>
-                <textarea
-                  rows={3}
-                  required
-                  className="w-full px-4 py-3 rounded-xl bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400 resize-none"
-                  placeholder="Ví dụ: Ricoh Gen5 — tắc mực UV, đứt tia 2 kênh..."
-                ></textarea>
-              </div>
-              <button
-                type="submit"
-                className="w-full py-4 bg-amber-400 text-navy-950 font-bold rounded-xl hover:bg-amber-300 transition-colors text-base shadow-xl"
+            ) : (
+              <form
+                className="bg-navy-900 text-white rounded-2xl p-8 space-y-5 shadow-2xl border border-navy-700"
+                onSubmit={handleSubmitLead}
               >
-                🚀 Gửi Đầu In Nhận Báo Giá Miễn Phí
-              </button>
-            </form>
+                <h3 className="font-bold text-white text-xl border-b border-navy-700 pb-3">Đăng Ký Cứu Hộ Đầu In (No Cure - No Pay)</h3>
+                <div>
+                  <label className="block text-xs font-semibold text-navy-200 uppercase mb-1">Họ và tên người gửi</label>
+                  <input
+                    type="text"
+                    required
+                    value={formState.name}
+                    onChange={(e) => setFormState({ ...formState, name: e.target.value })}
+                    className="w-full px-4 py-3 rounded-xl bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
+                    placeholder="Nguyễn Văn A"
+                  />
+                </div>
+                <div>
+                  <label className="block text-xs font-semibold text-navy-200 uppercase mb-1">Số điện thoại / Zalo liên hệ</label>
+                  <input
+                    type="tel"
+                    required
+                    value={formState.phone}
+                    onChange={(e) => setFormState({ ...formState, phone: e.target.value })}
+                    className="w-full px-4 py-3 rounded-xl bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
+                    placeholder="0987 xxx xxx"
+                  />
+                </div>
+                <div>
+                  <label className="block text-xs font-semibold text-navy-200 uppercase mb-1">Loại đầu in & Mô tả hiện trạng nghẹt lỗi</label>
+                  <textarea
+                    rows={3}
+                    required
+                    value={formState.message}
+                    onChange={(e) => setFormState({ ...formState, message: e.target.value })}
+                    className="w-full px-4 py-3 rounded-xl bg-navy-800 border border-navy-600 text-white placeholder-navy-400 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400 resize-none"
+                    placeholder="Ví dụ: Ricoh Gen5 — tắc mực UV, đứt tia 2 kênh..."
+                  ></textarea>
+                </div>
+                <button
+                  type="submit"
+                  disabled={loading}
+                  className="w-full py-4 bg-amber-400 text-navy-950 font-bold rounded-xl hover:bg-amber-300 transition-colors text-base shadow-xl disabled:opacity-50"
+                >
+                  {loading ? 'Đang Gửi Email Báo Lead...' : '🚀 Gửi Đầu In Nhận Báo Giá Miễn Phí'}
+                </button>
+              </form>
+            )}
           </div>
         </div>
       </section>
@@ -434,7 +486,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-3">
             <img
-              src="VNPIS_logo.png"
+              src="/images/vnpis-logo.png"
               alt="VNPIS Lab"
               className="h-9 w-auto object-contain bg-white rounded-md px-2 py-0.5"
             />
