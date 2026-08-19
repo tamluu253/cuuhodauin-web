@@ -5,11 +5,12 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Metadata } from "next";
 
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const slugs = getArticleSlugs();
-  return slugs.map((slug) => ({
+  // Pre-render top 10 articles at build time; remaining articles are rendered on-demand & cached via ISR on Vercel
+  return slugs.slice(0, 10).map((slug) => ({
     slug: slug.replace(/\.md$/, ''),
   }));
 }
