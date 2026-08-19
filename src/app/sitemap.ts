@@ -1,11 +1,11 @@
 import { MetadataRoute } from 'next';
-import { getAllDocumentsMeta } from '@/lib/mdx';
+import { getAllArticles } from '@/lib/articles';
 
 const DOMAIN = 'https://cuuhodauin.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const articles = getAllDocumentsMeta('articles');
-  const blogEntries: MetadataRoute.Sitemap = articles.map((post: any) => ({
+  const articles = getAllArticles();
+  const blogEntries: MetadataRoute.Sitemap = articles.map((post) => ({
     url: `${DOMAIN}/kien-thuc/${post.slug}`,
     lastModified: new Date(post.date || Date.now()),
     changeFrequency: 'weekly',
