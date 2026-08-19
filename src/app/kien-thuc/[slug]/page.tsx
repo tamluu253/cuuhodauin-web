@@ -1,5 +1,5 @@
 import { getArticleBySlug, getArticleSlugs } from "@/lib/articles";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import Link from "next/link";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -17,7 +17,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
   const article = getArticleBySlug(params.slug);
-  if (!article) return { title: "Không tìm thấy bài viết" };
+  if (!article) return { title: "Kho Kiến Thức Cứu Hộ Đầu In | VNPIS Lab" };
   
   return {
     title: `${article.metadata.title} | VNPIS Lab`,
@@ -32,7 +32,7 @@ export default function ArticlePage({ params }: { params: { slug: string } }) {
   const article = getArticleBySlug(params.slug);
 
   if (!article) {
-    notFound();
+    redirect('/kien-thuc');
   }
 
   // Strip duplicate leading H1 from content if present
