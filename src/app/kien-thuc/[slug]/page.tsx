@@ -21,6 +21,9 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   return {
     title: `${article.metadata.title} | VNPIS Lab`,
     description: article.metadata.description,
+    alternates: {
+      canonical: `/kien-thuc/${params.slug}`,
+    },
   };
 }
 
