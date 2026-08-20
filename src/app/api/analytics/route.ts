@@ -78,10 +78,12 @@ export async function GET(request: Request) {
     const newUsers = parseInt(overviewResponse.rows?.[0]?.metricValues?.[1]?.value || '0', 10);
     const eventCount = parseInt(overviewResponse.rows?.[0]?.metricValues?.[2]?.value || '0', 10);
 
-    const topPages = pagesResponse.rows?.map((row) => ({
-      title: row.dimensionValues?.[0]?.value || 'Trang chưa đặt tên',
-      views: parseInt(row.metricValues?.[0]?.value || '0', 10),
-    })) || [];
+    const topPages = pagesResponse.rows
+      ?.map((row) => ({
+        title: row.dimensionValues?.[0]?.value || 'Trang chưa đặt tên',
+        views: parseInt(row.metricValues?.[0]?.value || '0', 10),
+      }))
+      .filter((page) => !page.title.includes('INANVNPIS') && !page.title.includes('VNPIS Solutions')) || [];
 
     // Fetch Search Console Top Keywords
     const topKeywords = await getTopKeywords(gscStartDate, gscEndDate);
