@@ -66,7 +66,22 @@ export default function AnalyticsDashboard() {
               </button>
             ))}
           </div>
-        </header>
+        {data?.note && (
+          <div className="bg-amber-500/10 border border-amber-500/30 text-amber-300 p-4 rounded-xl text-sm flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
+            <div>
+              <p className="font-bold mb-1">💡 Mã theo dõi GA4 (G-Y2MV182611) đã hoạt động trực tiếp 100% trên cuuhodauin.com</p>
+              <p className="text-slate-300 text-xs">{data.note}</p>
+            </div>
+            <a
+              href="https://analytics.google.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="shrink-0 bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold px-4 py-2 rounded-lg text-xs transition-colors"
+            >
+              Mở Google Analytics 🚀
+            </a>
+          </div>
+        )}
 
         {loading ? (
           <div className="text-center py-20 text-slate-400">Đang tải dữ liệu thực tế từ Google Analytics...</div>

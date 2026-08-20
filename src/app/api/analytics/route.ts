@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 import { BetaAnalyticsDataClient } from '@google-analytics/data';
 import { getTopKeywords } from '@/app/dbg/gsc';
 
-const propertyId = process.env.GA_PROPERTY_ID || '485457813'; // Default GA4 Property ID
+const propertyId = process.env.GA_PROPERTY_ID || '549663166'; // Default GA4 Property ID for cuuhodauin
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
