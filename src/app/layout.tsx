@@ -11,6 +11,8 @@ export const metadata: Metadata = {
   },
 };
 
+import GoogleTranslate from "@/components/GoogleTranslate";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -37,6 +39,7 @@ export default function RootLayout({
         </Script>
       </head>
       <body className="font-sans text-slate-700 bg-slate-50 antialiased">
+        <GoogleTranslate />
         {children}
       </body>
     </html>

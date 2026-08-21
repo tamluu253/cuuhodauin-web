@@ -1,14 +1,49 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { ArticleMetadata } from "@/lib/articles";
+
+const languages = [
+  { code: 'vi', name: 'Tiếng Việt', label: 'VI', flag: '🇻🇳' },
+  { code: 'en', name: 'English', label: 'EN', flag: '🇬🇧' },
+  { code: 'zh-CN', name: '中文 (Chinese)', label: 'ZH', flag: '🇨🇳' },
+  { code: 'ja', name: '日本語 (Japanese)', label: 'JA', flag: '🇯🇵' },
+  { code: 'ko', name: '한국어 (Korean)', label: 'KO', flag: '🇰🇷' },
+  { code: 'km', name: 'ភាសាខ្មែរ (Khmer)', label: 'KM', flag: '🇰🇭' },
+  { code: 'lo', name: 'ພາສາລາວ (Lao)', label: 'LO', flag: '🇱🇦' },
+  { code: 'th', name: 'ไทย (Thai)', label: 'TH', flag: '🇹🇭' },
+];
 
 export default function HomeClient({ latestArticles }: { latestArticles: ArticleMetadata[] }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [formState, setFormState] = useState({ name: '', phone: '', message: '' });
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false);
+
+  const [isMobileLangOpen, setIsMobileLangOpen] = useState(false);
+  const [isDesktopLangOpen, setIsDesktopLangOpen] = useState(false);
+  const [currentLang, setCurrentLang] = useState<string>('vi');
+
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const match = document.cookie.match(/googtrans=\/vi\/([^;]+)/);
+      if (match && match[1]) {
+        setCurrentLang(match[1]);
+      }
+    }
+  }, []);
+
+  const changeLanguage = (langCode: string) => {
+    document.cookie = `googtrans=/vi/${langCode}; path=/; domain=${window.location.hostname}`;
+    document.cookie = `googtrans=/vi/${langCode}; path=/;`;
+    setCurrentLang(langCode);
+    setIsMobileLangOpen(false);
+    setIsDesktopLangOpen(false);
+    window.location.reload();
+  };
+
+  const selectedLangObj = languages.find((l) => l.code === currentLang) || languages[0];
 
   const handleSubmitLead = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -83,30 +118,138 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
               <a href="#lien-he" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Liên Hệ VNPIS</a>
             </nav>
 
-            <div className="hidden lg:flex items-center gap-3">
-              <a href="#lien-he" className="px-5 py-2.5 bg-amber-400 text-navy-950 font-bold rounded-xl text-sm hover:bg-amber-300 transition-colors shadow-md">
+            <div className="hidden md:flex items-center gap-3 relative">
+              {/* Desktop Language Selector */}
+              <div className="relative">
+                <button
+                  onClick={() => setIsDesktopLangOpen(!isDesktopLangOpen)}
+                  className="flex items-center gap-1.5 text-xs font-bold text-navy-100 bg-navy-800 hover:bg-navy-700 px-3 py-2 rounded-xl border border-navy-700 transition-colors"
+                >
+                  <span>🌐 {selectedLangObj.flag} {selectedLangObj.name}</span>
+                  <span className="text-navy-400">▾</span>
+                </button>
+                {isDesktopLangOpen && (
+                  <div className="absolute top-11 right-0 w-48 bg-navy-900 border border-navy-700 shadow-2xl rounded-xl py-2 z-50">
+                    {languages.map((lang) => (
+                      <button
+                        key={lang.code}
+                        onClick={() => changeLanguage(lang.code)}
+                        className={`w-full text-left px-4 py-2 text-xs flex items-center justify-between hover:bg-navy-800 transition-colors ${
+                          currentLang === lang.code ? 'text-amber-400 font-bold bg-navy-800/60' : 'text-navy-100'
+                        }`}
+                      >
+                        <span className="flex items-center gap-2">
+                          <span>{lang.flag}</span>
+                          <span>{lang.name}</span>
+                        </span>
+                        {currentLang === lang.code && <span>✓</span>}
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+
+              <a href="#lien-he" className="px-4 py-2 bg-amber-400 text-navy-950 font-bold rounded-xl text-xs hover:bg-amber-300 transition-colors shadow-md">
                 🚀 Gửi Đầu In Cứu Hộ
               </a>
             </div>
 
-            <button
-              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="md:hidden p-2 text-navy-100 hover:text-white"
-              aria-label="Mở menu"
-            >
-              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"/>
-              </svg>
-            </button>
+            {/* Mobile Header Actions */}
+            <div className="flex items-center gap-2 md:hidden">
+              {/* Mobile Quick Language Toggle Button */}
+              <button
+                onClick={() => {
+                  setIsMobileLangOpen(!isMobileLangOpen);
+                  if (mobileMenuOpen) setMobileMenuOpen(false);
+                }}
+                className="flex items-center text-xs font-bold text-amber-300 bg-navy-800 hover:bg-navy-700 px-2.5 py-1.5 rounded-full border border-navy-700 transition-colors"
+                aria-label="Chọn ngôn ngữ"
+              >
+                <span>🌐 {selectedLangObj.flag} {selectedLangObj.label} ▾</span>
+              </button>
+
+              <button
+                onClick={() => {
+                  setMobileMenuOpen(!mobileMenuOpen);
+                  if (isMobileLangOpen) setIsMobileLangOpen(false);
+                }}
+                className="p-2 text-navy-100 hover:text-white"
+                aria-label="Mở menu"
+              >
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"/>
+                </svg>
+              </button>
+            </div>
           </div>
 
+          {/* Mobile Language Picker Dropdown Modal */}
+          {isMobileLangOpen && (
+            <div className="md:hidden bg-navy-900 border-t border-navy-700 px-4 py-4 shadow-2xl">
+              <div className="flex items-center justify-between mb-3 pb-2 border-b border-navy-800">
+                <span className="text-xs font-bold text-navy-300 uppercase tracking-wider flex items-center gap-1.5">
+                  🌐 Chọn Ngôn Ngữ / Select Language
+                </span>
+                <button onClick={() => setIsMobileLangOpen(false)} className="text-navy-400 p-1 hover:text-white">
+                  ✕
+                </button>
+              </div>
+              <div className="grid grid-cols-2 gap-2">
+                {languages.map((lang) => (
+                  <button
+                    key={lang.code}
+                    onClick={() => changeLanguage(lang.code)}
+                    className={`flex items-center justify-between px-3 py-2 rounded-xl border text-xs font-bold transition-all ${
+                      currentLang === lang.code
+                        ? 'border-amber-400 bg-amber-400/20 text-amber-300'
+                        : 'border-navy-800 bg-navy-950/60 text-navy-100 hover:bg-navy-800'
+                    }`}
+                  >
+                    <span className="flex items-center gap-1.5 truncate">
+                      <span>{lang.flag}</span>
+                      <span className="truncate">{lang.name}</span>
+                    </span>
+                    {currentLang === lang.code && <span className="text-amber-400">✓</span>}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Mobile Menu Drawer */}
           {mobileMenuOpen && (
-            <nav className="md:hidden pb-4 border-t border-navy-700 pt-3 space-y-1">
-              <a href="#quy-trinh-lab" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Quy Trình Lab</a>
-              <a href="#dau-in-ho-tro" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Đầu In Hỗ Trợ</a>
-              <Link href="/kien-thuc" className="block px-3 py-2 text-amber-300 font-bold hover:text-white hover:bg-navy-800 rounded-md text-sm">📚 Blog / Kiến Thức</Link>
-              <a href="#tra-cuu-qr" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Tra Cứu QR Video</a>
-              <a href="#lien-he" className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Liên Hệ VNPIS</a>
+            <nav className="md:hidden pb-4 border-t border-navy-700 pt-3 space-y-3">
+              {/* Mobile Drawer Language Selector */}
+              <div className="bg-navy-950/80 p-3 rounded-xl border border-navy-800 mb-2">
+                <div className="text-[11px] font-bold text-navy-300 uppercase tracking-wider mb-2">
+                  🌐 Đa Ngôn Ngữ / Languages
+                </div>
+                <div className="grid grid-cols-2 gap-2">
+                  {languages.map((lang) => (
+                    <button
+                      key={lang.code}
+                      onClick={() => changeLanguage(lang.code)}
+                      className={`flex items-center justify-between px-2.5 py-1.5 rounded-lg text-xs font-bold transition-all ${
+                        currentLang === lang.code
+                          ? 'bg-amber-400 text-navy-950 shadow-sm'
+                          : 'bg-navy-900 text-navy-100 border border-navy-800 hover:bg-navy-800'
+                      }`}
+                    >
+                      <span className="flex items-center gap-1.5 truncate">
+                        <span>{lang.flag}</span>
+                        <span className="truncate">{lang.name}</span>
+                      </span>
+                      {currentLang === lang.code && <span>✓</span>}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <a href="#quy-trinh-lab" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Quy Trình Lab</a>
+              <a href="#dau-in-ho-tro" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Đầu In Hỗ Trợ</a>
+              <Link href="/kien-thuc" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-amber-300 font-bold hover:text-white hover:bg-navy-800 rounded-md text-sm">📚 Blog / Kiến Thức</Link>
+              <a href="#tra-cuu-qr" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Tra Cứu QR Video</a>
+              <a href="#lien-he" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Liên Hệ VNPIS</a>
             </nav>
           )}
         </div>
