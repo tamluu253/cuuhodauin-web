@@ -5,7 +5,7 @@ import { NextResponse } from 'next/server';
 import { BetaAnalyticsDataClient } from '@google-analytics/data';
 import { getTopKeywords } from '@/app/dbg/gsc';
 
-const propertyId = '549663166'; // Explicit GA4 Property ID for cuuhodauin.com
+const propertyId = process.env.GA_PROPERTY_ID || '549458447'; // GA4 Property ID chuẩn từ Screenshot cho cuuhodauin.com
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
@@ -14,43 +14,49 @@ export async function GET(request: Request) {
   // Calculate date ranges
   const endDate = 'today';
   let startDate = '7daysAgo';
-  let gscStartDate = new Date(Date.now() - 7 * 86400000).toISOString().split('T')[0];
-  const gscEndDate = new Date().toISOString().split('T')[0];
 
   if (period === 'day') {
     startDate = 'today';
-    gscStartDate = gscEndDate;
   } else if (period === 'week') {
     startDate = '7daysAgo';
-    gscStartDate = new Date(Date.now() - 7 * 86400000).toISOString().split('T')[0];
   } else if (period === 'month') {
     startDate = '30daysAgo';
-    gscStartDate = new Date(Date.now() - 30 * 86400000).toISOString().split('T')[0];
   } else if (period === 'quarter') {
     startDate = '90daysAgo';
-    gscStartDate = new Date(Date.now() - 90 * 86400000).toISOString().split('T')[0];
   } else if (period === 'year') {
     startDate = '365daysAgo';
-    gscStartDate = new Date(Date.now() - 365 * 86400000).toISOString().split('T')[0];
   }
 
   // Check if GA credentials exist
-  if (!process.env.GA_CLIENT_EMAIL || !process.env.GA_PRIVATE_KEY) {
+  let clientEmail = process.env.GA_CLIENT_EMAIL?.trim();
+  let privateKey = process.env.GA_PRIVATE_KEY?.trim();
+
+  if (clientEmail?.startsWith('"') && clientEmail.endsWith('"')) {
+    clientEmail = clientEmail.slice(1, -1);
+  }
+  if (privateKey?.startsWith('"') && privateKey.endsWith('"')) {
+    privateKey = privateKey.slice(1, -1);
+  }
+  if (privateKey) {
+    privateKey = privateKey.replace(/\\n/g, '\n');
+  }
+
+  if (!clientEmail || !privateKey) {
     return NextResponse.json({
       sessions: 0,
       newUsers: 0,
       eventCount: 0,
       topPages: [],
       topKeywords: [],
-      note: 'Vui lòng bổ sung GA_CLIENT_EMAIL và GA_PRIVATE_KEY trong Vercel Environment Variables để xem dữ liệu kết nối API tự động.',
+      error: 'Vui lòng bổ sung GA_CLIENT_EMAIL và GA_PRIVATE_KEY trong Vercel Environment Variables để xem dữ liệu tự động.',
     });
   }
 
   try {
     const analyticsDataClient = new BetaAnalyticsDataClient({
       credentials: {
-        client_email: process.env.GA_CLIENT_EMAIL,
-        private_key: process.env.GA_PRIVATE_KEY?.replace(/\\n/g, '\n'),
+        client_email: clientEmail,
+        private_key: privateKey,
       },
     });
 
@@ -85,8 +91,17 @@ export async function GET(request: Request) {
       }))
       .filter((page) => !page.title.includes('INANVNPIS') && !page.title.includes('VNPIS Solutions')) || [];
 
+    const periodDaysMap: Record<string, number> = {
+      day: 1,
+      week: 7,
+      month: 30,
+      quarter: 90,
+      year: 365,
+    };
+    const periodDays = periodDaysMap[period] || 7;
+
     // Fetch Search Console Top Keywords
-    const topKeywords = await getTopKeywords(gscStartDate, gscEndDate);
+    const topKeywords = await getTopKeywords(periodDays);
 
     return NextResponse.json({
       sessions,
