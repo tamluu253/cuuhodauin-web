@@ -5,7 +5,7 @@ import { NextResponse } from 'next/server';
 import { BetaAnalyticsDataClient } from '@google-analytics/data';
 import { getTopKeywords } from '@/app/dbg/gsc';
 
-const propertyId = process.env.GA_PROPERTY_ID || '549458447'; // GA4 Property ID chuẩn từ Screenshot cho cuuhodauin.com
+const propertyId = '549458447'; // GA4 Property ID chuẩn từ Screenshot cho cuuhodauin.com (Ghi đè ID cũ 549663166 trên Vercel)
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
