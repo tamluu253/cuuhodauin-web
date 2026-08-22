@@ -103,10 +103,13 @@ export async function GET(request: Request) {
     // Fetch Search Console Top Keywords
     const topKeywords = await getTopKeywords(periodDays);
 
+    const ctr = sessions > 0 ? ((eventCount / sessions) * 100).toFixed(1) + '%' : '0.0%';
+
     return NextResponse.json({
       sessions,
       newUsers,
       eventCount,
+      ctr,
       topPages,
       topKeywords,
     });
