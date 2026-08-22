@@ -7,7 +7,7 @@ const siteUrlsToTry = [
   'http://cuuhodauin.com/',
 ];
 
-export async function getTopKeywords(periodDays: number = 7) {
+export async function getTopKeywords(periodDays: number = 30) {
   let clientEmail = process.env.GA_CLIENT_EMAIL?.trim();
   let privateKey = process.env.GA_PRIVATE_KEY?.trim();
 
@@ -51,7 +51,7 @@ export async function getTopKeywords(periodDays: number = 7) {
             startDate,
             endDate,
             dimensions: ['query'],
-            rowLimit: 10,
+            rowLimit: 50,
           },
         });
 
@@ -62,6 +62,7 @@ export async function getTopKeywords(periodDays: number = 7) {
             clicks: row.clicks || 0,
             impressions: row.impressions || 0,
             ctr: ((row.ctr || 0) * 100).toFixed(1) + '%',
+            position: row.position ? row.position.toFixed(1) : '-',
           }));
         }
       } catch (e: any) {

@@ -37,6 +37,9 @@ export default function AnalyticsDashboard() {
     return { label: '📈 Đang Tăng Hạng', bg: '#475569', color: '#ffffff' };
   };
 
+  const totalGscClicks = (data?.topKeywords || []).reduce((acc: number, k: any) => acc + (k.clicks || 0), 0);
+  const totalGscImpressions = (data?.topKeywords || []).reduce((acc: number, k: any) => acc + (k.impressions || 0), 0);
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 p-6 md:p-10 font-sans">
       <div className="max-w-7xl mx-auto space-y-8">
@@ -85,31 +88,36 @@ export default function AnalyticsDashboard() {
           </div>
         ) : (
           <div className="space-y-8">
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-              <div className="bg-slate-900 p-6 rounded-2xl border border-slate-800 border-l-4 border-l-blue-500">
-                <div className="text-slate-400 text-xs font-extrabold uppercase">Lượt Truy Cập (Sessions)</div>
-                <div className="text-3xl font-black text-white mt-2">{data?.sessions || 0}</div>
-                <div className="text-xs text-emerald-400 mt-1">Phiên thực tế trên web</div>
+            {/* 5 KPI Cards */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+              <div className="bg-slate-900 p-5 rounded-2xl border border-slate-800 border-l-4 border-l-blue-500">
+                <div className="text-slate-400 text-xs font-extrabold uppercase">Lượt Truy Cập</div>
+                <div className="text-2xl font-black text-white mt-1.5">{data?.sessions || 0}</div>
+                <div className="text-[11px] text-emerald-400 mt-1">Phiên thực tế trên web</div>
               </div>
 
-              <div className="bg-slate-900 p-6 rounded-2xl border border-slate-800 border-l-4 border-l-amber-500">
-                <div className="text-slate-400 text-xs font-extrabold uppercase">Người Dùng Mới (New Users)</div>
-                <div className="text-3xl font-black text-amber-400 mt-2">{data?.newUsers || 0}</div>
-                <div className="text-xs text-emerald-400 mt-1">Khách hàng mới tiềm năng</div>
+              <div className="bg-slate-900 p-5 rounded-2xl border border-slate-800 border-l-4 border-l-amber-500">
+                <div className="text-slate-400 text-xs font-extrabold uppercase">Người Dùng Mới</div>
+                <div className="text-2xl font-black text-amber-400 mt-1.5">{data?.newUsers || 0}</div>
+                <div className="text-[11px] text-emerald-400 mt-1">Khách hàng mới tiềm năng</div>
               </div>
 
-              <div className="bg-slate-900 p-6 rounded-2xl border border-slate-800 border-l-4 border-l-emerald-500">
-                <div className="text-slate-400 text-xs font-extrabold uppercase">Sự Kiện Tương Tác</div>
-                <div className="text-3xl font-black text-emerald-400 mt-2">{data?.eventCount || 0}</div>
-                <div className="text-xs text-slate-400 mt-1">Click cuộc gọi / Cuộn trang</div>
+              <div className="bg-slate-900 p-5 rounded-2xl border border-slate-800 border-l-4 border-l-emerald-500">
+                <div className="text-slate-400 text-xs font-extrabold uppercase">Tương Tác Events</div>
+                <div className="text-2xl font-black text-emerald-400 mt-1.5">{data?.eventCount || 0}</div>
+                <div className="text-[11px] text-slate-400 mt-1">Click gọi / Cuộn trang</div>
               </div>
 
-              <div className="bg-slate-900 p-6 rounded-2xl border border-slate-800 border-l-4 border-l-purple-500">
-                <div className="text-slate-400 text-xs font-extrabold uppercase">Tổng Nhấp GSC (Search Clicks)</div>
-                <div className="text-3xl font-black text-purple-400 mt-2">
-                  {(data?.topKeywords || []).reduce((acc: number, k: any) => acc + (k.clicks || 0), 0)}
-                </div>
-                <div className="text-xs text-purple-400 mt-1">Từ kết quả tìm kiếm Google</div>
+              <div className="bg-slate-900 p-5 rounded-2xl border border-slate-800 border-l-4 border-l-purple-500">
+                <div className="text-slate-400 text-xs font-extrabold uppercase">Nhấp GSC (Clicks)</div>
+                <div className="text-2xl font-black text-purple-400 mt-1.5">{totalGscClicks}</div>
+                <div className="text-[11px] text-purple-400 mt-1">Lượt click từ Google</div>
+              </div>
+
+              <div className="bg-slate-900 p-5 rounded-2xl border border-slate-800 border-l-4 border-l-pink-500">
+                <div className="text-slate-400 text-xs font-extrabold uppercase">Hiển Thị GSC</div>
+                <div className="text-2xl font-black text-pink-400 mt-1.5">{totalGscImpressions}</div>
+                <div className="text-[11px] text-pink-400 mt-1">Lượt hiển thị kết quả</div>
               </div>
             </div>
 
@@ -170,6 +178,7 @@ export default function AnalyticsDashboard() {
                         <th className="pb-3">Từ khóa (Query)</th>
                         <th className="pb-3 text-center">Nhấp</th>
                         <th className="pb-3 text-center">Hiển thị</th>
+                        <th className="pb-3 text-center">CTR</th>
                         <th className="pb-3 text-right">Chiến lược SEO</th>
                       </tr>
                     </thead>
@@ -187,6 +196,7 @@ export default function AnalyticsDashboard() {
                               <td className="py-3 font-semibold text-white">{kw.query}</td>
                               <td className="py-3 text-center font-bold text-emerald-400">{kw.clicks}</td>
                               <td className="py-3 text-center text-slate-300">{kw.impressions}</td>
+                              <td className="py-3 text-center text-amber-400 font-semibold">{kw.ctr || '0%'}</td>
                               <td className="py-3 text-right">
                                 <span 
                                   style={{ backgroundColor: insight.bg, color: insight.color }} 
@@ -200,7 +210,7 @@ export default function AnalyticsDashboard() {
                         })
                       ) : (
                         <tr>
-                          <td colSpan={5} className="py-8 text-center text-slate-500">
+                          <td colSpan={6} className="py-8 text-center text-slate-500">
                             Chưa có dữ liệu từ khóa Google Search Console
                           </td>
                         </tr>
