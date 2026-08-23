@@ -6,7 +6,7 @@ keywords:
   - "phục hồi đầu in ricoh gen5 đứt tia"
   - "súc rửa siêu âm đầu in ricoh mh5420"
 date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
+author: "Tâm Lưu - Kỹ Sư Trưởng VNPIS"
 category: "Cứu Hộ & Phục Hồi Đầu In Ricoh Gen5 / Gen6"
 canonical: "https://cuuhodauin.com/kien-thuc/quy-trinh-cuu-ho-dau-in-ricoh-gen5"
 schema_type: "TechnicalArticle"
