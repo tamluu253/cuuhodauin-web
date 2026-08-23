@@ -72,7 +72,9 @@ Trong thiết kế dây chuyền sản xuất công nghiệp và lập dự toá
 
 ### 📐 Công Thức Năng Lượng Sóng Siêu Âm Kép Phục Hồi Đầu In
 
-$$I = \frac{1}{2} \rho c (2\pi f \xi)^2$$
+```
+I = 0.5 * rho * c * (2 * pi * f * xi)^2
+```
 
 > **Giải thích thông số:** Tần số 28kHz tạo bọt khí xâm thực lớn đánh tan cặn mực khô bên ngoài, trong khi tần số 40kHz tạo vi bọt len lỏi sâu vào buồng thạch anh piezo 5pL mà không làm nứt màng nozzle plate.
 
@@ -94,8 +96,8 @@ Kỹ thuật viên thực hiện bắt buộc phải ghi chép nhật ký đo ki
 
 ## 6. Đánh Giá Trải Nghiệm Thực Tế & Nghiên Cứu Điển Hình (Case Study Tại VNPIS)
 
-Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ cho tập đoàn SamSung tại KCN VSIP Bắc Ninh gặp sự cố nghiêm trọng liên quan đến **cứu hộ đầu in ricoh gen5**. Tỷ lệ bong tróc logo trên vỏ nhựa ABS mạ crom lên đến 14.5%, khiến toàn bộ lô hàng 50.000 linh kiện đối mặt với nguy cơ bị từ chối xuất xưởng và phạt tiến độ hợp đồng.
-Đội ngũ ứng cứu kỹ thuật VNPIS do Kỹ Sư Trưởng Lưu Trọng Tâm trực tiếp chỉ đạo đã có mặt tại hiện trường trong vòng 6 giờ. Qua đo kiểm chuyên sâu bằng kính hiển vi và bút đo Dyne, chúng tôi phát hiện 2 nguyên nhân cốt lõi:
+Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ cho một tập đoàn công nghệ FDI lớn tại KCN VSIP Bắc Ninh gặp sự cố nghiêm trọng liên quan đến **cứu hộ đầu in ricoh gen5**. Tỷ lệ bong tróc logo trên vỏ nhựa ABS mạ crom lên đến 14.5%, khiến toàn bộ lô hàng 50.000 linh kiện đối mặt với nguy cơ bị từ chối xuất xưởng và phạt tiến độ hợp đồng.
+Đội ngũ ứng cứu kỹ thuật VNPIS do Kỹ Sư Trưởng Tâm Lưu trực tiếp chỉ đạo đã có mặt tại hiện trường trong vòng 6 giờ. Qua đo kiểm chuyên sâu bằng kính hiển vi và bút đo Dyne, chúng tôi phát hiện 2 nguyên nhân cốt lõi:
 1. Năng lượng bề mặt của lớp mạ crom chỉ đạt 34 dynes/cm (dưới ngưỡng tối thiểu 42 dynes/cm) do dư lượng dầu bôi trơn khuôn ép.
 2. Sử dụng đầu in silicon thông thường có độ cứng Shore 60A quá cao làm kẹt bóng khí tại góc bo R = 1.2 mm.
 **Giải pháp khắc phục của VNPIS:** Tích hợp đầu khò Plasma lạnh xử lý online đạt 46 dynes/cm, chuyển sang sử dụng Silicon Pad hình nón Shore 40A và mực chuyên dụng Henkey PET8000 pha Hardener 8000B tỷ lệ 10:1. Kết quả sau 4 giờ tinh chỉnh: Tỷ lệ lỗi giảm xuống **0.02%**, độ bám dính đạt chuẩn ASTM D3359 5B sau khi test cồn 90 độ 200 lần, giúp nhà máy kịp tiến độ giao hàng xuất khẩu.
