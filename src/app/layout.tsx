@@ -20,6 +20,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/",
   },
+  other: {
+    google: "notranslate",
+  },
 };
 
 import GoogleTranslate from "@/components/GoogleTranslate";
