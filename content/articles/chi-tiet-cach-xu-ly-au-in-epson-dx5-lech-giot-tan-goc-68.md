@@ -43,5 +43,5 @@ VNPIS tự hào là trung tâm cứu hộ đầu in số 1 Việt Nam. Nếu đ�
 
 ## 📌 Liên Kết Chủ Đề & Dịch Vụ Liên Quan (Topic Cluster Hub)
 * 🔗 **Xem chi tiết trang dịch vụ chính:** [Dịch vụ & Báo giá VNPIS Lab](https://cuuhodauin.com/articles)
-* 🔗 **Hỗ trợ kỹ thuật & Tư vấn 24/7:** [Hotline / Zalo VNPIS: 0987 453 866](https://zalo.me/0987453866)
+* 🔗 **Hỗ trợ kỹ thuật & Tư vấn 24/7:** [Mr. Tâm: 0987 453 866](https://zalo.me/0987453866) | [Mr. Kevin: 0909 718 296](https://zalo.me/0909718296)
 * 🔗 **Trang chủ chính thức:** [cuuhodauin.com](https://cuuhodauin.com)

@@ -113,7 +113,7 @@ Quy trình này giúp nhà máy **chủ động sản xuất** nhưng không ph�
 Nếu doanh nghiệp của bạn đang cần **gia công in QR số lượng lớn**, hãy liên hệ để được tư vấn chi tiết:
 
 **VNPIS Co., Ltd**  
-? **Mr. Tâm – 090 284 0344**  
-? **Email: info@vnpis.com**
+📞 **Hotline:** **Mr. Tâm: 0987 453 866** ([Zalo](https://zalo.me/0987453866) | [WhatsApp](https://wa.me/84987453866)) | **Mr. Kevin: 0909 718 296** ([Zalo](https://zalo.me/0909718296))
+📧 **Email:** info@vnpis.com
 
 Chúng tôi sẽ tư vấn **phương án triển khai, chi phí, tiến độ** phù hợp nhất với thực tế chuyền sản xuất của bạn.

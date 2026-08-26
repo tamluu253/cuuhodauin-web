@@ -30,7 +30,7 @@ slug: "xu-ly-dau-in-konica-1024i-dut-tia-mat-ap"
 # Xử Lý Hiện Tượng Đầu In Konica 1024i Bị Đứt Tia & Mất Áp Lực Buồng Mực
 
 ![Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay](/images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg)
-*Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay - Hotline hỗ trợ kỹ thuật: 0987 453 866*
+*Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay - Hotline hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296*
 
 ## 1. Đặt Vấn Đề Kỹ Thuật & Tầm Quan Trọng Của "cứu hộ đầu in konica 1024i" Trong Sản Xuất B2B
 
@@ -124,10 +124,10 @@ Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ 
 ## 💼 LIÊN HỆ ĐỘI NGŨ KỸ SƯ VNPIS - TƯ VẤN B2B & CSKH 24/7
 
 > 📞 **TƯ VẤN KỸ THUẬT & ỨNG CỨU SỰ CỐ 24/7**
-> Hotline / Zalo Kỹ Sư Trưởng: **[0987 453 866](tel:0987453866)**
+> Hotline / Zalo: Mr. Tâm: **[0987 453 866](tel:0987453866)** | Mr. Kevin: **[0909 718 296](tel:0909718296)**
 > *Xưởng & Phòng Lab VNPIS: 18 Đường số 4, KDC Đại Phúc Green Villas, Bình Hưng, Bình Chánh, TP.HCM.*
 
-[👉 **CHAT ZALO VỚI KỸ SƯ TRƯỞNG (0987 453 866)**](https://zalo.me/0987453866)
+[👉 **CHAT ZALO VỚI KỸ SƯ: Mr. Tâm (0987 453 866) | Mr. Kevin (0909 718 296)**](https://zalo.me/0987453866)
 
 ### 📝 ỨNG CỨU SỰ CỐ ĐẦU IN 24/7 - CHÍNH SÁCH NO CURE NO PAY
 

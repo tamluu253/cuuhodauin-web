@@ -70,7 +70,7 @@ Chúng tôi sẽ:
 Nếu nhà máy của bạn đang cần **in QR code truy xuất nguồn gốc** nhưng **không muốn đầu tư máy móc**, hãy liên hệ ngay:
 
 **VNPIS Co., Ltd**  
-? **Mr. Tâm: 090 284 0344**  
-? **Email: info@vnpis.com**
+📞 **Hotline:** **Mr. Tâm: 0987 453 866** ([Zalo](https://zalo.me/0987453866) | [WhatsApp](https://wa.me/84987453866)) | **Mr. Kevin: 0909 718 296** ([Zalo](https://zalo.me/0909718296))
+📧 **Email:** info@vnpis.com
 
 Chúng tôi sẽ tư vấn chi tiết **cách triển khai, chi phí, tiến độ và phương án phù hợp nhất cho chuyền sản xuất của bạn**.

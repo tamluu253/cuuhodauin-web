@@ -52,7 +52,7 @@ Tại VNPIS Lab, chúng tôi áp dụng quy trình cứu hộ 5 bước được
 > **TRUNG TÂM CỨU HỘ ĐẦU IN KỸ THUẬT SỐ VNPIS LAB** (MST: 0318266611)
 > * 🔬 **Lab Center 1 (Phòng Siêu Âm Cứu Hộ):** 62 Trần Thị Nơi, Phường Chánh Hưng (P.4, Q.8), TP. Hồ Chí Minh
 > * 🏢 **Trụ sở chính:** Tầng 1, 202 Lê Lai, Phường Bến Thành, TP. Hồ Chí Minh
-> * 📞 **Hotline/Zalo Cứu hộ 24/7:** 0987 453 866
+> * 📞 **Hotline/Zalo Cứu hộ 24/7:** Mr. Tâm: **0987 453 866** ([Zalo](https://zalo.me/0987453866)) | Mr. Kevin: **0909 718 296** ([Zalo](https://zalo.me/0909718296))
 > * ✉️ **Email tiếp nhận sự cố:** info@vnpis.com
 > * 🌐 **Website chính thức:** [https://cuuhodauin.com](https://cuuhodauin.com)
 
@@ -60,5 +60,5 @@ Tại VNPIS Lab, chúng tôi áp dụng quy trình cứu hộ 5 bước được
 
 ## 📌 Liên Kết Chủ Đề & Dịch Vụ Liên Quan (Topic Cluster Hub)
 * 🔗 **Xem chi tiết trang dịch vụ chính:** [Dịch vụ & Báo giá VNPIS Lab (cuuhodauin.com)](https://cuuhodauin.com/articles)
-* 🔗 **Hỗ trợ kỹ thuật & Tư vấn 24/7:** [Hotline / Zalo VNPIS: 0987 453 866](https://zalo.me/0987453866)
+* 🔗 **Hỗ trợ kỹ thuật & Tư vấn 24/7:** [Mr. Tâm: 0987 453 866](https://zalo.me/0987453866) | [Mr. Kevin: 0909 718 296](https://zalo.me/0909718296)
 * 🔗 **Trang chủ chính thức:** [cuuhodauin.com](https://cuuhodauin.com)

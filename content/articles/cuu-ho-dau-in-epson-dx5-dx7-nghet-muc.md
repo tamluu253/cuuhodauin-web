@@ -30,7 +30,7 @@ slug: "cuu-ho-dau-in-epson-dx5-dx7-nghet-muc"
 # Cứu Hộ Đầu In Epson DX5 / DX7 Bị Tắc Do Mực Chuyển Nhiệt & Eco-Solvent
 
 ![Quy trình thông tia súc rửa đầu in Epson i3200 U1 E1 chính hãng](/images/printheads/epson-i3200-precisioncore-microtfp-cleaning.jpg)
-*Quy trình thông tia súc rửa đầu in Epson i3200 U1 E1 chính hãng - Hotline hỗ trợ kỹ thuật: 0987 453 866*
+*Quy trình thông tia súc rửa đầu in Epson i3200 U1 E1 chính hãng - Hotline hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296*
 
 ## 1. Đặt Vấn Đề Kỹ Thuật & Tầm Quan Trọng Của "phục hồi đầu in epson dx5" Trong Sản Xuất B2B
 
@@ -127,10 +127,10 @@ Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ 
 ## 💼 LIÊN HỆ ĐỘI NGŨ KỸ SƯ VNPIS - TƯ VẤN B2B & CSKH 24/7
 
 > 📞 **TƯ VẤN KỸ THUẬT & ỨNG CỨU SỰ CỐ 24/7**
-> Hotline / Zalo Kỹ Sư Trưởng: **[0987 453 866](tel:0987453866)**
+> Hotline / Zalo: Mr. Tâm: **[0987 453 866](tel:0987453866)** | Mr. Kevin: **[0909 718 296](tel:0909718296)**
 > *Xưởng & Phòng Lab VNPIS: 18 Đường số 4, KDC Đại Phúc Green Villas, Bình Hưng, Bình Chánh, TP.HCM.*
 
-[👉 **CHAT ZALO VỚI KỸ SƯ TRƯỞNG (0987 453 866)**](https://zalo.me/0987453866)
+[👉 **CHAT ZALO VỚI KỸ SƯ: Mr. Tâm (0987 453 866) | Mr. Kevin (0909 718 296)**](https://zalo.me/0987453866)
 
 ### 📝 ỨNG CỨU SỰ CỐ ĐẦU IN 24/7 - CHÍNH SÁCH NO CURE NO PAY
 

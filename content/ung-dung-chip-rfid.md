@@ -77,7 +77,7 @@ Hãy khám phá **giải pháp chip RFID toàn diện từ VNPIS**, giúp doanh 
 
 ### ? Liên hệ tư vấn miễn phí
 
-* **Hotline:** 0902 840 344
+* **Hotline:** **Mr. Tâm: 0987 453 866** ([Zalo](https://zalo.me/0987453866) | [WhatsApp](https://wa.me/84987453866)) | **Mr. Kevin: 0909 718 296** ([Zalo](https://zalo.me/0909718296))
 * **Email:** info@vnpis.com
 * **Website:** <https://vnpis.com>
 

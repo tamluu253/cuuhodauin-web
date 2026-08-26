@@ -30,7 +30,7 @@ slug: "case-study-cuu-ho-dau-in-kyocera-kj4a"
 # Case Study: Cứu Hộ Thành Công Đầu In Kyocera KJ4A Tiết Kiệm 80 Triệu Đồng
 
 ![Cứu hộ và súc rửa sóng siêu âm đầu in Kyocera KJ4A UV Single Pass](/images/printheads/kyocera-kj4a-single-pass-restoration.jpg)
-*Cứu hộ và súc rửa sóng siêu âm đầu in Kyocera KJ4A UV Single Pass - Hotline hỗ trợ kỹ thuật: 0987 453 866*
+*Cứu hộ và súc rửa sóng siêu âm đầu in Kyocera KJ4A UV Single Pass - Hotline hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296*
 
 ## 1. Đặt Vấn Đề Kỹ Thuật & Tầm Quan Trọng Của "cứu hộ đầu in kyocera kj4a" Trong Sản Xuất B2B
 
@@ -127,10 +127,10 @@ Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ 
 ## 💼 LIÊN HỆ ĐỘI NGŨ KỸ SƯ VNPIS - TƯ VẤN B2B & CSKH 24/7
 
 > 📞 **TƯ VẤN KỸ THUẬT & ỨNG CỨU SỰ CỐ 24/7**
-> Hotline / Zalo Kỹ Sư Trưởng: **[0987 453 866](tel:0987453866)**
+> Hotline / Zalo: Mr. Tâm: **[0987 453 866](tel:0987453866)** | Mr. Kevin: **[0909 718 296](tel:0909718296)**
 > *Xưởng & Phòng Lab VNPIS: 18 Đường số 4, KDC Đại Phúc Green Villas, Bình Hưng, Bình Chánh, TP.HCM.*
 
-[👉 **CHAT ZALO VỚI KỸ SƯ TRƯỞNG (0987 453 866)**](https://zalo.me/0987453866)
+[👉 **CHAT ZALO VỚI KỸ SƯ: Mr. Tâm (0987 453 866) | Mr. Kevin (0909 718 296)**](https://zalo.me/0987453866)
 
 ### 📝 ỨNG CỨU SỰ CỐ ĐẦU IN 24/7 - CHÍNH SÁCH NO CURE NO PAY
 

@@ -30,7 +30,7 @@ slug: "case-study-cuu-ho-konica-1024i-thanh-cong"
 # Case Study: Cứu Hộ Đầu In Konica 1024i Đứt Hơn 40% Tia Khôi Phục Đạt 95%
 
 ![Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay](/images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg)
-*Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay - Hotline hỗ trợ kỹ thuật: 0987 453 866*
+*Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay - Hotline hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296*
 
 ## 1. Đặt Vấn Đề Kỹ Thuật & Tầm Quan Trọng Của "phục hồi đầu phun konica km512i lnb mất áp lực" Trong Sản Xuất B2B
 
@@ -124,10 +124,10 @@ Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ 
 ## 💼 LIÊN HỆ ĐỘI NGŨ KỸ SƯ VNPIS - TƯ VẤN B2B & CSKH 24/7
 
 > 📞 **TƯ VẤN KỸ THUẬT & ỨNG CỨU SỰ CỐ 24/7**
-> Hotline / Zalo Kỹ Sư Trưởng: **[0987 453 866](tel:0987453866)**
+> Hotline / Zalo: Mr. Tâm: **[0987 453 866](tel:0987453866)** | Mr. Kevin: **[0909 718 296](tel:0909718296)**
 > *Xưởng & Phòng Lab VNPIS: 18 Đường số 4, KDC Đại Phúc Green Villas, Bình Hưng, Bình Chánh, TP.HCM.*
 
-[👉 **CHAT ZALO VỚI KỸ SƯ TRƯỞNG (0987 453 866)**](https://zalo.me/0987453866)
+[👉 **CHAT ZALO VỚI KỸ SƯ: Mr. Tâm (0987 453 866) | Mr. Kevin (0909 718 296)**](https://zalo.me/0987453866)
 
 ### 📝 ỨNG CỨU SỰ CỐ ĐẦU IN 24/7 - CHÍNH SÁCH NO CURE NO PAY
 
