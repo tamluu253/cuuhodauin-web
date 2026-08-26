@@ -3,6 +3,7 @@ import { notFound, redirect } from "next/navigation";
 import Link from "next/link";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 import { Metadata } from "next";
 
 export const dynamicParams = true;
@@ -92,7 +93,7 @@ export default function ArticlePage({ params }: { params: { slug: string } }) {
       {/* Article Content */}
       <article className="max-w-4xl mx-auto px-4 sm:px-6 py-12 sm:py-16">
         <div className="prose prose-lg prose-slate max-w-none prose-headings:font-bold prose-headings:text-navy-900 prose-a:text-blue-600 hover:prose-a:text-blue-800 prose-img:rounded-xl prose-img:shadow-md">
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+          <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
             {cleanContent}
           </ReactMarkdown>
         </div>
