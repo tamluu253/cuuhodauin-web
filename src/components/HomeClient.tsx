@@ -666,7 +666,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
                 src={
                   activeMap === 'factory'
                     ? 'https://maps.google.com/maps?q=PM9J%2BRC+B%C3%ACnh+H%C6%B0ng,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam&t=&z=17&ie=UTF8&iwloc=&output=embed'
-                    : 'https://maps.google.com/maps?q=10.7412,106.6715&t=&z=17&ie=UTF8&iwloc=&output=embed'
+                    : 'https://maps.google.com/maps?q=PMQG%2BVM+Ch%C3%A1nh+H%C6%B0ng,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam&t=&z=17&ie=UTF8&iwloc=&output=embed'
                 }
                 className="w-full h-full border-0"
                 allowFullScreen
@@ -685,7 +685,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
                 href={
                   activeMap === 'factory'
                     ? 'https://www.google.com/maps/search/?api=1&query=PM9J%2BRC+B%C3%ACnh+H%C6%B0ng,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam'
-                    : 'https://www.google.com/maps/search/?api=1&query=10.7412,106.6715'
+                    : 'https://www.google.com/maps/search/?api=1&query=PMQG%2BVM+Ch%C3%A1nh+H%C6%B0ng,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam'
                 }
                 target="_blank"
                 rel="noopener noreferrer"

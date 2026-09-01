@@ -26,7 +26,7 @@ export default function SchemaOrg() {
           "latitude": 10.7412,
           "longitude": 106.6715
         },
-        "hasMap": "https://share.google/N6YpipmVmhVDnLSBA",
+        "hasMap": "https://www.google.com/maps/search/?api=1&query=PMQG%2BVM+Ch%C3%A1nh+H%C6%B0ng,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam",
         "description": "VNPIS Lab chuyên cứu hộ, soi Nozzle 4K, đo trở kháng Piezo và phục hồi đầu in phun công nghiệp Ricoh Gen5/Gen6, Kyocera, Konica, Epson, CIJ & TIJ.",
         "sameAs": [
           "https://zalo.me/0987453866"
