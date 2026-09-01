@@ -9,6 +9,8 @@ export interface ArticleMetadata {
   category: string;
   printhead: string;
   slug: string;
+  draft?: boolean;
+  status?: string;
 }
 
 export interface Article {
@@ -46,6 +48,8 @@ export function getArticleBySlug(slug: string): Article | null {
       category: data.category || 'Khác',
       printhead: data.printhead || 'Khác',
       slug: realSlug,
+      draft: data.draft ?? false,
+      status: data.status || 'published',
     },
     content,
   };

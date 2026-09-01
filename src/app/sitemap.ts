@@ -5,12 +5,14 @@ const DOMAIN = 'https://cuuhodauin.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles();
-  const blogEntries: MetadataRoute.Sitemap = articles.map((post) => ({
-    url: `${DOMAIN}/kien-thuc/${post.slug}`,
-    lastModified: new Date(post.date || Date.now()),
-    changeFrequency: 'weekly',
-    priority: 0.8,
-  }));
+  const blogEntries: MetadataRoute.Sitemap = articles
+    .filter((post) => post.draft !== true && post.status !== 'draft')
+    .map((post) => ({
+      url: `${DOMAIN}/kien-thuc/${post.slug}`,
+      lastModified: new Date(post.date || Date.now()),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    }));
 
   return [
     {

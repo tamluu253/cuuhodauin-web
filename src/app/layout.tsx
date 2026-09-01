@@ -4,6 +4,9 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://cuuhodauin.com"),
+  alternates: {
+    canonical: "/",
+  },
   title: "VNPIS Lab — Trung tâm Cứu hộ Đầu in Kỹ thuật số số 1 Việt Nam | cuuhodauin.com",
   description: "VNPIS Lab — Dịch vụ chuyên sâu cứu hộ, phục hồi, soi Nozzle 4K và sửa chữa đầu in phun công nghiệp Ricoh Gen5/6, Kyocera, Konica 1024i, Epson I3200, CIJ & TIJ. Cam kết No Cure - No Pay.",
   icons: {
@@ -17,15 +20,13 @@ export const metadata: Metadata = {
       { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
     ],
   },
-  alternates: {
-    canonical: "/",
-  },
   other: {
     google: "notranslate",
   },
 };
 
 import GoogleTranslate from "@/components/GoogleTranslate";
+import SchemaOrg from "@/components/SchemaOrg";
 
 export default function RootLayout({
   children,
@@ -53,6 +54,7 @@ export default function RootLayout({
         </Script>
       </head>
       <body className="font-sans text-slate-700 bg-slate-50 antialiased">
+        <SchemaOrg />
         <GoogleTranslate />
         {children}
       </body>

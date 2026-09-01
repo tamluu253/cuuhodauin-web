@@ -20,12 +20,15 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const article = getArticleBySlug(params.slug);
   if (!article) return { title: "Kho Kiến Thức Cứu Hộ Đầu In | VNPIS Lab" };
   
+  const isDraft = article.metadata.draft === true || article.metadata.status === 'draft';
+  
   return {
     title: `${article.metadata.title} | VNPIS Lab`,
     description: article.metadata.description,
     alternates: {
-      canonical: `/kien-thuc/${params.slug}`,
+      canonical: `https://cuuhodauin.com/kien-thuc/${params.slug}`,
     },
+    ...(isDraft ? { robots: { index: false, follow: false } } : {}),
   };
 }
 

@@ -24,6 +24,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
   const [isMobileLangOpen, setIsMobileLangOpen] = useState(false);
   const [isDesktopLangOpen, setIsDesktopLangOpen] = useState(false);
   const [currentLang, setCurrentLang] = useState<string>('vi');
+  const [activeMap, setActiveMap] = useState<'lab' | 'factory'>('lab');
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -620,6 +621,79 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
                 </button>
               </form>
             )}
+          </div>
+
+          {/* Embedded Google Maps with Location Selector Tabs */}
+          <div className="mt-12 bg-slate-50 border border-slate-200 p-4 sm:p-6 rounded-3xl shadow-lg">
+            <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-4 pb-4 border-b border-slate-200">
+              <div>
+                <span className="text-xs font-bold text-navy-900 uppercase tracking-wider block">📍 Bản Đồ Định Vị &amp; Chỉ Đường Google Maps</span>
+                <h3 className="text-lg font-bold text-navy-950 mt-0.5">VNPIS Lab Center &amp; Xưởng Sản Xuất</h3>
+              </div>
+              <div className="flex flex-wrap gap-2">
+                <button
+                  type="button"
+                  onClick={() => setActiveMap('lab')}
+                  className={`px-4 py-2 rounded-xl text-xs font-bold transition-all ${
+                    activeMap === 'lab'
+                      ? 'bg-navy-900 text-amber-400 shadow-md'
+                      : 'bg-white text-slate-600 border border-slate-200 hover:bg-slate-100'
+                  }`}
+                >
+                  🔬 Lab Center (62 Trần Thị Nơi)
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setActiveMap('factory')}
+                  className={`px-4 py-2 rounded-xl text-xs font-bold transition-all ${
+                    activeMap === 'factory'
+                      ? 'bg-navy-900 text-amber-400 shadow-md'
+                      : 'bg-white text-slate-600 border border-slate-200 hover:bg-slate-100'
+                  }`}
+                >
+                  🏬 Xưởng / KD 2 (18 Đường số 4)
+                </button>
+              </div>
+            </div>
+
+            <div className="w-full h-[400px] rounded-2xl overflow-hidden border border-slate-200 relative">
+              <iframe
+                title={
+                  activeMap === 'lab'
+                    ? 'Bản đồ Lab Center 1 VNPIS (62 Trần Thị Nơi, TP.HCM)'
+                    : 'Bản đồ Xưởng 2 VNPIS (18 Đường số 4, KDC Đại Phúc, TP.HCM)'
+                }
+                src={
+                  activeMap === 'lab'
+                    ? 'https://maps.google.com/maps?q=62+Tr%E1%BA%A7n+Th%E1%BB%8B+N%C6%A1i,+Ph%C6%B0%E1%BB%9Dng+Ch%C3%A1nh+H%C6%B0ng,+TP.+H%E1%BB%93+Ch%C3%AD+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed'
+                    : 'https://maps.google.com/maps?q=18+%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+4,+KDC+%C4%90%E1%BA%A1i+Ph%C3%BAc+Green+Villas,+B%C3%ACnh+H%C6%B0ng,+TP.+H%E1%BB%93+Ch%C3%AD+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed'
+                }
+                className="w-full h-full border-0"
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+              />
+            </div>
+
+            <div className="mt-4 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs">
+              <span className="text-slate-600">
+                {activeMap === 'lab'
+                  ? '📍 Lab Center 1: 62 Trần Thị Nơi, Phường Chánh Hưng, TP. Hồ Chí Minh'
+                  : '📍 Địa điểm KD 2 / Xưởng: 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP.HCM'}
+              </span>
+              <a
+                href={
+                  activeMap === 'lab'
+                    ? 'https://maps.google.com/?q=62+Tr%E1%BA%A7n+Th%E1%BB%8B+N%C6%A1i,+Ph%C6%B0%E1%BB%9Dng+Ch%C3%A1nh+H%C6%B0ng,+TP.+H%E1%BB%93+Ch%C3%AD+Minh'
+                    : 'https://share.google/N6YpipmVmhVDnLSBA'
+                }
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 px-4 py-2 bg-amber-400 hover:bg-amber-300 text-navy-950 font-bold rounded-xl shadow-sm transition-colors"
+              >
+                <span>Mở Chỉ Đường Trực Tiếp Trên Google Maps 🗺️</span>
+              </a>
+            </div>
           </div>
         </div>
       </section>

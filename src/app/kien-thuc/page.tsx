@@ -5,6 +5,9 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Kho 277 Bài Viết Chuyên Ngành Cứu Hộ Đầu In | VNPIS Lab",
   description: "Tổng hợp toàn bộ kiến thức chuyên sâu về xử lý sự cố nghẹt đầu in, lựa chọn mực in chuyên dụng và quy trình bảo vệ linh kiện ngành in kỹ thuật số.",
+  alternates: {
+    canonical: "https://cuuhodauin.com/kien-thuc",
+  },
 };
 
 export default function BlogListingPage() {
