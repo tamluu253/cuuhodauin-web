@@ -660,13 +660,13 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
               <iframe
                 title={
                   activeMap === 'factory'
-                    ? 'Bản đồ Xưởng 2 VNPIS (18 Đường số 4, KDC Đại Phúc, Bình Hưng, TP.HCM)'
+                    ? 'Bản đồ Xưởng 2 VNPIS (18 Đường số 4, KDC Đại Phúc Green Villas, Bình Hưng, TP.HCM)'
                     : 'Bản đồ Lab Center 1 VNPIS (62 Trần Thị Nơi, Chánh Hưng, TP.HCM)'
                 }
                 src={
                   activeMap === 'factory'
-                    ? 'https://maps.google.com/maps?q=18+%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+4,+KDC+%C4%90%E1%BA%A1i+Ph%C3%BAc+Green+Villas,+B%C3%ACnh+H%C6%B0ng,+TP.+H%E1%BB%93+Ch%C3%AD+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed'
-                    : 'https://maps.google.com/maps?q=62+Tr%E1%BA%A7n+Th%E1%BB%8B+N%C6%A1i,+Ph%C6%B0%E1%BB%9Dng+Ch%C3%A1nh+H%C6%B0ng,+TP.+H%E1%BB%93+Ch%C3%AD+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed'
+                    ? 'https://maps.google.com/maps?q=10.7289,106.6663&t=&z=17&ie=UTF8&iwloc=&output=embed'
+                    : 'https://maps.google.com/maps?q=10.7412,106.6715&t=&z=17&ie=UTF8&iwloc=&output=embed'
                 }
                 className="w-full h-full border-0"
                 allowFullScreen
@@ -684,8 +684,8 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
               <a
                 href={
                   activeMap === 'factory'
-                    ? 'https://www.google.com/maps/search/?api=1&query=18+Đường+số+4,+KDC+Đại+Phúc+Green+Villas,+Xã+Bình+Hưng,+TP.+Hồ+Chí+Minh'
-                    : 'https://www.google.com/maps/search/?api=1&query=62+Trần+Thị+Nơi,+Phường+Chánh+Hưng,+TP.+Hồ+Chí+Minh'
+                    ? 'https://www.google.com/maps/search/?api=1&query=10.7289,106.6663'
+                    : 'https://www.google.com/maps/search/?api=1&query=10.7412,106.6715'
                 }
                 target="_blank"
                 rel="noopener noreferrer"
