@@ -55,11 +55,6 @@ const nextConfig = {
         destination: '/sitemap.xml',
         permanent: true,
       },
-      {
-        source: '/:slug((?!google).+).html',
-        destination: '/kien-thuc/:slug',
-        permanent: true,
-      },
     ];
   },
 };
