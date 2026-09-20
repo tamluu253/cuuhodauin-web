@@ -56,7 +56,7 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: '/:slug.html',
+        source: '/:slug((?!google).+).html',
         destination: '/kien-thuc/:slug',
         permanent: true,
       },
