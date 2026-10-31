@@ -10,6 +10,10 @@ date: '2026-08-21'
 author: VNPIS Lab Technical Team
 category: Cứu Hộ & Phục Hồi Đầu In
 printhead: Ricoh
+description: >-
+  Đầu in phun kỹ thuật số (Ricoh, Epson, Konica, Kyocera, Seiko) là bộ phận có
+  giá trị cao nhất trong các hệ thống máy in công nghiệp. Việc đầu in bị
+  nghẹt...
 ---
 Đầu in phun kỹ thuật số (Ricoh, Epson, Konica, Kyocera, Seiko) là bộ phận có giá trị cao nhất trong các hệ thống máy in công nghiệp. Việc đầu in bị **nghẹt tia, lệch tia, thông kênh hoặc mất màu** nếu không được xử lý đúng kỹ thuật sẽ gây thiệt hại hàng chục triệu đồng và làm ngắt quãng tiến độ sản xuất của xưởng.
 

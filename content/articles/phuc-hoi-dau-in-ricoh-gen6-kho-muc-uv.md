@@ -1,30 +1,33 @@
 ---
-title: "Phục Hồi Đầu In Ricoh Gen6 MH5320 Giọt Mực 5pL Bị Khô Mực UV"
+title: Phục Hồi Đầu In Ricoh Gen6 MH5320 Giọt Mực 5pL Bị Khô Mực UV
 keywords:
-  - "phục hồi đầu in ricoh gen6"
-  - "cứu hộ đầu in ricoh mh5320"
-  - "sửa đầu in ricoh gen6 giọt 5pl mất kênh"
-  - "thông nghẹt đầu phun ricoh gen6 uv"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Cứu Hộ & Phục Hồi Đầu In Ricoh Gen5 / Gen6"
-canonical: "https://cuuhodauin.com/kien-thuc/phuc-hoi-dau-in-ricoh-gen6-kho-muc-uv"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - phục hồi đầu in ricoh gen6
+  - cứu hộ đầu in ricoh mh5320
+  - sửa đầu in ricoh gen6 giọt 5pl mất kênh
+  - thông nghẹt đầu phun ricoh gen6 uv
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Cứu Hộ & Phục Hồi Đầu In Ricoh Gen5 / Gen6
+canonical: 'https://cuuhodauin.com/kien-thuc/phuc-hoi-dau-in-ricoh-gen6-kho-muc-uv'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/ricoh-gen5-gen6-recovery-vnpis-lab.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/ricoh-gen5-gen6-recovery-vnpis-lab.jpg
+mediaExt: .jpg
 tags:
-  - "phục hồi đầu in ricoh gen6"
-  - "cứu hộ đầu in ricoh mh5320"
-  - "sửa đầu in ricoh gen6 giọt 5pl mất kênh"
-  - "thông nghẹt đầu phun ricoh gen6 uv"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - phục hồi đầu in ricoh gen6
+  - cứu hộ đầu in ricoh mh5320
+  - sửa đầu in ricoh gen6 giọt 5pl mất kênh
+  - thông nghẹt đầu phun ricoh gen6 uv
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3489
-domain: "cuuhodauin.com"
-slug: "phuc-hoi-dau-in-ricoh-gen6-kho-muc-uv"
+domain: cuuhodauin.com
+slug: phuc-hoi-dau-in-ricoh-gen6-kho-muc-uv
+description: >-
+  Phục hồi cứu hộ đầu in Ricoh Gen5 Gen6 tại Phòng Lab VNPIS Bình Chánh -
+  Hotline hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Phục Hồi Đầu In Ricoh Gen6 MH5320 Giọt Mực 5pL Bị Khô Mực UV

@@ -25,6 +25,30 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
   const [isDesktopLangOpen, setIsDesktopLangOpen] = useState(false);
   const [currentLang, setCurrentLang] = useState<string>('vi');
   const [activeMap, setActiveMap] = useState<'factory' | 'lab'>('factory');
+  const [openFaq, setOpenFaq] = useState<number | null>(0);
+
+  const faqs = [
+    {
+      q: "Chính sách No Cure - No Pay tại VNPIS Lab là gì?",
+      a: "Cam kết No Cure - No Pay nghĩa là: nếu VNPIS Lab không phục hồi được đầu in đạt chuẩn thông tia (tối thiểu từ 85%-95% tùy loại), khách hàng hoàn toàn không phải thanh toán bất kỳ chi phí cứu hộ nào. Quý khách chỉ thanh toán khi nghiệm thu video bắn test xung Waterfall thực tế đạt yêu cầu."
+    },
+    {
+      q: "VNPIS Lab tiếp nhận cứu hộ những dòng đầu in nào?",
+      a: "VNPIS Lab tiếp nhận cứu hộ chuyên sâu tất cả các dòng đầu in công nghiệp: Ricoh Gen5 (MH5420/5440), Ricoh Gen6 (MH5320/5340), Kyocera KJ4A/KJ4B, Konica Minolta 1024i/512i, Epson I3200/DX5/DX7/XP600, béc phun máy in date công nghiệp CIJ (Videojet, Domino, Linx, Markem-Imaje) và hộp mực nhiệt TIJ."
+    },
+    {
+      q: "Thời gian chẩn đoán và cứu hộ một đầu in mất bao lâu?",
+      a: "Thời gian chẩn đoán soi Nozzle 4K và đo trở kháng Piezo diễn ra trong vòng 2-4 giờ làm việc. Quy trình sục rửa vi tuần hoàn áp âm và chạy siêu âm gia nhiệt thường kéo dài từ 24 đến 48 giờ tùy theo mức độ khô cứng của mực UV hoặc cặn mực."
+    },
+    {
+      q: "Khách hàng ở các tỉnh xa ngoài TP.HCM gửi đầu in cứu hộ như thế nào?",
+      a: "Khách hàng chỉ cần đóng gói đầu in cẩn thận (giữ ẩm bề mặt bằng dung môi chuyên dụng, chèn xốp chống va đập) và gửi qua các đơn vị chuyển phát nhanh như Viettel Post, Kerry, EMS hoặc gửi nhà xe về địa chỉ Lab Center 1: 62 Trần Thị Nơi, Phường Chánh Hưng, TP. Hồ Chí Minh (Hotline/Zalo tiếp nhận: 0987 453 866). Lab sẽ quay video mở hộp và cập nhật mã tra cứu QR cho khách hàng theo dõi trực tuyến."
+    },
+    {
+      q: "Tỷ lệ cứu hộ thành công đầu in tại VNPIS Lab đạt bao nhiêu phần trăm?",
+      a: "Đối với các đầu in bị nghẹt mực UV, mực dầu hoặc để khô lâu ngày không bị chập cháy mạch điện tử, tỷ lệ phục hồi thành công tại VNPIS Lab đạt từ 90% đến 98%. Trường hợp đầu in bị chập IC điều khiển hoặc trầy xước nặng bề mặt Nozzle Plate, kỹ sư Lab sẽ thông báo trung thực ngay sau khi soi 4K để tránh phát sinh chi phí lãng phí cho khách hàng."
+    }
+  ];
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -116,6 +140,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
                 📚 Blog / Kiến Thức
               </Link>
               <a href="#tra-cuu-qr" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Tra Cứu QR</a>
+              <a href="#hoi-dap" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Hỏi Đáp FAQ</a>
               <a href="#lien-he" className="text-navy-100 hover:text-white text-sm font-medium transition-colors">Liên Hệ VNPIS</a>
             </nav>
 
@@ -250,6 +275,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
               <a href="#dau-in-ho-tro" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Đầu In Hỗ Trợ</a>
               <Link href="/kien-thuc" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-amber-300 font-bold hover:text-white hover:bg-navy-800 rounded-md text-sm">📚 Blog / Kiến Thức</Link>
               <a href="#tra-cuu-qr" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Tra Cứu QR Video</a>
+              <a href="#hoi-dap" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Hỏi Đáp FAQ</a>
               <a href="#lien-he" onClick={() => setMobileMenuOpen(false)} className="block px-3 py-2 text-navy-100 hover:text-white hover:bg-navy-800 rounded-md text-sm">Liên Hệ VNPIS</a>
             </nav>
           )}
@@ -297,7 +323,7 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
               🚀 Gửi Đầu In Chẩn Đoán Miễn Phí
             </a>
             <Link href="/kien-thuc" className="w-full sm:w-auto px-8 py-4 bg-navy-800 text-white font-semibold rounded-xl border border-navy-600 hover:bg-navy-700 transition-colors text-base">
-              📚 Đọc 121 Bài Viết Kiến Thức Cứu Hộ
+              📚 Khám Phá Gần 300 Bài Viết Cứu Hộ
             </Link>
           </div>
         </div>
@@ -514,6 +540,69 @@ export default function HomeClient({ latestArticles }: { latestArticles: Article
                 </form>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Câu Hỏi Thường Gặp (FAQ) - Khách Hàng & AI Search Overviews */}
+      <section id="hoi-dap" className="py-16 sm:py-24 bg-slate-50 border-t border-slate-200">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <div className="text-center mb-12">
+            <span className="px-4 py-1.5 bg-navy-100 text-navy-800 text-xs font-bold rounded-full uppercase tracking-wider">
+              Giải Đáp Thắc Mắc &amp; Chính Sách Lab
+            </span>
+            <h2 className="text-2xl sm:text-3xl font-bold text-navy-900 mt-3">
+              Câu Hỏi Thường Gặp Về Dịch Vụ Cứu Hộ Đầu In
+            </h2>
+            <p className="mt-3 text-slate-600 text-sm sm:text-base max-w-2xl mx-auto">
+              Tất cả những thông tin kỹ thuật, cam kết bảo hành và quy trình tiếp nhận đầu in phun công nghiệp tại VNPIS Lab.
+            </p>
+          </div>
+
+          <div className="space-y-4">
+            {faqs.map((faq, idx) => {
+              const isOpen = openFaq === idx;
+              return (
+                <div
+                  key={idx}
+                  className="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden transition-all duration-200"
+                >
+                  <button
+                    type="button"
+                    onClick={() => setOpenFaq(isOpen ? null : idx)}
+                    className="w-full text-left p-5 sm:p-6 flex items-center justify-between gap-4 font-bold text-navy-950 text-base sm:text-lg hover:text-amber-600 transition-colors"
+                  >
+                    <span className="flex items-center gap-3">
+                      <span className="w-8 h-8 rounded-lg bg-navy-50 text-navy-800 text-xs font-extrabold flex items-center justify-center shrink-0">
+                        0{idx + 1}
+                      </span>
+                      {faq.q}
+                    </span>
+                    <span className={`text-xl transition-transform duration-200 shrink-0 ${isOpen ? 'rotate-180 text-amber-500' : 'text-slate-400'}`}>
+                      ▾
+                    </span>
+                  </button>
+                  {isOpen && (
+                    <div className="px-5 sm:px-6 pb-6 pt-1 text-slate-600 text-sm sm:text-base leading-relaxed border-t border-slate-100">
+                      {faq.a}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+
+          <div className="mt-10 p-6 bg-gradient-to-r from-navy-900 to-navy-800 rounded-2xl text-white text-center sm:text-left flex flex-col sm:flex-row items-center justify-between gap-4 shadow-lg">
+            <div>
+              <p className="font-bold text-base text-amber-300">Bạn còn câu hỏi khác về tình trạng đầu in của mình?</p>
+              <p className="text-xs text-navy-200 mt-0.5">Gọi ngay hotline kỹ thuật 24/7 để kỹ sư trưởng VNPIS hỗ trợ trực tiếp.</p>
+            </div>
+            <a
+              href="tel:0987453866"
+              className="shrink-0 px-6 py-2.5 bg-amber-400 text-navy-950 font-bold rounded-xl hover:bg-amber-300 transition-colors text-sm shadow-md"
+            >
+              📞 0987 453 866 (Zalo)
+            </a>
           </div>
         </div>
       </section>

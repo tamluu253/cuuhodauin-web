@@ -1,30 +1,33 @@
 ---
-title: "Tinh Chỉnh Xung Waveform & Điện Áp Drive Voltage Ngăn Ngừa Cháy Thạch Anh"
+title: Tinh Chỉnh Xung Waveform & Điện Áp Drive Voltage Ngăn Ngừa Cháy Thạch Anh
 keywords:
-  - "tinh chỉnh đồ thị xung waveform đầu in"
-  - "cài đặt điện áp drive voltage đầu phun"
-  - "tối ưu tia phun bằng hiệu chỉnh waveform"
-  - "khắc phục cháy thạch anh do sai điện áp"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Kỹ Thuật Chẩn Đoán Phòng Lab & Bảo Dưỡng Phòng Ngừa"
-canonical: "https://cuuhodauin.com/kien-thuc/tinh-chinh-waveform-drive-voltage-dau-in"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - tinh chỉnh đồ thị xung waveform đầu in
+  - cài đặt điện áp drive voltage đầu phun
+  - tối ưu tia phun bằng hiệu chỉnh waveform
+  - khắc phục cháy thạch anh do sai điện áp
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Kỹ Thuật Chẩn Đoán Phòng Lab & Bảo Dưỡng Phòng Ngừa
+canonical: 'https://cuuhodauin.com/kien-thuc/tinh-chinh-waveform-drive-voltage-dau-in'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "tinh chỉnh đồ thị xung waveform đầu in"
-  - "cài đặt điện áp drive voltage đầu phun"
-  - "tối ưu tia phun bằng hiệu chỉnh waveform"
-  - "khắc phục cháy thạch anh do sai điện áp"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - tinh chỉnh đồ thị xung waveform đầu in
+  - cài đặt điện áp drive voltage đầu phun
+  - tối ưu tia phun bằng hiệu chỉnh waveform
+  - khắc phục cháy thạch anh do sai điện áp
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3490
-domain: "cuuhodauin.com"
-slug: "tinh-chinh-waveform-drive-voltage-dau-in"
+domain: cuuhodauin.com
+slug: tinh-chinh-waveform-drive-voltage-dau-in
+description: >-
+  Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay - Hotline
+  hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Tinh Chỉnh Xung Waveform & Điện Áp Drive Voltage Ngăn Ngừa Cháy Thạch Anh

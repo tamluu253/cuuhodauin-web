@@ -1,30 +1,33 @@
 ---
-title: "Quy Trình 5 Bước Cứu Hộ Đầu In Ricoh Gen5 Nghẹt Tia Bằng Sóng Siêu Âm Kép"
+title: Quy Trình 5 Bước Cứu Hộ Đầu In Ricoh Gen5 Nghẹt Tia Bằng Sóng Siêu Âm Kép
 keywords:
-  - "cứu hộ đầu in ricoh gen5"
-  - "sửa đầu in ricoh gen5 nghẹt tia uv"
-  - "phục hồi đầu in ricoh gen5 đứt tia"
-  - "súc rửa siêu âm đầu in ricoh mh5420"
-date: "2026-09-06"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Cứu Hộ & Phục Hồi Đầu In Ricoh Gen5 / Gen6"
-canonical: "https://cuuhodauin.com/kien-thuc/quy-trinh-cuu-ho-dau-in-ricoh-gen5"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - cứu hộ đầu in ricoh gen5
+  - sửa đầu in ricoh gen5 nghẹt tia uv
+  - phục hồi đầu in ricoh gen5 đứt tia
+  - súc rửa siêu âm đầu in ricoh mh5420
+date: '2026-09-06'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Cứu Hộ & Phục Hồi Đầu In Ricoh Gen5 / Gen6
+canonical: 'https://cuuhodauin.com/kien-thuc/quy-trinh-cuu-ho-dau-in-ricoh-gen5'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/printheads/ricoh-gen5-gen6-recovery-vnpis-lab.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/ricoh-gen5-gen6-recovery-vnpis-lab.jpg
+mediaExt: .jpg
 tags:
-  - "cứu hộ đầu in ricoh gen5"
-  - "sửa đầu in ricoh gen5 nghẹt tia uv"
-  - "phục hồi đầu in ricoh gen5 đứt tia"
-  - "súc rửa siêu âm đầu in ricoh mh5420"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - cứu hộ đầu in ricoh gen5
+  - sửa đầu in ricoh gen5 nghẹt tia uv
+  - phục hồi đầu in ricoh gen5 đứt tia
+  - súc rửa siêu âm đầu in ricoh mh5420
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3495
-domain: "cuuhodauin.com"
-slug: "quy-trinh-cuu-ho-dau-in-ricoh-gen5"
+domain: cuuhodauin.com
+slug: quy-trinh-cuu-ho-dau-in-ricoh-gen5
+description: >-
+  Phục hồi cứu hộ đầu in Ricoh Gen5 Gen6 tại Phòng Lab VNPIS Bình Chánh -
+  Hotline hỗ trợ kỹ thuật: 0987 453 866
 ---
 
 # Quy Trình 5 Bước Cứu Hộ Đầu In Ricoh Gen5 Nghẹt Tia Bằng Sóng Siêu Âm Kép

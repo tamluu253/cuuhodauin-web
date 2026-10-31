@@ -1,30 +1,33 @@
 ---
-title: "Báo Giá Dịch Vụ Phục Hồi Đầu In Phun Công Nghiệp – Cam Kết No Cure No Pay"
+title: Báo Giá Dịch Vụ Phục Hồi Đầu In Phun Công Nghiệp – Cam Kết No Cure No Pay
 keywords:
-  - "báo giá dịch vụ phục hồi đầu in no cure no pay"
-  - "súc rửa siêu âm tần số kép 28khz 40khz"
-  - "dung dịch ngâm rửa vnpis flush solution"
-  - "cam kết cứu hộ đầu in không được không tính tiền"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Kỹ Thuật Chẩn Đoán Phòng Lab & Bảo Dưỡng Phòng Ngừa"
-canonical: "https://cuuhodauin.com/kien-thuc/bao-gia-phuc-hoi-dau-in-cong-nghiep"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - báo giá dịch vụ phục hồi đầu in no cure no pay
+  - súc rửa siêu âm tần số kép 28khz 40khz
+  - dung dịch ngâm rửa vnpis flush solution
+  - cam kết cứu hộ đầu in không được không tính tiền
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Kỹ Thuật Chẩn Đoán Phòng Lab & Bảo Dưỡng Phòng Ngừa
+canonical: 'https://cuuhodauin.com/kien-thuc/bao-gia-phuc-hoi-dau-in-cong-nghiep'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "báo giá dịch vụ phục hồi đầu in no cure no pay"
-  - "súc rửa siêu âm tần số kép 28khz 40khz"
-  - "dung dịch ngâm rửa vnpis flush solution"
-  - "cam kết cứu hộ đầu in không được không tính tiền"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - báo giá dịch vụ phục hồi đầu in no cure no pay
+  - súc rửa siêu âm tần số kép 28khz 40khz
+  - dung dịch ngâm rửa vnpis flush solution
+  - cam kết cứu hộ đầu in không được không tính tiền
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3567
-domain: "cuuhodauin.com"
-slug: "bao-gia-phuc-hoi-dau-in-cong-nghiep"
+domain: cuuhodauin.com
+slug: bao-gia-phuc-hoi-dau-in-cong-nghiep
+description: >-
+  Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay - Hotline
+  hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Báo Giá Dịch Vụ Phục Hồi Đầu In Phun Công Nghiệp – Cam Kết No Cure No Pay

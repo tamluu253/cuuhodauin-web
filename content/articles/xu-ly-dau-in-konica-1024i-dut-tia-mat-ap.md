@@ -1,30 +1,33 @@
 ---
-title: "Xử Lý Hiện Tượng Đầu In Konica 1024i Bị Đứt Tia & Mất Áp Lực Buồng Mực"
+title: Xử Lý Hiện Tượng Đầu In Konica 1024i Bị Đứt Tia & Mất Áp Lực Buồng Mực
 keywords:
-  - "cứu hộ đầu in konica 1024i"
-  - "sửa đầu in konica km1024i she đứt tia"
-  - "súc rửa đầu in konica 512i"
-  - "phục hồi đầu phun konica km512i lnb mất áp lực"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Cứu Hộ Đầu In Konica Minolta & Seiko"
-canonical: "https://cuuhodauin.com/kien-thuc/xu-ly-dau-in-konica-1024i-dut-tia-mat-ap"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - cứu hộ đầu in konica 1024i
+  - sửa đầu in konica km1024i she đứt tia
+  - súc rửa đầu in konica 512i
+  - phục hồi đầu phun konica km512i lnb mất áp lực
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Cứu Hộ Đầu In Konica Minolta & Seiko
+canonical: 'https://cuuhodauin.com/kien-thuc/xu-ly-dau-in-konica-1024i-dut-tia-mat-ap'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "cứu hộ đầu in konica 1024i"
-  - "sửa đầu in konica km1024i she đứt tia"
-  - "súc rửa đầu in konica 512i"
-  - "phục hồi đầu phun konica km512i lnb mất áp lực"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - cứu hộ đầu in konica 1024i
+  - sửa đầu in konica km1024i she đứt tia
+  - súc rửa đầu in konica 512i
+  - phục hồi đầu phun konica km512i lnb mất áp lực
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3448
-domain: "cuuhodauin.com"
-slug: "xu-ly-dau-in-konica-1024i-dut-tia-mat-ap"
+domain: cuuhodauin.com
+slug: xu-ly-dau-in-konica-1024i-dut-tia-mat-ap
+description: >-
+  Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay - Hotline
+  hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Xử Lý Hiện Tượng Đầu In Konica 1024i Bị Đứt Tia & Mất Áp Lực Buồng Mực

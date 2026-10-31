@@ -1,30 +1,33 @@
 ---
-title: "Súc Rửa Đầu In Kyocera KJ4B Mực Nước Chuyên In Vải & Bao Bì Kỹ Thuật Số"
+title: Súc Rửa Đầu In Kyocera KJ4B Mực Nước Chuyên In Vải & Bao Bì Kỹ Thuật Số
 keywords:
-  - "cứu hộ đầu in kyocera kj4b"
-  - "súc rửa đầu in kyocera kj4b mực nước"
-  - "phục hồi đầu in kyocera kj4b máy in vải"
-  - "thông nghẹt đầu phun kyocera kj4b pigment"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Phục Hồi Đầu In Kyocera KJ4A / KJ4B Single Pass"
-canonical: "https://cuuhodauin.com/kien-thuc/suc-rua-dau-in-kyocera-kj4b-muc-nuoc"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - cứu hộ đầu in kyocera kj4b
+  - súc rửa đầu in kyocera kj4b mực nước
+  - phục hồi đầu in kyocera kj4b máy in vải
+  - thông nghẹt đầu phun kyocera kj4b pigment
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Phục Hồi Đầu In Kyocera KJ4A / KJ4B Single Pass
+canonical: 'https://cuuhodauin.com/kien-thuc/suc-rua-dau-in-kyocera-kj4b-muc-nuoc'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/kyocera-kj4a-single-pass-restoration.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/kyocera-kj4a-single-pass-restoration.jpg
+mediaExt: .jpg
 tags:
-  - "cứu hộ đầu in kyocera kj4b"
-  - "súc rửa đầu in kyocera kj4b mực nước"
-  - "phục hồi đầu in kyocera kj4b máy in vải"
-  - "thông nghẹt đầu phun kyocera kj4b pigment"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - cứu hộ đầu in kyocera kj4b
+  - súc rửa đầu in kyocera kj4b mực nước
+  - phục hồi đầu in kyocera kj4b máy in vải
+  - thông nghẹt đầu phun kyocera kj4b pigment
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3473
-domain: "cuuhodauin.com"
-slug: "suc-rua-dau-in-kyocera-kj4b-muc-nuoc"
+domain: cuuhodauin.com
+slug: suc-rua-dau-in-kyocera-kj4b-muc-nuoc
+description: >-
+  Cứu hộ và súc rửa sóng siêu âm đầu in Kyocera KJ4A UV Single Pass - Hotline hỗ
+  trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Súc Rửa Đầu In Kyocera KJ4B Mực Nước Chuyên In Vải & Bao Bì Kỹ Thuật Số

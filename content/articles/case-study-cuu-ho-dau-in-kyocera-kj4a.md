@@ -1,30 +1,33 @@
 ---
-title: "Case Study: Cứu Hộ Thành Công Đầu In Kyocera KJ4A Tiết Kiệm 80 Triệu Đồng"
+title: 'Case Study: Cứu Hộ Thành Công Đầu In Kyocera KJ4A Tiết Kiệm 80 Triệu Đồng'
 keywords:
-  - "cứu hộ đầu in kyocera kj4a"
-  - "phục hồi đầu in kyocera kj4a mực uv"
-  - "súc rửa đầu in kyocera kj4a tốc độ cao"
-  - "sửa đầu in kyocera kj4a đứt tia single pass"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Phục Hồi Đầu In Kyocera KJ4A / KJ4B Single Pass"
-canonical: "https://cuuhodauin.com/kien-thuc/case-study-cuu-ho-dau-in-kyocera-kj4a"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - cứu hộ đầu in kyocera kj4a
+  - phục hồi đầu in kyocera kj4a mực uv
+  - súc rửa đầu in kyocera kj4a tốc độ cao
+  - sửa đầu in kyocera kj4a đứt tia single pass
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Phục Hồi Đầu In Kyocera KJ4A / KJ4B Single Pass
+canonical: 'https://cuuhodauin.com/kien-thuc/case-study-cuu-ho-dau-in-kyocera-kj4a'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/kyocera-kj4a-single-pass-restoration.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/kyocera-kj4a-single-pass-restoration.jpg
+mediaExt: .jpg
 tags:
-  - "cứu hộ đầu in kyocera kj4a"
-  - "phục hồi đầu in kyocera kj4a mực uv"
-  - "súc rửa đầu in kyocera kj4a tốc độ cao"
-  - "sửa đầu in kyocera kj4a đứt tia single pass"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - cứu hộ đầu in kyocera kj4a
+  - phục hồi đầu in kyocera kj4a mực uv
+  - súc rửa đầu in kyocera kj4a tốc độ cao
+  - sửa đầu in kyocera kj4a đứt tia single pass
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3467
-domain: "cuuhodauin.com"
-slug: "case-study-cuu-ho-dau-in-kyocera-kj4a"
+domain: cuuhodauin.com
+slug: case-study-cuu-ho-dau-in-kyocera-kj4a
+description: >-
+  Cứu hộ và súc rửa sóng siêu âm đầu in Kyocera KJ4A UV Single Pass - Hotline hỗ
+  trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Case Study: Cứu Hộ Thành Công Đầu In Kyocera KJ4A Tiết Kiệm 80 Triệu Đồng

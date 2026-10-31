@@ -258,7 +258,7 @@ export default function KnowledgeCenterClient({ articles }: KnowledgeCenterClien
                 }}
                 className="px-6 py-3 bg-navy-900 text-white font-bold text-sm rounded-xl hover:bg-navy-800 transition-colors shadow-md"
               >
-                Xem Toàn Bộ 277 Bài Viết
+                Xem Toàn Bộ {articles.length} Bài Viết
               </button>
             </div>
           ) : (
@@ -267,7 +267,7 @@ export default function KnowledgeCenterClient({ articles }: KnowledgeCenterClien
               {currentArticles.map((article) => (
                 <Link
                   key={article.slug}
-                  href={`/kien-thuc/${article.slug}/`}
+                  href={`/kien-thuc/${article.slug}`}
                   className="group bg-white rounded-2xl border border-slate-200 p-6 shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col justify-between hover:-translate-y-1"
                 >
                   <div>

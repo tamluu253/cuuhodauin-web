@@ -1,30 +1,34 @@
 ---
-title: "Cách Khắc Phục Lỗi Cụm Gia Nhiệt Heater Đầu In Ricoh Gen5 Báo Lỗi Nhiệt Độ"
+title: Cách Khắc Phục Lỗi Cụm Gia Nhiệt Heater Đầu In Ricoh Gen5 Báo Lỗi Nhiệt Độ
 keywords:
-  - "sửa cụm gia nhiệt heater đầu in ricoh gen5"
-  - "lỗi cảm biến nhiệt thermistor đầu in ricoh"
-  - "khắc phục lỗi nhiệt độ đầu in ricoh gen5 gen6"
-  - "sửa mạch sưởi đầu phun ricoh"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Cứu Hộ & Phục Hồi Đầu In Ricoh Gen5 / Gen6"
-canonical: "https://cuuhodauin.com/kien-thuc/khac-phuc-loi-heater-cam-bien-nhiet-ricoh-gen5"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - sửa cụm gia nhiệt heater đầu in ricoh gen5
+  - lỗi cảm biến nhiệt thermistor đầu in ricoh
+  - khắc phục lỗi nhiệt độ đầu in ricoh gen5 gen6
+  - sửa mạch sưởi đầu phun ricoh
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Cứu Hộ & Phục Hồi Đầu In Ricoh Gen5 / Gen6
+canonical: >-
+  https://cuuhodauin.com/kien-thuc/khac-phuc-loi-heater-cam-bien-nhiet-ricoh-gen5
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/ricoh-gen5-gen6-recovery-vnpis-lab.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/ricoh-gen5-gen6-recovery-vnpis-lab.jpg
+mediaExt: .jpg
 tags:
-  - "sửa cụm gia nhiệt heater đầu in ricoh gen5"
-  - "lỗi cảm biến nhiệt thermistor đầu in ricoh"
-  - "khắc phục lỗi nhiệt độ đầu in ricoh gen5 gen6"
-  - "sửa mạch sưởi đầu phun ricoh"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - sửa cụm gia nhiệt heater đầu in ricoh gen5
+  - lỗi cảm biến nhiệt thermistor đầu in ricoh
+  - khắc phục lỗi nhiệt độ đầu in ricoh gen5 gen6
+  - sửa mạch sưởi đầu phun ricoh
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3548
-domain: "cuuhodauin.com"
-slug: "khac-phuc-loi-heater-cam-bien-nhiet-ricoh-gen5"
+domain: cuuhodauin.com
+slug: khac-phuc-loi-heater-cam-bien-nhiet-ricoh-gen5
+description: >-
+  Phục hồi cứu hộ đầu in Ricoh Gen5 Gen6 tại Phòng Lab VNPIS Bình Chánh -
+  Hotline hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Cách Khắc Phục Lỗi Cụm Gia Nhiệt Heater Đầu In Ricoh Gen5 Báo Lỗi Nhiệt Độ

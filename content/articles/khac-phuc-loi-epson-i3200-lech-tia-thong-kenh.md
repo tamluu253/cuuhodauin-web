@@ -1,30 +1,33 @@
 ---
-title: "Cách Chẩn Đoán & Khắc Phục Lỗi Đầu In Epson i3200 Bị Lệch Tia Và Thông Kênh"
+title: Cách Chẩn Đoán & Khắc Phục Lỗi Đầu In Epson i3200 Bị Lệch Tia Và Thông Kênh
 keywords:
-  - "sửa đầu in epson i3200 lệch tia thông vách"
-  - "cứu hộ đầu in epson i3200"
-  - "phục hồi đầu in epson i3200 u1 mực uv"
-  - "thông nghẹt 3200 vòi phun epson i3200"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Cứu Hộ Đầu In Epson MicroTFP / PrecisionCore"
-canonical: "https://cuuhodauin.com/kien-thuc/khac-phuc-loi-epson-i3200-lech-tia-thong-kenh"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - sửa đầu in epson i3200 lệch tia thông vách
+  - cứu hộ đầu in epson i3200
+  - phục hồi đầu in epson i3200 u1 mực uv
+  - thông nghẹt 3200 vòi phun epson i3200
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Cứu Hộ Đầu In Epson MicroTFP / PrecisionCore
+canonical: 'https://cuuhodauin.com/kien-thuc/khac-phuc-loi-epson-i3200-lech-tia-thong-kenh'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/epson-i3200-precisioncore-microtfp-cleaning.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/epson-i3200-precisioncore-microtfp-cleaning.jpg
+mediaExt: .jpg
 tags:
-  - "sửa đầu in epson i3200 lệch tia thông vách"
-  - "cứu hộ đầu in epson i3200"
-  - "phục hồi đầu in epson i3200 u1 mực uv"
-  - "thông nghẹt 3200 vòi phun epson i3200"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - sửa đầu in epson i3200 lệch tia thông vách
+  - cứu hộ đầu in epson i3200
+  - phục hồi đầu in epson i3200 u1 mực uv
+  - thông nghẹt 3200 vòi phun epson i3200
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3505
-domain: "cuuhodauin.com"
-slug: "khac-phuc-loi-epson-i3200-lech-tia-thong-kenh"
+domain: cuuhodauin.com
+slug: khac-phuc-loi-epson-i3200-lech-tia-thong-kenh
+description: >-
+  Quy trình thông tia súc rửa đầu in Epson i3200 U1 E1 chính hãng - Hotline hỗ
+  trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Cách Chẩn Đoán & Khắc Phục Lỗi Đầu In Epson i3200 Bị Lệch Tia Và Thông Kênh

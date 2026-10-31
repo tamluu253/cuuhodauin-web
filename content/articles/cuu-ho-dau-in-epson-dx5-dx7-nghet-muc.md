@@ -1,30 +1,33 @@
 ---
-title: "Cứu Hộ Đầu In Epson DX5 / DX7 Bị Tắc Do Mực Chuyển Nhiệt & Eco-Solvent"
+title: Cứu Hộ Đầu In Epson DX5 / DX7 Bị Tắc Do Mực Chuyển Nhiệt & Eco-Solvent
 keywords:
-  - "phục hồi đầu in epson dx5"
-  - "cứu hộ đầu in epson dx7"
-  - "sửa đầu in epson dx5 bị tắc tia"
-  - "thông vách đầu in epson dx5 dx7"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Cứu Hộ Đầu In Epson MicroTFP / PrecisionCore"
-canonical: "https://cuuhodauin.com/kien-thuc/cuu-ho-dau-in-epson-dx5-dx7-nghet-muc"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - phục hồi đầu in epson dx5
+  - cứu hộ đầu in epson dx7
+  - sửa đầu in epson dx5 bị tắc tia
+  - thông vách đầu in epson dx5 dx7
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Cứu Hộ Đầu In Epson MicroTFP / PrecisionCore
+canonical: 'https://cuuhodauin.com/kien-thuc/cuu-ho-dau-in-epson-dx5-dx7-nghet-muc'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/epson-i3200-precisioncore-microtfp-cleaning.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/epson-i3200-precisioncore-microtfp-cleaning.jpg
+mediaExt: .jpg
 tags:
-  - "phục hồi đầu in epson dx5"
-  - "cứu hộ đầu in epson dx7"
-  - "sửa đầu in epson dx5 bị tắc tia"
-  - "thông vách đầu in epson dx5 dx7"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - phục hồi đầu in epson dx5
+  - cứu hộ đầu in epson dx7
+  - sửa đầu in epson dx5 bị tắc tia
+  - thông vách đầu in epson dx5 dx7
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3479
-domain: "cuuhodauin.com"
-slug: "cuu-ho-dau-in-epson-dx5-dx7-nghet-muc"
+domain: cuuhodauin.com
+slug: cuu-ho-dau-in-epson-dx5-dx7-nghet-muc
+description: >-
+  Quy trình thông tia súc rửa đầu in Epson i3200 U1 E1 chính hãng - Hotline hỗ
+  trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Cứu Hộ Đầu In Epson DX5 / DX7 Bị Tắc Do Mực Chuyển Nhiệt & Eco-Solvent

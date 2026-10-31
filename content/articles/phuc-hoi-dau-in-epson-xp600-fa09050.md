@@ -1,30 +1,33 @@
 ---
-title: "Phục Hồi Đầu In Epson XP600 (FA09050) Máy In DTF & Quảng Cáo Mini Bị Nghẹt"
+title: Phục Hồi Đầu In Epson XP600 (FA09050) Máy In DTF & Quảng Cáo Mini Bị Nghẹt
 keywords:
-  - "cứu hộ đầu in epson xp600 fa09050"
-  - "phục hồi đầu in xp600 máy in dtf"
-  - "sửa đầu in epson tx800 f1080 nghẹt mực trắng"
-  - "súc rửa đầu in xp600 uv mini"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Cứu Hộ Đầu In Epson MicroTFP / PrecisionCore"
-canonical: "https://cuuhodauin.com/kien-thuc/phuc-hoi-dau-in-epson-xp600-fa09050"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - cứu hộ đầu in epson xp600 fa09050
+  - phục hồi đầu in xp600 máy in dtf
+  - sửa đầu in epson tx800 f1080 nghẹt mực trắng
+  - súc rửa đầu in xp600 uv mini
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Cứu Hộ Đầu In Epson MicroTFP / PrecisionCore
+canonical: 'https://cuuhodauin.com/kien-thuc/phuc-hoi-dau-in-epson-xp600-fa09050'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/epson-i3200-precisioncore-microtfp-cleaning.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/epson-i3200-precisioncore-microtfp-cleaning.jpg
+mediaExt: .jpg
 tags:
-  - "cứu hộ đầu in epson xp600 fa09050"
-  - "phục hồi đầu in xp600 máy in dtf"
-  - "sửa đầu in epson tx800 f1080 nghẹt mực trắng"
-  - "súc rửa đầu in xp600 uv mini"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - cứu hộ đầu in epson xp600 fa09050
+  - phục hồi đầu in xp600 máy in dtf
+  - sửa đầu in epson tx800 f1080 nghẹt mực trắng
+  - súc rửa đầu in xp600 uv mini
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3480
-domain: "cuuhodauin.com"
-slug: "phuc-hoi-dau-in-epson-xp600-fa09050"
+domain: cuuhodauin.com
+slug: phuc-hoi-dau-in-epson-xp600-fa09050
+description: >-
+  Quy trình thông tia súc rửa đầu in Epson i3200 U1 E1 chính hãng - Hotline hỗ
+  trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Phục Hồi Đầu In Epson XP600 (FA09050) Máy In DTF & Quảng Cáo Mini Bị Nghẹt

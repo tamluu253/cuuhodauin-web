@@ -1,30 +1,33 @@
 ---
-title: "Quy Trình Xả Mực & Ngâm Bảo Dưỡng Đầu In Phun Khi Nghỉ Sản Xuất Dài Ngày"
+title: Quy Trình Xả Mực & Ngâm Bảo Dưỡng Đầu In Phun Khi Nghỉ Sản Xuất Dài Ngày
 keywords:
-  - "quy trình ngâm bảo dưỡng đầu in nghỉ lễ"
-  - "dung dịch ngâm rửa vnpis flush solution"
-  - "bảo dưỡng xả mực đầu in dài ngày"
-  - "nước súc rửa đầu in chuyên dụng lab"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Kỹ Thuật Chẩn Đoán Phòng Lab & Bảo Dưỡng Phòng Ngừa"
-canonical: "https://cuuhodauin.com/kien-thuc/quy-trinh-xa-muc-ngam-bao-duong-dau-in"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - quy trình ngâm bảo dưỡng đầu in nghỉ lễ
+  - dung dịch ngâm rửa vnpis flush solution
+  - bảo dưỡng xả mực đầu in dài ngày
+  - nước súc rửa đầu in chuyên dụng lab
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Kỹ Thuật Chẩn Đoán Phòng Lab & Bảo Dưỡng Phòng Ngừa
+canonical: 'https://cuuhodauin.com/kien-thuc/quy-trinh-xa-muc-ngam-bao-duong-dau-in'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "quy trình ngâm bảo dưỡng đầu in nghỉ lễ"
-  - "dung dịch ngâm rửa vnpis flush solution"
-  - "bảo dưỡng xả mực đầu in dài ngày"
-  - "nước súc rửa đầu in chuyên dụng lab"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - quy trình ngâm bảo dưỡng đầu in nghỉ lễ
+  - dung dịch ngâm rửa vnpis flush solution
+  - bảo dưỡng xả mực đầu in dài ngày
+  - nước súc rửa đầu in chuyên dụng lab
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3539
-domain: "cuuhodauin.com"
-slug: "quy-trinh-xa-muc-ngam-bao-duong-dau-in"
+domain: cuuhodauin.com
+slug: quy-trinh-xa-muc-ngam-bao-duong-dau-in
+description: >-
+  Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay - Hotline
+  hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Quy Trình Xả Mực & Ngâm Bảo Dưỡng Đầu In Phun Khi Nghỉ Sản Xuất Dài Ngày

@@ -1,30 +1,33 @@
 ---
-title: "Case Study: Cứu Hộ Đầu In Konica 1024i Đứt Hơn 40% Tia Khôi Phục Đạt 95%"
+title: 'Case Study: Cứu Hộ Đầu In Konica 1024i Đứt Hơn 40% Tia Khôi Phục Đạt 95%'
 keywords:
-  - "phục hồi đầu phun konica km512i lnb mất áp lực"
-  - "cứu hộ đầu in konica 1024i"
-  - "súc rửa đầu in konica 512i"
-  - "sửa đầu in konica km1024i she đứt tia"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Cứu Hộ Đầu In Konica Minolta & Seiko"
-canonical: "https://cuuhodauin.com/kien-thuc/case-study-cuu-ho-konica-1024i-thanh-cong"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - phục hồi đầu phun konica km512i lnb mất áp lực
+  - cứu hộ đầu in konica 1024i
+  - súc rửa đầu in konica 512i
+  - sửa đầu in konica km1024i she đứt tia
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Cứu Hộ Đầu In Konica Minolta & Seiko
+canonical: 'https://cuuhodauin.com/kien-thuc/case-study-cuu-ho-konica-1024i-thanh-cong'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "phục hồi đầu phun konica km512i lnb mất áp lực"
-  - "cứu hộ đầu in konica 1024i"
-  - "súc rửa đầu in konica 512i"
-  - "sửa đầu in konica km1024i she đứt tia"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - phục hồi đầu phun konica km512i lnb mất áp lực
+  - cứu hộ đầu in konica 1024i
+  - súc rửa đầu in konica 512i
+  - sửa đầu in konica km1024i she đứt tia
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3503
-domain: "cuuhodauin.com"
-slug: "case-study-cuu-ho-konica-1024i-thanh-cong"
+domain: cuuhodauin.com
+slug: case-study-cuu-ho-konica-1024i-thanh-cong
+description: >-
+  Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay - Hotline
+  hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Case Study: Cứu Hộ Đầu In Konica 1024i Đứt Hơn 40% Tia Khôi Phục Đạt 95%

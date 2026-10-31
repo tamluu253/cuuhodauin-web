@@ -40,10 +40,22 @@ export function getArticleBySlug(slug: string): Article | null {
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const { data, content } = matter(fileContents);
 
+  let description = data.description;
+  if (!description || description.trim() === '') {
+    const rawLines = content.split('\n')
+      .map(l => l.trim())
+      .filter(l => l && !l.startsWith('#') && !l.startsWith('!') && !l.startsWith('---'));
+    const cleanLine = (rawLines[0] || '')
+      .replace(/\[(.*?)\]\(.*?\)/g, '$1')
+      .replace(/[\*\_`#]/g, '')
+      .trim();
+    description = cleanLine.slice(0, 160) || `Tìm hiểu chi tiết về ${data.title || 'cứu hộ đầu in'} tại VNPIS Lab.`;
+  }
+
   return {
     metadata: {
       title: data.title || 'Untitled',
-      description: data.description || '',
+      description,
       date: data.date || new Date().toISOString(),
       category: data.category || 'Khác',
       printhead: data.printhead || 'Khác',

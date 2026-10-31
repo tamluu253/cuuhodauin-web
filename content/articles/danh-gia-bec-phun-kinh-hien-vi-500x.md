@@ -1,30 +1,33 @@
 ---
-title: "Đánh Giá Tình Trạng Béc Phun Nozzle Bằng Kính Hiển Vi Kỹ Thuật Số 500x"
+title: Đánh Giá Tình Trạng Béc Phun Nozzle Bằng Kính Hiển Vi Kỹ Thuật Số 500x
 keywords:
-  - "súc rửa siêu âm tần số kép 28khz 40khz"
-  - "dung dịch ngâm rửa vnpis flush solution"
-  - "báo giá dịch vụ phục hồi đầu in no cure no pay"
-  - "quy trình ngâm bảo dưỡng đầu in nghỉ lễ"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Kỹ Thuật Chẩn Đoán Phòng Lab & Bảo Dưỡng Phòng Ngừa"
-canonical: "https://cuuhodauin.com/kien-thuc/danh-gia-bec-phun-kinh-hien-vi-500x"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - súc rửa siêu âm tần số kép 28khz 40khz
+  - dung dịch ngâm rửa vnpis flush solution
+  - báo giá dịch vụ phục hồi đầu in no cure no pay
+  - quy trình ngâm bảo dưỡng đầu in nghỉ lễ
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Kỹ Thuật Chẩn Đoán Phòng Lab & Bảo Dưỡng Phòng Ngừa
+canonical: 'https://cuuhodauin.com/kien-thuc/danh-gia-bec-phun-kinh-hien-vi-500x'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/printheads/printhead-ultrasonic-cleaning-lab-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "súc rửa siêu âm tần số kép 28khz 40khz"
-  - "dung dịch ngâm rửa vnpis flush solution"
-  - "báo giá dịch vụ phục hồi đầu in no cure no pay"
-  - "quy trình ngâm bảo dưỡng đầu in nghỉ lễ"
-  - "cuuhodauin.com"
-  - "VNPIS"
+  - súc rửa siêu âm tần số kép 28khz 40khz
+  - dung dịch ngâm rửa vnpis flush solution
+  - báo giá dịch vụ phục hồi đầu in no cure no pay
+  - quy trình ngâm bảo dưỡng đầu in nghỉ lễ
+  - cuuhodauin.com
+  - VNPIS
 wordCount: 3531
-domain: "cuuhodauin.com"
-slug: "danh-gia-bec-phun-kinh-hien-vi-500x"
+domain: cuuhodauin.com
+slug: danh-gia-bec-phun-kinh-hien-vi-500x
+description: >-
+  Phòng Lab cứu hộ đầu in công nghiệp VNPIS - Cam kết No Cure No Pay - Hotline
+  hỗ trợ kỹ thuật: Mr. Tâm: 0987 453 866 | Mr. Kevin: 0909 718 296
 ---
 
 # Đánh Giá Tình Trạng Béc Phun Nozzle Bằng Kính Hiển Vi Kỹ Thuật Số 500x
