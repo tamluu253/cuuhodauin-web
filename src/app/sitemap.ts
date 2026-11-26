@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllArticles } from '@/lib/articles';
 
-const DOMAIN = 'https://cuuhodauin.com';
+const DOMAIN = 'https://www.cuuhodauin.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles();

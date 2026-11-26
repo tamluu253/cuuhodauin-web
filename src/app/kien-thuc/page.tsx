@@ -6,12 +6,12 @@ export const metadata: Metadata = {
   title: "Kho Kiến Thức Chuyên Ngành Cứu Hộ Đầu In Kỹ Thuật Số | VNPIS Lab",
   description: "Tổng hợp gần 300 bài viết cẩm nang chuyên sâu về xử lý sự cố nghẹt đầu in Ricoh, Kyocera, Konica, Epson, CIJ & TIJ, kỹ thuật soi Nozzle 4K và đo trở kháng Piezo.",
   alternates: {
-    canonical: "https://cuuhodauin.com/kien-thuc",
+    canonical: "https://www.cuuhodauin.com/kien-thuc",
   },
   openGraph: {
     type: "website",
     locale: "vi_VN",
-    url: "https://cuuhodauin.com/kien-thuc",
+    url: "https://www.cuuhodauin.com/kien-thuc",
     siteName: "VNPIS Lab — Cứu Hộ Đầu In Kỹ Thuật Số",
     title: "Kho Kiến Thức Chuyên Ngành Cứu Hộ Đầu In Kỹ Thuật Số | VNPIS Lab",
     description: "Tổng hợp gần 300 bài viết cẩm nang chuyên sâu về xử lý sự cố nghẹt đầu in Ricoh, Kyocera, Konica, Epson, CIJ & TIJ, kỹ thuật soi Nozzle 4K và đo trở kháng Piezo.",
@@ -43,13 +43,13 @@ export default function BlogListingPage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Trang Chủ",
-        "item": "https://cuuhodauin.com"
+        "item": "https://www.cuuhodauin.com"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Kho Kiến Thức Cứu Hộ Đầu In",
-        "item": "https://cuuhodauin.com/kien-thuc"
+        "item": "https://www.cuuhodauin.com/kien-thuc"
       }
     ]
   };

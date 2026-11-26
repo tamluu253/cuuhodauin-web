@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   if (!article) return { title: "Kho Kiến Thức Cứu Hộ Đầu In | VNPIS Lab" };
   
   const isDraft = article.metadata.draft === true || article.metadata.status === 'draft';
-  const url = `https://cuuhodauin.com/kien-thuc/${params.slug}`;
+  const url = `https://www.cuuhodauin.com/kien-thuc/${params.slug}`;
   const title = `${article.metadata.title} | VNPIS Lab`;
   const description = article.metadata.description;
 
@@ -108,19 +108,19 @@ export default function ArticlePage({ params }: { params: { slug: string } }) {
         "@type": "ListItem",
         "position": 1,
         "name": "Trang Chủ",
-        "item": "https://cuuhodauin.com"
+        "item": "https://www.cuuhodauin.com"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Kiến Thức Cứu Hộ Đầu In",
-        "item": "https://cuuhodauin.com/kien-thuc"
+        "item": "https://www.cuuhodauin.com/kien-thuc"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": article.metadata.title,
-        "item": `https://cuuhodauin.com/kien-thuc/${params.slug}`
+        "item": `https://www.cuuhodauin.com/kien-thuc/${params.slug}`
       }
     ]
   };
@@ -134,20 +134,20 @@ export default function ArticlePage({ params }: { params: { slug: string } }) {
     "dateModified": article.metadata.date,
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://cuuhodauin.com/kien-thuc/${params.slug}`
+      "@id": `https://www.cuuhodauin.com/kien-thuc/${params.slug}`
     },
-    "image": "https://cuuhodauin.com/icon.png",
+    "image": "https://www.cuuhodauin.com/icon.png",
     "author": {
       "@type": "Organization",
       "name": "VNPIS Lab",
-      "url": "https://cuuhodauin.com"
+      "url": "https://www.cuuhodauin.com"
     },
     "publisher": {
       "@type": "Organization",
       "name": "VNPIS Lab",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://cuuhodauin.com/vnpis-logo.png"
+        "url": "https://www.cuuhodauin.com/vnpis-logo.png"
       }
     },
     "about": {

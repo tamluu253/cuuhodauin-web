@@ -26,6 +26,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/api/', '/dbg', '/dbg/'],
       },
     ],
-    sitemap: 'https://cuuhodauin.com/sitemap.xml',
+    sitemap: 'https://www.cuuhodauin.com/sitemap.xml',
   };
 }

@@ -4,7 +4,7 @@ import GoogleTranslate from "@/components/GoogleTranslate";
 import SchemaOrg from "@/components/SchemaOrg";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://cuuhodauin.com"),
+  metadataBase: new URL("https://www.cuuhodauin.com"),
   alternates: {
     canonical: "/",
   },
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     "vnpis lab",
     "cuuhodauin.com",
   ],
-  authors: [{ name: "VNPIS Lab", url: "https://cuuhodauin.com" }],
+  authors: [{ name: "VNPIS Lab", url: "https://www.cuuhodauin.com" }],
   creator: "VNPIS Lab",
   publisher: "CÔNG TY TNHH VNPIS",
   icons: {
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "vi_VN",
-    url: "https://cuuhodauin.com",
+    url: "https://www.cuuhodauin.com",
     siteName: "VNPIS Lab — Cứu Hộ Đầu In Kỹ Thuật Số",
     title: "VNPIS Lab — Trung tâm Cứu hộ Đầu in Kỹ thuật số số 1 Việt Nam",
     description: "Chuyên sâu cứu hộ, phục hồi 90%-98% hiệu suất, soi Nozzle 4K và đo trở kháng Piezo cho đầu in Ricoh Gen5/6, Kyocera, Konica, Epson, CIJ & TIJ. Cam kết No Cure - No Pay.",

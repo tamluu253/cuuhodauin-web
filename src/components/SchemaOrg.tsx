@@ -6,31 +6,31 @@ export default function SchemaOrg() {
     "@graph": [
       {
         "@type": "WebSite",
-        "@id": "https://cuuhodauin.com/#website",
-        "url": "https://cuuhodauin.com",
+        "@id": "https://www.cuuhodauin.com/#website",
+        "url": "https://www.cuuhodauin.com",
         "name": "VNPIS Lab — Cứu Hộ Đầu In Kỹ Thuật Số",
         "description": "Trung tâm cứu hộ, phục hồi Nozzle 4K và đo trở kháng Piezo đầu in phun công nghiệp số 1 Việt Nam.",
         "inLanguage": "vi",
         "publisher": {
-          "@id": "https://cuuhodauin.com/#organization"
+          "@id": "https://www.cuuhodauin.com/#organization"
         },
         "potentialAction": {
           "@type": "SearchAction",
           "target": {
             "@type": "EntryPoint",
-            "urlTemplate": "https://cuuhodauin.com/kien-thuc?q={search_term_string}"
+            "urlTemplate": "https://www.cuuhodauin.com/kien-thuc?q={search_term_string}"
           },
           "query-input": "required name=search_term_string"
         }
       },
       {
         "@type": ["LocalBusiness", "ProfessionalService"],
-        "@id": "https://cuuhodauin.com/#organization",
+        "@id": "https://www.cuuhodauin.com/#organization",
         "name": "VNPIS Lab - Trung tâm Cứu hộ & Phục hồi Đầu in Kỹ thuật số",
         "alternateName": ["VNPIS Lab Cứu Hộ Đầu In", "Trung Tâm Cứu Hộ Đầu In VNPIS", "cuuhodauin.com"],
-        "image": "https://cuuhodauin.com/icon.png",
-        "logo": "https://cuuhodauin.com/vnpis-logo.png",
-        "url": "https://cuuhodauin.com",
+        "image": "https://www.cuuhodauin.com/icon.png",
+        "logo": "https://www.cuuhodauin.com/vnpis-logo.png",
+        "url": "https://www.cuuhodauin.com",
         "telephone": "+84987453866",
         "email": "info@vnpis.com",
         "priceRange": "$$",
@@ -103,10 +103,10 @@ export default function SchemaOrg() {
       },
       {
         "@type": "Service",
-        "@id": "https://cuuhodauin.com/#service-cuu-ho-dau-in",
+        "@id": "https://www.cuuhodauin.com/#service-cuu-ho-dau-in",
         "name": "Dịch vụ Cứu hộ & Phục hồi Đầu in Phun Công Nghiệp",
         "provider": {
-          "@id": "https://cuuhodauin.com/#organization"
+          "@id": "https://www.cuuhodauin.com/#organization"
         },
         "serviceType": "Cứu hộ & Phục hồi đầu in",
         "description": "Phục hồi 90%-98% hiệu suất các dòng đầu in công nghiệp Ricoh Gen5/6, Kyocera KJ4A, Konica 1024i, Epson I3200, máy in date CIJ & TIJ. Cam kết No Cure - No Pay.",
@@ -114,17 +114,17 @@ export default function SchemaOrg() {
       },
       {
         "@type": "Service",
-        "@id": "https://cuuhodauin.com/#service-soi-nozzle-4k",
+        "@id": "https://www.cuuhodauin.com/#service-soi-nozzle-4k",
         "name": "Chẩn đoán Soi Nozzle 4K & Đo Trở Kháng Piezo",
         "provider": {
-          "@id": "https://cuuhodauin.com/#organization"
+          "@id": "https://www.cuuhodauin.com/#organization"
         },
         "serviceType": "Chẩn đoán kiểm định đầu in",
         "description": "Kiểm tra phóng đại 1000x bề mặt béc phun Nozzle, đo điện áp Ohm và nF buồng thạch anh Piezo nhằm chẩn đoán chính xác nguyên nhân lỗi trước khi phục hồi."
       },
       {
         "@type": "FAQPage",
-        "@id": "https://cuuhodauin.com/#faq",
+        "@id": "https://www.cuuhodauin.com/#faq",
         "mainEntity": [
           {
             "@type": "Question",
