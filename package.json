@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "gsc:sync": "node scripts/auto-gsc-sync.js"
   },
   "dependencies": {
     "@google-analytics/data": "^7.0.0",
